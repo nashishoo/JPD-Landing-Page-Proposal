@@ -16,6 +16,7 @@
   "author": "JPD Servicios Agrícolas",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "marked": "^18.0.4"
   }
 }
