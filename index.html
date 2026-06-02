@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JPD Servicios Agrícolas | Mano de Obra Calificada, Responsable y Justa</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="JPD Servicios Agrícolas conecta productores de la Región de O'Higgins con operarios calificados en cosecha y packing de cerezas y uvas. Trato digno y honestidad garantizada.">
+    <meta name="keywords" content="JPD, JPD Servicios Agricolas, Jorge Pailamilla, Kitto Pailamilla, subcontratacion agricola, temporeros, cosecha de cerezas, packing Curico, O'Higgins, Millahue, Las Cabras">
+    <meta name="author" content="JPD Servicios Agrícolas">
+    
+    <!-- Open Graph (Facebook / LinkedIn) -->
+    <meta property="og:title" content="JPD Servicios Agrícolas | Mano de Obra Calificada y Justa">
+    <meta property="og:description" content="Liderazgo en el campo chileno. Conectamos fundos agrícolas con cuadrillas profesionales de cosecha y packing bajo condiciones de trabajo justas y dignas.">
+    <meta property="og:image" content="logo texto jpd.jpg">
+    <meta property="og:url" content="https://www.jpdserviciosagricolas.cl">
+    <meta property="og:type" content="website">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Montserrat:wght@400;600;700;800&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <!-- Header / Navigation Bar -->
+    <header class="navbar-wrapper">
+        <nav class="navbar max-container" id="navbar">
+            <a href="#" class="nav-logo" id="nav-logo-link">
+                <img src="logo jpd.jpg" alt="Logo circular JPD" class="logo-badge" id="nav-logo-badge">
+                <span class="logo-text" id="nav-logo-text">JPD <span class="logo-subtext">Servicios Agrícolas</span></span>
+            </a>
+            
+            <button class="nav-toggle" aria-label="Abrir menú de navegación" id="nav-toggle-btn">
+                <span class="material-symbols-outlined">menu</span>
+            </button>
+            
+            <ul class="nav-menu" id="nav-menu-list">
+                <li><a href="#" class="nav-link active" id="link-inicio">Inicio</a></li>
+                <li><a href="#nosotros" class="nav-link" id="link-nosotros">Nosotros</a></li>
+                <li><a href="#servicios" class="nav-link" id="link-servicios">Servicios</a></li>
+                <li><a href="#testimonios" class="nav-link" id="link-testimonios">Testimonios</a></li>
+                <li><a href="#bolsa" class="nav-link btn-secondary" id="link-bolsa">Trabaja con Nosotros</a></li>
+                <li><a href="#login" class="nav-link btn-primary" id="link-login-cta">Ingresar</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section (Full-Screen Image Carousel + Brand Ticker) -->
+        <section class="hero-section" id="inicio">
+            <!-- Background Carousel -->
+            <div class="hero-carousel" id="hero-bg-carousel">
+                <!-- Slide 1: Cosecha Premium -->
+                <div class="carousel-slide active" style="background-image: linear-gradient(180deg, rgba(13, 27, 62, 0.5) 0%, rgba(13, 27, 62, 0.8) 100%), url('hero-harvest.webp');"></div>
+                <!-- Slide 2: Packing Moderno -->
+                <div class="carousel-slide" style="background-image: linear-gradient(180deg, rgba(13, 27, 62, 0.5) 0%, rgba(13, 27, 62, 0.8) 100%), url('hero-packing.webp');"></div>
+                <!-- Slide 3: Espíritu de Equipo -->
+                <div class="carousel-slide" style="background-image: linear-gradient(180deg, rgba(13, 27, 62, 0.5) 0%, rgba(13, 27, 62, 0.8) 100%), url('hero-team.webp');"></div>
+            </div>
+
+            <!-- Foreground Content (Asymmetrical Left-Aligned) -->
+            <div class="max-container hero-container">
+                <div class="hero-content">
+                    <span class="hero-badge animate-fade-in" id="hero-badge-tag">
+                        <span class="material-symbols-outlined icon-spin">verified</span> CALIDAD HUMANA Y LABORAL
+                    </span>
+                    <h1 class="hero-title animate-slide-up-1" id="hero-main-title">
+                        Sembrando Respeto, <br>
+                        <span class="text-gradient-white">Cosechando Calidad</span>
+                    </h1>
+                    <p class="hero-desc animate-slide-up-2" id="hero-description-text">
+                        Conectamos a productores de la Región de O'Higgins con equipos especializados y operarios fidelizados bajo el sello JPD.
+                    </p>
+                    <div class="hero-actions animate-slide-up-3" id="hero-actions-container">
+                        <a href="#contacto" class="btn btn-primary btn-lg" id="btn-hero-producer">Solicitar Cuadrilla</a>
+                        <a href="#bolsa" class="btn btn-secondary btn-lg" id="btn-hero-worker">Postular a Trabajo</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Carousel Controls -->
+            <div class="carousel-controls" id="hero-carousel-controls">
+                <button class="control-btn" id="prev-slide-btn" aria-label="Diapositiva Anterior">
+                    <span class="material-symbols-outlined">chevron_left</span>
+                </button>
+                <div class="carousel-indicators" id="carousel-indicators-container">
+                    <span class="indicator active" data-slide="0"></span>
+                    <span class="indicator" data-slide="1"></span>
+                    <span class="indicator" data-slide="2"></span>
+                </div>
+                <button class="control-btn" id="next-slide-btn" aria-label="Siguiente Diapositiva">
+                    <span class="material-symbols-outlined">chevron_right</span>
+                </button>
+            </div>
+
+            <!-- Brand Ticker (Infinite Scroll Ribbon) -->
+            <div class="hero-brand-banner">
+                <div class="brand-ticker-wrapper">
+                    <!-- First Ticker Group -->
+                    <div class="brand-ticker">
+                        <span class="ticker-title">EMPRESAS COLABORADORAS:</span>
+                        <span class="ticker-item">VERFRUT <span class="ticker-sub">+2M cajas</span></span>
+                        <span class="ticker-dot">•</span>
+                        <span class="ticker-item">OLISUR <span class="ticker-sub">14 años</span></span>
+                        <span class="ticker-dot">•</span>
+                        <span class="ticker-item">COPEFRUT <span class="ticker-sub">Alianza</span></span>
+                        <span class="ticker-dot">•</span>
+                        <span class="ticker-item">FUNDO MILLAHUE <span class="ticker-sub">Packing</span></span>
+                        <span class="ticker-dot">•</span>
+                        <span class="ticker-item">EXPORTADORA CURICÓ <span class="ticker-sub">Packing</span></span>
+                        <span class="ticker-dot">•</span>
+                    </div>
+                    <!-- Second Ticker Group (Duplicate for 100% seamless looping) -->
+                    <div class="brand-ticker" aria-hidden="true">
+                        <span class="ticker-title">EMPRESAS COLABORADORAS:</span>
+                        <span class="ticker-item">VERFRUT <span class="ticker-sub">+2M cajas</span></span>
+                        <span class="ticker-dot">•</span>
+                        <span class="ticker-item">OLISUR <span class="ticker-sub">14 años</span></span>
+                        <span class="ticker-dot">•</span>
+                        <span class="ticker-item">COPEFRUT <span class="ticker-sub">Alianza</span></span>
+                        <span class="ticker-dot">•</span>
+                        <span class="ticker-item">FUNDO MILLAHUE <span class="ticker-sub">Packing</span></span>
+                        <span class="ticker-dot">•</span>
+                        <span class="ticker-item">EXPORTADORA CURICÓ <span class="ticker-sub">Packing</span></span>
+                        <span class="ticker-dot">•</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Owner's Identity and Values Section -->
+        <section class="nosotros-section" id="nosotros">
+            <!-- Subtle Brand Watermark Background -->
+            <div class="brand-watermark watermark-bottom-left"></div>
+            <div class="max-container nosotros-grid">
+                <div class="nosotros-image-container scroll-reveal-left" id="nosotros-visual">
+                    <div class="photo-border-glow"></div>
+                    <!-- Direct representation of Jorge "Kitto" in grape fields -->
+                    <div class="owner-portrait-card">
+                        <span class="portrait-quote">"El trabajo en el campo dignifica"</span>
+                        <div class="owner-card-footer">
+                            <img src="logo jpd.jpg" alt="Logo circular JPD" class="owner-logo-overlay">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="nosotros-content scroll-reveal-right" id="nosotros-text">
+                    <span class="section-label" id="label-about-us">NUESTRA ESENCIA</span>
+                    <h2 class="section-title italic-quote" id="about-us-quote">
+                        "CUIDA LO QUE AMAS... PORQUE LOS RECUERDOS NO SE PUEDEN ABRAZAR"
+                    </h2>
+                    
+                    <div class="about-paragraphs">
+                        <p>
+                            En <strong>JPD Servicios Agrícolas</strong>, liderados por <strong>Don Jorge "Kitto" Pailamilla</strong>, entendemos que el motor real de la agricultura chilena no son las máquinas, sino <strong>las personas</strong>.
+                        </p>
+                        <p>
+                            Nacimos de la necesidad de establecer un estándar diferente de contratación en la Región de O'Higgins. Nos oponemos firmemente a las malas prácticas de pago e informalidad. Para nosotros, <strong>el trato humanitario, la puntualidad estricta en las remuneraciones y la seguridad del operario</strong> son nuestra ley principal.
+                        </p>
+                    </div>
+                    
+                    <div class="about-stats" id="nosotros-stats-grid">
+                        <div class="stat-card scroll-reveal reveal-delay-1">
+                            <span class="stat-number">14+ Años</span>
+                            <span class="stat-desc">Trayectoria y confianza en el sector</span>
+                        </div>
+                        <div class="stat-card scroll-reveal reveal-delay-2">
+                            <span class="stat-number">100%</span>
+                            <span class="stat-desc">Remuneraciones al día y trato digno</span>
+                        </div>
+                        <div class="stat-card scroll-reveal reveal-delay-3">
+                            <span class="stat-number">+2 Millones</span>
+                            <span class="stat-desc">Cajas procesadas, calidad garantizada</span>
+                        </div>
+                    </div>
+                    
+                    <div class="founder-signature-wrapper scroll-reveal reveal-delay-4">
+                        <div class="signature-divider"></div>
+                        <div class="signature-content">
+                            <div class="signature-name">Don Jorge "Kitto" Pailamilla</div>
+                            <div class="signature-title">Fundador de JPD Servicios Agrícolas</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section class="servicios-section" id="servicios">
+            <!-- Subtle Brand Watermark Background -->
+            <div class="brand-watermark watermark-top-right"></div>
+            <div class="max-container">
+                <div class="section-header align-center scroll-reveal">
+                    <span class="section-label" id="label-services">LO QUE HACEMOS</span>
+                    <h2 class="section-title" id="services-title">Nuestra Especialidad Operativa</h2>
+                    <p class="section-subtitle" id="services-subtitle">Garantizamos una cadena logística agrícola fluida, eficiente y éticamente coordinada en terreno.</p>
+                </div>
+                
+                <div class="servicios-grid-layout" id="services-interactive-container">
+                    <!-- Columna Izquierda: Acordeón de Tarjetas -->
+                    <div class="servicios-cards-accordion scroll-reveal-left" id="services-accordion">
+                        <div class="servicio-interactive-card" data-service="0" id="service-card-harvest">
+                            <div class="service-card-header">
+                                <div class="service-icon-box">
+                                    <span class="material-symbols-outlined">eco</span>
+                                </div>
+                                <h3>Cosecha Segura</h3>
+                            </div>
+                            <div class="service-card-body">
+                                <p>Especialistas en recolección manual de Cerezas, Uvas y frutas finas de exportación. Cuadrillas organizadas que cuidan el árbol y garantizan cero mermas.</p>
+                                <ul class="service-features">
+                                    <li><span class="material-symbols-outlined text-green">check</span> Supervisores experimentados en terreno</li>
+                                    <li><span class="material-symbols-outlined text-green">check</span> Selección rigurosa del fruto maduro</li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div class="servicio-interactive-card" data-service="1" id="service-card-packing">
+                            <div class="service-card-header">
+                                <div class="service-icon-box">
+                                    <span class="material-symbols-outlined">package_2</span>
+                                </div>
+                                <h3>Empaque y Selección</h3>
+                            </div>
+                            <div class="service-card-body">
+                                <p>Servicios especializados de packing con locomoción. Turnos continuos de Día y Noche para mantener la frescura del producto.</p>
+                                <ul class="service-features">
+                                    <li><span class="material-symbols-outlined text-green">check</span> Operarias con vasta destreza técnica</li>
+                                    <li><span class="material-symbols-outlined text-green">check</span> Adaptabilidad total a normativas sanitarias</li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div class="servicio-interactive-card highlighted-card active" data-service="2" id="service-card-advantages">
+                            <div class="service-card-header">
+                                <div class="service-icon-box bg-white-accent">
+                                    <span class="material-symbols-outlined text-blue">verified_user</span>
+                                </div>
+                                <h3>Las Ventajas de JPD</h3>
+                            </div>
+                            <div class="service-card-body">
+                                <p>Diseñamos condiciones excepcionales que fidelizan a los mejores trabajadores agrícolas de la zona, asegurando dotaciones completas.</p>
+                                <ul class="service-features text-white-contrast">
+                                    <li><span class="material-symbols-outlined text-yellow">directions_bus</span> Transporte de personal incluido</li>
+                                    <li><span class="material-symbols-outlined text-yellow">calendar_today</span> Jornadas ordenadas (Lunes a Viernes)</li>
+                                    <li><span class="material-symbols-outlined text-yellow">payments</span> Remuneraciones seguras y al día</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Columna Derecha: Stack de Imágenes Showcase -->
+                    <div class="servicios-showcase-column scroll-reveal-right">
+                        <div class="showcase-glow-border">
+                            <div class="showcase-images-frame">
+                                <div class="showcase-image" style="background-image: linear-gradient(180deg, rgba(13, 27, 62, 0.15) 0%, rgba(13, 27, 62, 0.45) 100%), url('servicios-cosecha.webp');" data-img="0"></div>
+                                <div class="showcase-image" style="background-image: linear-gradient(180deg, rgba(13, 27, 62, 0.15) 0%, rgba(13, 27, 62, 0.45) 100%), url('servicios-empaque.webp');" data-img="1"></div>
+                                <div class="showcase-image active" style="background-image: linear-gradient(180deg, rgba(13, 27, 62, 0.15) 0%, rgba(13, 27, 62, 0.45) 100%), url('servicios-ventajas.webp');" data-img="2"></div>
+                                
+                                <div class="showcase-overlay"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Gallery Section (Horizontal Operations Mosaic Tapestry) -->
+        <section class="gallery-section" id="galeria">
+            <div class="gallery-horizontal-wrapper scroll-reveal">
+                <!-- Interactive Horizontal Mosaic Track -->
+                <div class="gallery-horizontal-track" id="gallery-mosaic-grid">
+                    <!-- Item 1 (Large Mosaic Card) -->
+                    <div class="gallery-item large" data-category="campo" data-index="0">
+                        <img src="gallery/campo1.webp" alt="Campos de Olivos" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Campo y Cosecha</span>
+                            <h4 class="gallery-item-title">Olivos de OLISUR</h4>
+                            <p class="gallery-item-desc">Labores de mantención en campos de olivos de exportación.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 2 -->
+                    <div class="gallery-item" data-category="campo" data-index="1">
+                        <img src="gallery/campo2.webp" alt="Huertos de Paltos" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Campo y Cosecha</span>
+                            <h4 class="gallery-item-title">Huertos de Paltos</h4>
+                            <p class="gallery-item-desc">Cuidados y cultivo de palta Hass en laderas de Millahue.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 3 -->
+                    <div class="gallery-item" data-category="campo" data-index="2">
+                        <img src="gallery/campo3.webp" alt="Cosecha de Ciruelas" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Campo y Cosecha</span>
+                            <h4 class="gallery-item-title">Cosecha de Ciruelas</h4>
+                            <p class="gallery-item-desc">Recolección de ciruelas D'Agen en su punto óptimo de madurez.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 4 (Tall Mosaic Card) -->
+                    <div class="gallery-item tall" data-category="campo" data-index="3">
+                        <img src="gallery/grape.webp" alt="Cosecha de Uvas" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Campo y Cosecha</span>
+                            <h4 class="gallery-item-title">Cosecha de Uvas</h4>
+                            <p class="gallery-item-desc">Cuadrillas en terreno seleccionando uvas finas.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 5 -->
+                    <div class="gallery-item" data-category="campo" data-index="4">
+                        <img src="gallery/orange.webp" alt="Nuestros Cítricos" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Campo y Cosecha</span>
+                            <h4 class="gallery-item-title">Nuestros Cítricos</h4>
+                            <p class="gallery-item-desc">Labores operativas en fundos cítricos.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 6 (Wide Mosaic Card) -->
+                    <div class="gallery-item wide" data-category="packing" data-index="5">
+                        <img src="gallery/tumb-grape.webp" alt="Control de Calidad en Uvas" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Packing y Calidad</span>
+                            <h4 class="gallery-item-title">Control de Calidad en Uvas</h4>
+                            <p class="gallery-item-desc">Operario JPD supervisando cajas de uvas de exportación listas para frío.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 7 (Large Mosaic Card) -->
+                    <div class="gallery-item large" data-category="packing" data-index="6">
+                        <img src="gallery/apple-bandeja.webp" alt="Líneas de Selección" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Packing y Calidad</span>
+                            <h4 class="gallery-item-title">Líneas de Selección</h4>
+                            <p class="gallery-item-desc">Bandejas preparadas con estándares internacionales.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 8 -->
+                    <div class="gallery-item" data-category="packing" data-index="7">
+                        <img src="gallery/apple-line.webp" alt="Planta de Packing" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Packing y Calidad</span>
+                            <h4 class="gallery-item-title">Planta de Packing</h4>
+                            <p class="gallery-item-desc">Flujo constante y riguroso control de calidad.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 9 -->
+                    <div class="gallery-item" data-category="packing" data-index="8">
+                        <img src="gallery/linea-cerezas.webp" alt="Calibración de Cerezas" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Packing y Calidad</span>
+                            <h4 class="gallery-item-title">Calibración de Cerezas</h4>
+                            <p class="gallery-item-desc">Selección precisa por tamaño y firmeza.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 10 (Large Mosaic Card) -->
+                    <div class="gallery-item large" data-category="equipo" data-index="9">
+                        <img src="gallery/charla-jpd.webp" alt="Sello JPD en Terreno" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Equipo y Charlas</span>
+                            <h4 class="gallery-item-title">Sello JPD en Terreno</h4>
+                            <p class="gallery-item-desc">Jorge 'Kitto' Pailamilla liderando la inducción operativa.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 11 -->
+                    <div class="gallery-item" data-category="equipo" data-index="10">
+                        <img src="gallery/charla.webp" alt="Charla de Seguridad" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Equipo y Charlas</span>
+                            <h4 class="gallery-item-title">Charla de Seguridad</h4>
+                            <p class="gallery-item-desc">Capacitaciones diarias antes de iniciar la jornada.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 12 -->
+                    <div class="gallery-item" data-category="equipo" data-index="11">
+                        <img src="gallery/team1.webp" alt="Equipo Operativo" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Equipo y Charlas</span>
+                            <h4 class="gallery-item-title">Equipo Operativo</h4>
+                            <p class="gallery-item-desc">Cuadrillas listas para ingresar a los packing.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 13 (Wide Mosaic Card) -->
+                    <div class="gallery-item wide" data-category="packing" data-index="12">
+                        <img src="gallery/retro1.webp" alt="Planta de Packing de Uvas" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Packing y Calidad</span>
+                            <h4 class="gallery-item-title">Packing de Uvas de Mesa</h4>
+                            <p class="gallery-item-desc">Operarios seleccionando y embalando racimos de uva blanca de mesa.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 14 -->
+                    <div class="gallery-item" data-category="packing" data-index="13">
+                        <img src="gallery/retro2.webp" alt="Línea de Embalaje Truly Delicious" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Packing y Calidad</span>
+                            <h4 class="gallery-item-title">Línea de Embalaje Uvas</h4>
+                            <p class="gallery-item-desc">Selección y packing final de uva de mesa en planta Truly Delicious.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 15 (Large Mosaic Card) -->
+                    <div class="gallery-item large" data-category="sonrisas" data-index="14">
+                        <img src="gallery/smile1.webp" alt="Clima de Respeto" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Sonrisas JPD</span>
+                            <h4 class="gallery-item-title">Clima de Respeto</h4>
+                            <p class="gallery-item-desc">El valor del trabajo agrícola se ve en el rostro.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 16 -->
+                    <div class="gallery-item" data-category="sonrisas" data-index="15">
+                        <img src="gallery/smile2.webp" alt="Compromiso Alegre" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Sonrisas JPD</span>
+                            <h4 class="gallery-item-title">Compromiso Alegre</h4>
+                            <p class="gallery-item-desc">Compañerismo y energía positiva en los traslados.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 17 -->
+                    <div class="gallery-item" data-category="sonrisas" data-index="16">
+                        <img src="gallery/smile3.webp" alt="Cosechando con Alegría" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Sonrisas JPD</span>
+                            <h4 class="gallery-item-title">Cosechando con Alegría</h4>
+                            <p class="gallery-item-desc">Operarias orgullosas del fruto de su trabajo.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 18 (Tall Mosaic Card) -->
+                    <div class="gallery-item tall" data-category="sonrisas" data-index="17">
+                        <img src="gallery/smile4.webp" alt="Unión Familiar" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Sonrisas JPD</span>
+                            <h4 class="gallery-item-title">Unión Familiar</h4>
+                            <p class="gallery-item-desc">Ambiente que dignifica y une al grupo familiar.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 19 -->
+                    <div class="gallery-item" data-category="sonrisas" data-index="18">
+                        <img src="gallery/smile5.webp" alt="Operarios Fidelizados" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Sonrisas JPD</span>
+                            <h4 class="gallery-item-title">Operarios Fidelizados</h4>
+                            <p class="gallery-item-desc">Trato digno que asegura dotaciones completas.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                    <!-- Item 20 (Wide Mosaic Card) -->
+                    <div class="gallery-item wide" data-category="sonrisas" data-index="19">
+                        <img src="gallery/smile6.webp" alt="Sonrisas JPD" class="gallery-img" loading="lazy">
+                        <div class="gallery-item-overlay">
+                            <span class="gallery-item-tag">Sonrisas JPD</span>
+                            <h4 class="gallery-item-title">Sonrisas JPD</h4>
+                            <p class="gallery-item-desc">La fuerza laboral que mueve el campo chileno.</p>
+                            <span class="material-symbols-outlined gallery-zoom-icon">zoom_in</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Premium Fullscreen Lightbox Modal -->
+        <div class="gallery-lightbox" id="gallery-lightbox-modal">
+            <button class="lightbox-close" id="lightbox-close-btn" aria-label="Cerrar galería">
+                <span class="material-symbols-outlined">close</span>
+            </button>
+            <button class="lightbox-arrow lightbox-arrow-left" id="lightbox-prev-btn" aria-label="Imagen anterior">
+                <span class="material-symbols-outlined">chevron_left</span>
+            </button>
+            <div class="lightbox-content">
+                <img src="" alt="" class="lightbox-img" id="lightbox-active-img">
+                <div class="lightbox-caption">
+                    <span class="lightbox-tag" id="lightbox-active-tag">Campo y Cosecha</span>
+                    <h4 class="lightbox-title" id="lightbox-active-title">Cosecha de Cerezas</h4>
+                    <p class="lightbox-desc" id="lightbox-active-desc">Recolección manual en huertos de Curicó.</p>
+                </div>
+            </div>
+            <button class="lightbox-arrow lightbox-arrow-right" id="lightbox-next-btn" aria-label="Siguiente imagen">
+                <span class="material-symbols-outlined">chevron_right</span>
+            </button>
+        </div>
+
+        <!-- Testimonials Section (Facebook Embed Carousel) -->
+        <section class="testimonios-section" id="testimonios">
+            <!-- Subtle Brand Watermark Background -->
+            <div class="brand-watermark watermark-bottom-right"></div>
+            <div class="max-container">
+                <div class="section-header align-center scroll-reveal">
+                    <span class="section-label" id="label-testimonials">Nuestros colaboradores nos recomiendan</span>
+                    <h2 class="section-title" id="testimonials-title">Voces de nuestra familia JPD</h2>
+                    <p class="section-subtitle" id="testimonials-subtitle">Comentarios reales directamente de nuestra comunidad en Facebook</p>
+                </div>
+                
+                <!-- Facebook Embed Carousel Container -->
+                <div class="fb-carousel-container scroll-reveal reveal-delay-1" id="fb-testimonials-carousel">
+                    <!-- Navigation Arrows -->
+                    <button class="fb-carousel-arrow arrow-left" id="fb-prev-btn" aria-label="Comentario anterior">
+                        <span class="material-symbols-outlined">chevron_left</span>
+                    </button>
+                    
+                    <div class="fb-carousel-viewport">
+                        <div class="fb-carousel-track" id="fb-carousel-track">
+                            <!-- Comment 1: Enrique Bustamante (Selección 1) -->
+                            <div class="fb-comment-slide">
+                                <div class="fb-embed-card">
+                                    <div class="fb-logo-badge">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#1877f2" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                                    </div>
+                                    <div class="fb-embed-header">
+                                        <div class="fb-avatar-container">
+                                            <img src="avatar-enrique.webp" alt="Enrique Bustamante" class="fb-avatar" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                            <div class="fb-avatar-placeholder bg-blue-grad">EB</div>
+                                        </div>
+                                        <div class="fb-user-info">
+                                            <span class="fb-name">Enrique Bustamante</span>
+                                            <span class="fb-date">Hace 1 año • <span class="material-symbols-outlined fb-public-icon">public</span></span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-bubble">
+                                        <div class="fb-text">
+                                            Lo felicito amigo por su empresa muy buena y muy cumplidora en todos los aspectos. En lo personal lo digo porque también formé parte de su equipo y quedé muy satisfecho y lo mejor, cumplidor con las lukas. Espero poder volver más adelante por su empresa...
+                                        </div>
+                                        <!-- Reactions Overlay -->
+                                        <div class="fb-reactions">
+                                            <span class="fb-reaction-icons">
+                                                <span class="fb-icon-like">👍</span>
+                                                <span class="fb-icon-heart">❤️</span>
+                                            </span>
+                                            <span class="fb-reaction-count">12</span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-actions">
+                                        <span class="fb-action-btn">Me gusta</span>
+                                        <span class="fb-action-btn">Responder</span>
+                                        <span class="fb-action-btn">Compartir</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Comment 2: Isabel Carreño Perez (Selección 2) -->
+                            <div class="fb-comment-slide">
+                                <div class="fb-embed-card">
+                                    <div class="fb-logo-badge">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#1877f2" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                                    </div>
+                                    <div class="fb-embed-header">
+                                        <div class="fb-avatar-container">
+                                            <img src="avatar-isabel.webp" alt="Isabel Carreño Perez" class="fb-avatar" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                            <div class="fb-avatar-placeholder bg-green-grad">IC</div>
+                                        </div>
+                                        <div class="fb-user-info">
+                                            <span class="fb-name">Isabel Carreño Perez</span>
+                                            <span class="fb-date">Hace 2 años • <span class="material-symbols-outlined fb-public-icon">public</span></span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-bubble">
+                                        <div class="fb-text">
+                                            Ánimo Don Jorge, yo siempre he escuchado que usted es un muy buen empleador. Que pelea siempre por el bienestar de sus trabajadores, espero de corazón que se le solucionen sus problemas... y ánimo mire que lo bueno se devuelve, un abrazo.
+                                        </div>
+                                        <div class="fb-reactions">
+                                            <span class="fb-reaction-icons">
+                                                <span class="fb-icon-like">👍</span>
+                                                <span class="fb-icon-heart">❤️</span>
+                                            </span>
+                                            <span class="fb-reaction-count">8</span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-actions">
+                                        <span class="fb-action-btn">Me gusta</span>
+                                        <span class="fb-action-btn">Responder</span>
+                                        <span class="fb-action-btn">Compartir</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Comment 3: Natali Ninoska Paredes (Selección 3) -->
+                            <div class="fb-comment-slide">
+                                <div class="fb-embed-card">
+                                    <div class="fb-logo-badge">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#1877f2" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                                    </div>
+                                    <div class="fb-embed-header">
+                                        <div class="fb-avatar-container">
+                                            <img src="avatar-natali.webp" alt="Natali Ninoska Paredes" class="fb-avatar" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                            <div class="fb-avatar-placeholder bg-orange-grad">NP</div>
+                                        </div>
+                                        <div class="fb-user-info">
+                                            <span class="fb-name">Natali Ninoska Paredes</span>
+                                            <span class="fb-date">Hace 2 años • <span class="material-symbols-outlined fb-public-icon">public</span></span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-bubble">
+                                        <div class="fb-text">
+                                            Que tenga unas maravillosa fiestas junto a su familia, le deseo lo mejor. Que siga adelante como hasta ahora lleno de bendiciones y éxito. Dios quiera nos vemos en la uva...
+                                        </div>
+                                        <div class="fb-reactions">
+                                            <span class="fb-reaction-icons">
+                                                <span class="fb-icon-like">👍</span>
+                                                <span class="fb-icon-heart">❤️</span>
+                                            </span>
+                                            <span class="fb-reaction-count">15</span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-actions">
+                                        <span class="fb-action-btn">Me gusta</span>
+                                        <span class="fb-action-btn">Responder</span>
+                                        <span class="fb-action-btn">Compartir</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Comment 4: Caro Paiva (Selección 5) -->
+                            <div class="fb-comment-slide">
+                                <div class="fb-embed-card">
+                                    <div class="fb-logo-badge">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#1877f2" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                                    </div>
+                                    <div class="fb-embed-header">
+                                        <div class="fb-avatar-container">
+                                            <img src="avatar-caro.webp" alt="Caro Paiva" class="fb-avatar" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                            <div class="fb-avatar-placeholder bg-purple-grad">CP</div>
+                                        </div>
+                                        <div class="fb-user-info">
+                                            <span class="fb-name">Caro Paiva</span>
+                                            <span class="fb-date">Hace 2 años • <span class="material-symbols-outlined fb-public-icon">public</span></span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-bubble">
+                                        <div class="fb-text">
+                                            Es muy buen ambiente laboral, ojalá esté recibiendo gente.
+                                        </div>
+                                        <div class="fb-reactions">
+                                            <span class="fb-reaction-icons">
+                                                <span class="fb-icon-like">👍</span>
+                                            </span>
+                                            <span class="fb-reaction-count">5</span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-actions">
+                                        <span class="fb-action-btn">Me gusta</span>
+                                        <span class="fb-action-btn">Responder</span>
+                                        <span class="fb-action-btn">Compartir</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Comment 5: Guido Perez (Selección 8) -->
+                            <div class="fb-comment-slide">
+                                <div class="fb-embed-card">
+                                    <div class="fb-logo-badge">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#1877f2" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                                    </div>
+                                    <div class="fb-embed-header">
+                                        <div class="fb-avatar-container">
+                                            <img src="avatar-guido.webp" alt="Guido Perez" class="fb-avatar" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                            <div class="fb-avatar-placeholder bg-pink-grad">GP</div>
+                                        </div>
+                                        <div class="fb-user-info">
+                                            <span class="fb-name">Guido Perez</span>
+                                            <span class="fb-date">Hace 2 años • <span class="material-symbols-outlined fb-public-icon">public</span></span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-bubble">
+                                        <div class="fb-text">
+                                            Felicitaciones. Un buen equipo nace de un buen líder. Saludos.
+                                        </div>
+                                        <div class="fb-reactions">
+                                            <span class="fb-reaction-icons">
+                                                <span class="fb-icon-like">👍</span>
+                                            </span>
+                                            <span class="fb-reaction-count">10</span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-actions">
+                                        <span class="fb-action-btn">Me gusta</span>
+                                        <span class="fb-action-btn">Responder</span>
+                                        <span class="fb-action-btn">Compartir</span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Comment 6: Florencia y Renato Núñez (Selección 10) -->
+                            <div class="fb-comment-slide">
+                                <div class="fb-embed-card">
+                                    <div class="fb-logo-badge">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#1877f2" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                                    </div>
+                                    <div class="fb-embed-header">
+                                        <div class="fb-avatar-container">
+                                            <img src="avatar-florencia.webp" alt="Florencia y Renato Núñez" class="fb-avatar" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                            <div class="fb-avatar-placeholder bg-teal-grad">FN</div>
+                                        </div>
+                                        <div class="fb-user-info">
+                                            <span class="fb-name">Florencia y Renato Núñez</span>
+                                            <span class="fb-date">Hace 2 años • <span class="material-symbols-outlined fb-public-icon">public</span></span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-bubble">
+                                        <div class="fb-text">
+                                            Que lindo lo que hicieron como dices tú no solo es trabajo, felicidades para tu gente y la empresa.
+                                        </div>
+                                        <div class="fb-reactions">
+                                            <span class="fb-reaction-icons">
+                                                <span class="fb-icon-like">👍</span>
+                                                <span class="fb-icon-heart">❤️</span>
+                                            </span>
+                                            <span class="fb-reaction-count">14</span>
+                                        </div>
+                                    </div>
+                                    <div class="fb-actions">
+                                        <span class="fb-action-btn">Me gusta</span>
+                                        <span class="fb-action-btn">Responder</span>
+                                        <span class="fb-action-btn">Compartir</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Navigation Arrows -->
+                    <button class="fb-carousel-arrow arrow-right" id="fb-next-btn" aria-label="Siguiente comentario">
+                        <span class="material-symbols-outlined">chevron_right</span>
+                    </button>
+                </div>
+                
+                <!-- Carousel Indicators -->
+                <div class="fb-carousel-indicators" id="fb-indicators-container">
+                    <span class="fb-indicator active" data-slide="0"></span>
+                    <span class="fb-indicator" data-slide="1"></span>
+                    <span class="fb-indicator" data-slide="2"></span>
+                    <span class="fb-indicator" data-slide="3"></span>
+                    <span class="fb-indicator" data-slide="4"></span>
+                    <span class="fb-indicator" data-slide="5"></span>
+                </div>
+
+                <!-- Community Stats Banner (Glassmorphism Social Proof) -->
+                <div class="fb-stats-banner scroll-reveal">
+                    <div class="fb-stat-item">
+                        <span class="material-symbols-outlined fb-stat-icon">thumb_up</span>
+                        <div class="fb-stat-info">
+                            <span class="fb-stat-value">+5,000</span>
+                            <span class="fb-stat-label">Seguidores en Facebook</span>
+                        </div>
+                    </div>
+                    <div class="fb-stat-divider"></div>
+                    <div class="fb-stat-item">
+                        <span class="material-symbols-outlined fb-stat-icon">star</span>
+                        <div class="fb-stat-info">
+                            <span class="fb-stat-value">5.0 / 5.0</span>
+                            <span class="fb-stat-label">Calidad de Empleador</span>
+                        </div>
+                    </div>
+                    <div class="fb-stat-divider"></div>
+                    <div class="fb-stat-item">
+                        <span class="material-symbols-outlined fb-stat-icon">favorite</span>
+                        <div class="fb-stat-info">
+                            <span class="fb-stat-value">+450</span>
+                            <span class="fb-stat-label">Reacciones de Apoyo</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Brand Ticker (Infinite Scroll Ribbon) - Copied between Testimonials and Contact Portal -->
+        <div class="hero-brand-banner brand-banner-copy">
+            <div class="brand-ticker-wrapper">
+                <!-- First Ticker Group -->
+                <div class="brand-ticker">
+                    <span class="ticker-title">EMPRESAS COLABORADORAS:</span>
+                    <span class="ticker-item">VERFRUT <span class="ticker-sub">+2M cajas</span></span>
+                    <span class="ticker-dot">•</span>
+                    <span class="ticker-item">OLISUR <span class="ticker-sub">14 años</span></span>
+                    <span class="ticker-dot">•</span>
+                    <span class="ticker-item">COPEFRUT <span class="ticker-sub">Alianza</span></span>
+                    <span class="ticker-dot">•</span>
+                    <span class="ticker-item">FUNDO MILLAHUE <span class="ticker-sub">Packing</span></span>
+                    <span class="ticker-dot">•</span>
+                    <span class="ticker-item">EXPORTADORA CURICÓ <span class="ticker-sub">Packing</span></span>
+                    <span class="ticker-dot">•</span>
+                </div>
+                <!-- Second Ticker Group (Duplicate for 100% seamless looping) -->
+                <div class="brand-ticker" aria-hidden="true">
+                    <span class="ticker-title">EMPRESAS COLABORADORAS:</span>
+                    <span class="ticker-item">VERFRUT <span class="ticker-sub">+2M cajas</span></span>
+                    <span class="ticker-dot">•</span>
+                    <span class="ticker-item">OLISUR <span class="ticker-sub">14 años</span></span>
+                    <span class="ticker-dot">•</span>
+                    <span class="ticker-item">COPEFRUT <span class="ticker-sub">Alianza</span></span>
+                    <span class="ticker-dot">•</span>
+                    <span class="ticker-item">FUNDO MILLAHUE <span class="ticker-sub">Packing</span></span>
+                    <span class="ticker-dot">•</span>
+                    <span class="ticker-item">EXPORTADORA CURICÓ <span class="ticker-sub">Packing</span></span>
+                    <span class="ticker-dot">•</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Registration Portal (Dual Forms) -->
+        <section class="portal-section" id="bolsa">
+            <!-- Subtle Brand Watermark Background -->
+            <div class="brand-watermark watermark-top-left"></div>
+            <div class="max-container portal-grid">
+                <!-- Producer Portal -->
+                <div class="portal-card producer-card blurred-state scroll-reveal-left" id="producer-portal-box">
+                    <!-- Premium Portal Overlay Cartel -->
+                    <div class="portal-card-overlay" id="producer-card-overlay">
+                        <button type="button" class="btn-cartel" id="btn-unlock-producer">
+                            <span class="material-symbols-outlined cartel-icon">corporate_fare</span>
+                            <span class="cartel-text">SUBCONTRATACIÓN</span>
+                            <span class="cartel-subtext">Click para formulario empresas</span>
+                        </button>
+                    </div>
+
+                    <div class="portal-header">
+                        <span class="portal-tag text-blue" id="tag-producers">SERVICIOS DE SUBCONTRATACIÓN</span>
+                        <h3 class="portal-title">¿Necesitas personal?</h3>
+                        <p class="portal-desc">Solicite cuadrillas profesionales de cosecha o empaque para asegurar la calidad y plazos de sus frutas.</p>
+                    </div>
+                    
+                    <form class="portal-form" id="producer-form">
+                        <div class="form-group">
+                            <label for="prod-name">Nombre del Representante o Fundo</label>
+                            <input type="text" id="prod-name" class="form-input" placeholder="Ej: Fundo Los Cerezos" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="prod-fruit">Tipo de Cultivo / Fruta</label>
+                            <input type="text" id="prod-fruit" class="form-input" placeholder="Ej: Cerezas, Uvas, etc." required>
+                        </div>
+                        <div class="form-group">
+                            <label for="prod-contact">Teléfono de Contacto</label>
+                            <input type="tel" id="prod-contact" class="form-input" placeholder="Ej: +56 9 1234 5678" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="prod-message">Mensaje o Requerimientos Adicionales</label>
+                            <textarea id="prod-message" class="form-textarea" placeholder="Describa brevemente el personal que necesita (cantidad, fechas estimadas, etc.)..."></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block uppercase-track">Enviar Solicitud Operativa</button>
+                    </form>
+                    <div class="form-status" id="producer-form-status"></div>
+                </div>
+                
+                <!-- Worker Portal -->
+                <div class="portal-card worker-card scroll-reveal-right" id="worker-portal-box">
+                    <div class="portal-header">
+                        <span class="portal-tag text-green" id="tag-workers">ÚNASE A LA FAMILIA JPD</span>
+                        <h3 class="portal-title">¿Buscas Trabajo?</h3>
+                        <p class="portal-desc">Inscribase hoy y sea parte de la familia JPD, pagos puntuales, transporte seguro y turnos estables</p>
+                    </div>
+                    
+                    <form class="portal-form" id="worker-form">
+                        <div class="form-group">
+                            <label for="work-name">Nombre Completo</label>
+                            <input type="text" id="work-name" class="form-input" placeholder="Ej: Juan Pérez González" required>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="work-phone">Teléfono de Contacto</label>
+                                <input type="tel" id="work-phone" class="form-input" placeholder="Ej: +56 9 8765 4321" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="work-commune">Comuna de Residencia</label>
+                                <input type="text" id="work-commune" class="form-input" placeholder="Ej: Las Cabras" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="work-area">Trabajos Disponibles</label>
+                            <select id="work-area" class="form-select" disabled>
+                                <option value="" disabled selected>Sin Ofertas Disponibles</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="work-message">Mensaje, Experiencia o Comentarios</label>
+                            <textarea id="work-message" class="form-textarea" placeholder="Describa brevemente su experiencia en el campo (cosecha, packing, etc.)..."></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label>Adjuntar Currículum Vitae (CV)</label>
+                            <div class="file-upload-wrapper">
+                                <input type="file" id="work-cv" class="file-upload-input" accept=".pdf,.doc,.docx">
+                                <div class="file-upload-design">
+                                    <span class="material-symbols-outlined upload-icon">cloud_upload</span>
+                                    <span class="upload-text">Seleccionar o arrastrar archivo CV</span>
+                                    <span class="upload-subtext">Formatos permitidos: PDF, Word (Max: 5MB)</span>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-secondary btn-block uppercase-track">Inscribirse Ahora Mismo</button>
+                    </form>
+                    <div class="form-status" id="worker-form-status"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Geolocation Section (Ubicación Google Maps) -->
+        <section class="ubicacion-section" id="ubicacion">
+            <div class="max-container ubicacion-grid scroll-reveal">
+                <div class="ubicacion-info">
+                    <span class="section-label">DÓNDE ESTAMOS</span>
+                    <h2 class="section-title">Base de Operaciones</h2>
+                    <p class="section-subtitle" style="margin: 0;">Estamos ubicados en la Región de O'Higgins, coordinando traslados diarios y soporte técnico para todos los fundos de la zona.</p>
+                    
+                    <div class="ubicacion-card" style="margin-top: 24px;">
+                        <ul class="info-list">
+                            <li class="info-item">
+                                <div class="info-icon-box">
+                                    <span class="material-symbols-outlined">location_on</span>
+                                </div>
+                                <div class="info-details">
+                                    <span class="info-title">Dirección Central</span>
+                                    <span class="info-value">Gral. Jose Miguel Carrera 422, Segundo Piso, Las Cabras, O'Higgins</span>
+                                </div>
+                            </li>
+                            <li class="info-item">
+                                <div class="info-icon-box">
+                                    <span class="material-symbols-outlined">call</span>
+                                </div>
+                                <div class="info-details">
+                                    <span class="info-title">Teléfono Corporativo</span>
+                                    <span class="info-value"><a href="tel:+56944245285">+56 9 4424 5285</a></span>
+                                </div>
+                            </li>
+                            <li class="info-item">
+                                <div class="info-icon-box">
+                                    <span class="material-symbols-outlined">mail</span>
+                                </div>
+                                <div class="info-details">
+                                    <span class="info-title">Correo Electrónico</span>
+                                    <span class="info-value"><a href="mailto:contacto@jpdserviciosagricolas.cl">contacto@jpdserviciosagricolas.cl</a></span>
+                                </div>
+                            </li>
+                            <li class="info-item">
+                                <div class="info-icon-box">
+                                    <span class="material-symbols-outlined">schedule</span>
+                                </div>
+                                <div class="info-details">
+                                    <span class="info-title">Horario de Atención</span>
+                                    <span class="info-value">Lunes a Viernes: 08:00 - 18:00 | Sábado: 09:00 - 14:00</span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="map-showcase">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3316.1130635293225!2d-71.31153612429454!3d-34.29133187301646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96638500116deabd%3A0x2a74cf4382b3bb8a!2sJPD+SERVICIOS+AGR%C3%8DCOLAS+-+ADMINISTRACI%C3%93N!5e0!3m2!1ses-419!2scl!4v1717298328000!5m2!1ses-419!2scl" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="site-footer" id="contacto">
+        <div class="max-container footer-grid">
+            <!-- Branding, Logo, and Maps representation -->
+            <div class="footer-brand-column scroll-reveal" id="footer-branding">
+                <div class="footer-logo">
+                    <img src="logo jpd.jpg" alt="Logo de JPD" class="logo-badge-footer">
+                    <span class="footer-logo-title">JPD <span class="logo-subtext">Servicios Agrícolas</span></span>
+                </div>
+                <p class="footer-brand-desc">
+                    Liderazgo, transparencia y compromiso en el campo chileno. Transformamos la externalización de mano de obra agrícola priorizando el bienestar de las personas.
+                </p>
+                <div class="footer-location-map" id="map-visual">
+                    <div class="map-placeholder">
+                        <span class="material-symbols-outlined map-icon">location_on</span>
+                        <div class="map-text">
+                            <strong>Nuestra Base Operativa:</strong><br>
+                            Gral. Jose Miguel Carrera 422, Segundo Piso, Las Cabras, O'Higgins
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Quick Contact info -->
+            <div class="footer-contact-column scroll-reveal reveal-delay-1" id="footer-contact-info">
+                <h3>Contacto Directo</h3>
+                <ul class="footer-contact-list">
+                    <li>
+                        <span class="material-symbols-outlined footer-list-icon">call</span>
+                        <div class="contact-details">
+                            <span class="contact-label">Llámenos Directamente</span>
+                            <a href="tel:+56944245285" class="contact-value">+56 9 4424 5285</a>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="material-symbols-outlined footer-list-icon">mail</span>
+                        <div class="contact-details">
+                            <span class="contact-label">Correo Electrónico</span>
+                            <a href="mailto:jrpd546@yahoo.com" class="contact-value">jrpd546@yahoo.com</a>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="material-symbols-outlined footer-list-icon">pin_drop</span>
+                        <div class="contact-details">
+                            <span class="contact-label">Ubicación Oficina</span>
+                            <span class="contact-value">Gral. Jose Miguel Carrera 422, Segundo Piso, Las Cabras, O'Higgins</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            
+            <!-- Social Responsibility support -->
+            <div class="footer-community-column scroll-reveal reveal-delay-2" id="footer-social-resp">
+                <h3>Responsabilidad Social</h3>
+                <p class="community-desc">
+                    Nos enorgullece respaldar activamente a nuestra comunidad local. Apoyamos el deporte y el desarrollo escolar del <strong>Colegio Luis García de la Huerta</strong>, sembrando el futuro para las próximas generaciones rurales de la comuna.
+                </p>
+                <div class="community-logos">
+                    <span class="material-symbols-outlined comm-icon">verified</span>
+                    <span class="material-symbols-outlined comm-icon">school</span>
+                    <span class="material-symbols-outlined comm-icon">sports_soccer</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <div class="max-container footer-bottom-container">
+                <p class="footer-copyright">&copy; 2026 JPD Servicios Agrícolas. Todos los derechos reservados. Diseñado por <a href="https://github.com/nashishoo" target="_blank" rel="noopener noreferrer" class="brand-catapaz">Catapaz</a>.</p>
+                <div class="footer-links">
+                    <a href="#">Políticas de Privacidad</a>
+                    <a href="#">Términos y Condiciones</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Login Modal Mockup -->
+    <div class="login-modal-overlay" id="login-modal">
+        <div class="login-modal-card">
+            <button class="login-close-btn" id="login-close-btn" aria-label="Cerrar modal">
+                <span class="material-symbols-outlined">close</span>
+            </button>
+            <div class="login-modal-header">
+                <img src="logo jpd.jpg" alt="Logo de JPD" class="login-logo">
+                <h3 class="login-title">Ingresar al Portal</h3>
+                <p class="login-subtitle">Acceso exclusivo para administradores y colaboradores JPD</p>
+            </div>
+            <form class="portal-form" id="login-form">
+                <div class="form-group">
+                    <label for="login-username">Usuario o Correo Electrónico</label>
+                    <input type="text" id="login-username" class="form-input" placeholder="Ej: admin@jpdserviciosagricolas.cl" required>
+                </div>
+                <div class="form-group">
+                    <label for="login-password">Contraseña</label>
+                    <input type="password" id="login-password" class="form-input" placeholder="••••••••" required>
+                </div>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; font-size: 0.8rem; font-weight: 500;">
+                    <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; color: var(--gray-text);">
+                        <input type="checkbox" style="accent-color: var(--primary-color);"> Recordarme
+                    </label>
+                    <a href="#" style="color: var(--primary-color); text-decoration: none;" onclick="alert('Funcionalidad de recuperación simulada. Contacte soporte técnico.'); return false;">¿Olvidó su contraseña?</a>
+                </div>
+                <button type="submit" class="btn btn-primary btn-block uppercase-track">Iniciar Sesión</button>
+            </form>
+            <div class="form-status" id="login-form-status" style="margin-top: 16px;"></div>
+        </div>
+    </div>
+
+    <!-- Custom Script -->
+    <script src="index.js"></script>
+</body>
+</html>

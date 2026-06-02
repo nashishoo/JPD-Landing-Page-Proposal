@@ -1,0 +1,1020 @@
+{
+    "brand_identity": {
+        "name": "JPD Servicios Agrícolas",
+        "founder": "Jorge Pailamilla Duarte (Kitto)",
+        "location": "Las Cabras, Región de O'Higgins, Chile",
+        "slogan": "CUIDA LO QUE AMAS... PORQUE LOS RECUERDOS NO SE PUEDEN ABRAZAR",
+        "mission_statement": "Empresa Líder en prestación de mano de obra. Cuenta con personal Calificado, Responsable y con muchos años de experiencia.",
+        "core_values": [
+            {
+                "value": "Trato Justo y Dignidad",
+                "description": "Luchar por la igualdad de condiciones entre el personal contratista y de planta, asegurando un ambiente de respeto mutuo."
+            },
+            {
+                "value": "Cumplimiento y Confianza Financiera",
+                "description": "Responsabilidad absoluta y puntualidad extrema en el pago de los salarios ('cumplidores con las lukas')."
+            },
+            {
+                "value": "Compromiso Social",
+                "description": "Aportar de forma activa al desarrollo de la comunidad local, apoyando el deporte infantil y escuelas rurales."
+            },
+            {
+                "value": "Bienestar Integral",
+                "description": "Fomentar un clima laboral alegre y dinámico, promoviendo pausas activas y recreación (clases de zumba, dinámicas de grupo)."
+            }
+        ]
+    },
+    "testimonials": [
+        {
+            "author": "Marlen Rodriguez",
+            "text": "Ver este video me trajo lindos recuerdos fue un gusto trabajar ahi",
+            "source": "Comentario de Facebook"
+        },
+        {
+            "author": "Enrique Bustamante",
+            "text": "Lo felizitos amigo por su empresa muy vuena y muy cumplidoras en todos los aspecto en lo personal lo dijo por que tambien ferme parte de su equipo y quede muy satifecho y lo mejor cumplidor con las lukas espero poder volver mas adelante por su empresa ...",
+            "source": "Comentario de Facebook"
+        },
+        {
+            "author": "Equipazo y Muy Buen Grupo..",
+            "text": "Carlos Pavez así es un grupo espectacular… que lindos recuerdos",
+            "source": "Comentario de Facebook"
+        },
+        {
+            "author": "Jorge Pailamilla Duarte",
+            "text": "Lindos recuerdos!!!",
+            "source": "Comentario de Facebook"
+        },
+        {
+            "author": "Sandra Romero",
+            "text": "Gracias a Dios no pasó nada más grave a seguir adelante y a levantarse para volver a construir nuestro lugar de trabajo ya volveremos. Que Dios lo bendiga don Jorge, tenga fe que Dios está con usted.",
+            "source": "Comentario de Facebook"
+        },
+        {
+            "author": "Juan Miguel Quijada Muñoz",
+            "text": "Bendiciones Amigo... siempre es bueno que al amigo le vaya bien en su trabajo... para eso se saca la chucha... un abrazo de su amigo quijotito.",
+            "source": "Comentario de Facebook"
+        }
+    ],
+    "cleaned_posts": [
+        {
+            "id": 1,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nLlame yaaa!!!!\nJorge Pailamilla Duarte\nCasa azul nueva..\n3 dormitorios...",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/710079270_10244395540648463_490225511841128860_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-OZ_5EIKAy8Q7kNvwFx0GeD&_nc_oc=AdoFsDABt8Vyn4mN_VU_WNYtnn4PzajXl-K1l5l8RzkYbZV-UWIpht_J0q8ztt7HR7OqqQaZEWetousKeByEtgXo&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=YtLq0-u0KSYJq22_K3d2Ew&_nc_ss=7b289&oh=00_Af_JLzU2RZDs7BdNNcjQOyXl__QjzsroDvLGjjf60-CyRw&oe=6A239907",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/710745726_10244395420805467_8481893056531825708_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=7qkMtwUWUzAQ7kNvwHmbP1A&_nc_oc=Adq1SNYbsQzbk9Upop64mhcUCspeJQmEBDqvv1GvUA4Y1jcl0pZ9k_HA5cF-yITtFvfFORICuGsZLegBSDzNn3wb&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=YtLq0-u0KSYJq22_K3d2Ew&_nc_ss=7b289&oh=00_Af8cXMjlBjqygFZ5zSdxuOPz-MSnLGVsOpklEJ5VzQO73w&oe=6A239D6E"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nestá con\n56 personas más\nHola a todos\nDebido a las muchas llamadas y mensajes solicitando trabajo queremos informar que lamentablemente no tenemos más cupos ni de dia ni de noche.....",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518398195_10239756031983646_8524719021210094570_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_jZnXo8GmLUQ7kNvwEa4PjC&_nc_oc=AdqAAUKqrJFjcMXJ5hv3hJNu1uF7G6IXvPQATvpNM5h1Bt_WQXpPy8fdWKjwE6fr4JrXWlmGdvBwIMQ1PmZG78Ug&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Zz9KnFgqftwdNFavH1c--Q&_nc_ss=7b289&oh=00_Af9GEQ5Jio4Gw0juciDKWSk81ZJXiAZXdOSyDxxvszeAeQ&oe=6A237E8E"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nestá con\nMaria Paz Duarte\n17 personas más\nY llegó la última….\nCreo q la más esperada.....",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/517913613_10239749903230431_826567983304244756_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=RyfxH3_RCjYQ7kNvwHi_Vz5&_nc_oc=Adp10yvZtkXJcnOyou3x3rbs_2GKVn7GXnxeiw_4VGMc2xC8nPVuC1VbnIaSlAYotkTFxhrYsK9wFq9nm6VNOab-&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Zz9KnFgqftwdNFavH1c--Q&_nc_ss=7b289&oh=00_Af-gB8Z1NFlqp0XB7P4cvcBRZSJIfPT5LVCxGxWmvKtpQQ&oe=6A2387AB",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518240358_10239749905670492_5391469226392645171_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JBpzw36bcP8Q7kNvwF1Ps0D&_nc_oc=AdqkGxrJ8WkpE5sGw4dtGs5W4Qoh1Lha_jj-yr8UNSFKBK4ksUokJ_jS_q9-Nuoc7It4WyYC1QSXU06_QOVE5Yui&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Zz9KnFgqftwdNFavH1c--Q&_nc_ss=7b289&oh=00_Af9nB0ykX7f0a_F1pgf2uUEQwnFjf-uiKgFe6y6s0MY3KQ&oe=6A237409",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/517426703_10239749903790445_2695899932936205989_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pOPOYhOmZUMQ7kNvwHLDPdK&_nc_oc=AdpTZpEVU1goP6dSCXvS7hc77Gdcv9fIKmSS6cGlD-ByC31_5uVCz5Tr05zOBKARXOWWqaJf9iAHGbs2E6or2wED&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Zz9KnFgqftwdNFavH1c--Q&_nc_ss=7b289&oh=00_Af_84mLDU9Jh_Bj38wISU6xEL-CSZ1IgyIcskO1US_Q0Zg&oe=6A2396D9"
+            ]
+        },
+        {
+            "id": 4,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nMarlen Rodriguez\nVer este video me trajo lindos recuerdos fue un gusto trabajar ahi\nMarlen Rodriguez la esperamos este año",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/469158034_450363321435191_7222093778424337744_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZRek2ISHy0UQ7kNvwHmB_Bt&_nc_oc=Ado8Zajh8yRDlQyng4sRJ_7PVZiSFTLe0eR_1KHn8ssgppMyHSGqVUNx2wIl0gsnJOevyZe4uwhfQTfSTk0NlKDv&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Zz9KnFgqftwdNFavH1c--Q&_nc_ss=7b289&oh=00_Af9GbJ8WlVKXzAhbbc90xpvxAAiAAwWNuaRx4cK3iKRbjg&oe=6A2391ED"
+            ]
+        },
+        {
+            "id": 5,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nMarlen Rodriguez la esperamos este año",
+            "images": []
+        },
+        {
+            "id": 6,
+            "category": "Operaciones y Cosechas",
+            "text": "JPD Servicios Agrícolas\nestá con\n20 personas más\nAtención amigos y amigas de San Vicente y sus alrededores…Jpd quiere abrir una nueva ruta laboral e invitarte a trabajar con nosotros en el packing de cerezas(turno noc...\nJorge Jara Diaz\nhola buenas noches pasa por pichidegua",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/512676298_10238921619843864_59865204400822150_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_NzBlq7PJK0Q7kNvwEGubfi&_nc_oc=AdpfV5HSqu0i-cBpinzKCoFyGErw8Iivt8oFLez6sN07arQ4xnZVMUIzSkSDZJPX6xphv47tqsYUywfQS-QNrwqq&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=6cAsndLSuT-xM_csRxbkqQ&_nc_ss=7b289&oh=00_Af-xXQ_mudNDBXj4SD_xQn_F1-u0CoB0OuZumWJL1so0yg&oe=6A237A22",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/513627713_10238921623643959_2991769351006652037_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=U-YZ_iLAnPEQ7kNvwF6CJVr&_nc_oc=AdoggtZ8jyIwr0nxiNVh4uJXK4BW-KFVaN78pYf3z9Igjvc9-SnB8KeQqe_MjWvwDgC89wxxZIXcjgqtsziAPnJG&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=6cAsndLSuT-xM_csRxbkqQ&_nc_ss=7b289&oh=00_Af8HL3xvZLOhjTHqp3fRIaKYRTlTP2Oxb7hzCVF6Mf-opw&oe=6A238D8F",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/513746995_10238921622123921_7823608998884293403_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=i5FX7KgY9L0Q7kNvwFajeUZ&_nc_oc=Ado731k6ijYd3f0Wmho1njjB8aFdTAAikxGfrPVKKkC1B0t94mdvgeCuY97zVNGcBoRm3UBqrZWPLlRFpfjBI1sq&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=6cAsndLSuT-xM_csRxbkqQ&_nc_ss=7b289&oh=00_Af_sDcH2Fu1x_H-Lo2LrRbwOtCfsiOFqjkf5nRjqEU-L1A&oe=6A23960E"
+            ]
+        },
+        {
+            "id": 7,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nFeliz cumple mi niña",
+            "images": []
+        },
+        {
+            "id": 8,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nGran oportunidad Laboral!!!\nEste contenido no está disponible en este momento\nPor lo general, esto sucede porque el propietario ha compartido el contenido solo con un grupo reducido de personas, ha modificado quién puede verlo o se ha eliminado.",
+            "images": []
+        },
+        {
+            "id": 9,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nConsejo del día..\nDebido a las apariciones de nuevas empresas contratistas que creen que trabajar en esto es tirar y abrazarse queremos recordarles a uds queridos tra...\nJessica Arzola Caro\nGracias buen consejos\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/489833509_1227811329352032_1011307712991152745_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dm0TPjcdlekQ7kNvwHX_p7g&_nc_oc=Adqz3nIOBfyw2lYMKnHHG2cyU4fT3F-wfUFCpXBtCPZcLP8nMYd7NwSV0Wj5XjPYtfi8-AsihfRfoO4xFN7G9Cso&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=_MnvhbTvJMwBV6A1c149kw&_nc_ss=7b289&oh=00_Af-TS1zpe7SoBchCeYfeMTig6sE4L4NrsKN4Vh6m57YjXQ&oe=6A2373B6"
+            ]
+        },
+        {
+            "id": 10,
+            "category": "Operaciones y Cosechas",
+            "text": "JPD Servicios Agrícolas\nLlame ya!!!!!!!\nestá con\n81 personas más\nInformación Laboral\nEntre el 15 y 20 de noviembre daremos inicio como todos los años a la esperada cosecha de cerezas en Millahue.....",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/509102308_10238705499320986_6232663832155056867_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=c4WESieHdooQ7kNvwGScCp5&_nc_oc=AdoWlGtQjuxoSrwAJj-bfiYD6NF5NeERPdDoqGkspIZxWKccOxI3FomsB7dy49t7NNN7m2Utyj2rQn-mnVKUTryD&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=_MnvhbTvJMwBV6A1c149kw&_nc_ss=7b289&oh=00_Af-nvOCunuvPtzfJryFxuDk4wMdoyDCa1Rh3zM5c-_t_pg&oe=6A236FE5",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508501665_10238705499120981_1289784477796118810_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=S6RlSYopygQQ7kNvwE8c83F&_nc_oc=AdpyDrW13qMmU0I9lo4WoN4-06hP8qi0EN-IIqFCP2C4zpmQfTYgkcy2OLxhuViUii8bHiNUAfVNCZWi8rNxXlnN&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=_MnvhbTvJMwBV6A1c149kw&_nc_ss=7b289&oh=00_Af9rXnWdd7s_243fXv-EQoYPz3ZtBCXs3wNxPJwUS0fQtg&oe=6A23A40F",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508555713_10238705498920976_8866273133618091702_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_6jptlDMQYAQ7kNvwFkrlbF&_nc_oc=AdpaDtLO-wgq60eKqjmME9oDPiCMsasHwa_jeIQk1ECWRByA0Nq1c--bmEjLi2H1wtsvJfqE6tovgGKcJiUMTyoL&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=_MnvhbTvJMwBV6A1c149kw&_nc_ss=7b289&oh=00_Af-TeWYMLtKG47KRZX5-1k021p3xkwVSFW3rt3Up7fDnWQ&oe=6A237814"
+            ]
+        },
+        {
+            "id": 11,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nDescansa en Paz querida Eliana…\nCarmen Gloria Donoso Farias\nUna noticia muy triste .para las que conocemos la familia Descansa En paz Eliana .Un Abrazo Al Cielo\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/488076802_1224419753024523_9051354876632732358_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0jYNKyk-b4AQ7kNvwFL-IxY&_nc_oc=Adq-GZTb1I5EbQIwS_Hr5esc8G8XZDVzlIe9_KwO73jjyWsqo5TsNzhoo5bsWTyZNqY9hhWyxrJeojO2jCWxyq3u&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=_MnvhbTvJMwBV6A1c149kw&_nc_ss=7b289&oh=00_Af-QUJVnWIvOzBxR5nwpx3DwZg9ZabAds4UIkuQCnyAPIQ&oe=6A238624"
+            ]
+        },
+        {
+            "id": 12,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nMe ayudan con los nombres…\nYo empiezo.....\nAna Mardones\nJorge Cabeza , Josè Alarcon ( Pepe ) , Sergio Ortega , Mauricio Jimenez , Carlos Poblete , Luis Farias .\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508110231_10238667706576191_4618806007900526758_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-qp-ME4WsKcQ7kNvwE-cwPD&_nc_oc=Adqug1q_JUtYZ3dFb0F7aHTH50z2ujXfWXg3KlA7CGNhGSjv1jLPJW60In2xHoOnIQ0jNBKhvx1i85F-AdAqzABt&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=fWcMuXfMADI4EZoX93IJvQ&_nc_ss=7b289&oh=00_Af8HgPUa_2SGpc-ppLYUa-9vHH_NIUHY-9RMsBhyQQcUxQ&oe=6A237489"
+            ]
+        },
+        {
+            "id": 13,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nInformándonos para realizar como siempre lo correcto!!!\nNo Fernando salió con Alfonso Duarte\n3 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/486283025_1215075337292298_1747905021983736374_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zo9I9RYaGEcQ7kNvwE8M5wQ&_nc_oc=Adre_qpuTEO6aXcW3nyydH0hWts-wN50cp8b0X91pMsJT8zML8RMrle5gR-LQtaFakcdfcnO4MQb6uddw2BoTk6Z&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=fWcMuXfMADI4EZoX93IJvQ&_nc_ss=7b289&oh=00_Af_la9p82Js-pfmUihGTGch9YNnfDzUbB8B-T4gGbMdACQ&oe=6A237182",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/486280220_1215075477292284_3050538696075799285_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=m7N1MpUvnEwQ7kNvwGnmWnx&_nc_oc=Adohdw6C1EcJZypkjsoR9GRNkRtGxGMWvJmAQyGBkrPgPIqcw8JfxGqMujqy6AOTCC6CowoDomT_YzTtuaKZbtto&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=fWcMuXfMADI4EZoX93IJvQ&_nc_ss=7b289&oh=00_Af-FyJjdGex_H7-AmCxGwrYyAA3xlneSl5Ue2ZSpqNAq1g&oe=6A238AEA",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/486642637_1215075153958983_6338827629416169580_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=z3aNseOQ69MQ7kNvwHwjF3z&_nc_oc=AdrbFpBHr-3wUCSUCjdBy1ZjesKZJQq9nYKQFoBnG1aeDeUhWGooXX8QNeS597a4nMHwBUeOs22je9Mq1a4Vz7MU&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=fWcMuXfMADI4EZoX93IJvQ&_nc_ss=7b289&oh=00_Af_e-Cm0WFnibHrop--blWzyfainR6DGw4VwSXUBtRmYow&oe=6A2385EA"
+            ]
+        },
+        {
+            "id": 14,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nNo Fernando salió con Alfonso Duarte\n3 años",
+            "images": []
+        },
+        {
+            "id": 15,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nestá con\nBarbara Becerra\n74 personas más\nCon mucho cariño para ti Papá\nFeliz Cumpleaños\nPaula Pino Pino\nUn feliz cumpleaños a su padre y que Dios lo bendiga\n3 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/557816545_1498153707981020_6465825721982222681_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Y_Qpb_8MgT4Q7kNvwGOBq6Z&_nc_oc=AdrmhAAXYkXsAOpTt-iNN2EN-G6u5-9evSmp8rkRHjeuMEvc25CcIftpp8mDuVRASeOUm5P_K264wWLIjcpjmhsC&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=fWcMuXfMADI4EZoX93IJvQ&_nc_ss=7b289&oh=00_Af-LBjL5LxHsukma5DcU3YCggUqH18BSvsIRycmSa53jGw&oe=6A2377AD"
+            ]
+        },
+        {
+            "id": 16,
+            "category": "Clima Laboral",
+            "text": "JPD Servicios Agrícolas\nestá con\n35 personas más\nNo todo tiene que ser trabajo.. Hay que meterle un poco de ejercicios y que mejor que con una buena clase de Zumba!!!",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/505851744_10238556689240827_7196001226306495197_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MVBUAE_Z0lMQ7kNvwE3ShbU&_nc_oc=AdoBmUze9liK4xfNflZNms_3KU8GCfTa-w7SH4N7Wh49r0GDbwL9CA2xHDU5WjU992zFtqDc4TtZlZ7cZ7_7_cgY&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=NEw6GGzdYbyc_j4raQR-6g&_nc_ss=7b289&oh=00_Af9Li9o6rykmJ41zlbdB2aWM9tJHsV9q2iY08l_rL7lD8A&oe=6A239B06",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/505879884_10238556688840817_5920198738917803294_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=T33_gnRNcYQQ7kNvwGo2GQe&_nc_oc=AdrMMsLWJMyLxESd_8CxYIsNwecxCSGf0KdV3AlGH5exc4BML-F-rf3lAGasDFH3KcpPfO6h6knQ-zQXrABRtt2h&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=NEw6GGzdYbyc_j4raQR-6g&_nc_ss=7b289&oh=00_Af-NiiAVYxeIEoWFXEmyR7zTgSK8aOQJA9kaQ2xj9kbOqA&oe=6A238770"
+            ]
+        },
+        {
+            "id": 17,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nNueva temporada/caballo bueno repite!!!",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/340206857_1419466878827094_8900770198616880332_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=54741f&_nc_ohc=zvqPy1IfgUUQ7kNvwEmYWvi&_nc_oc=AdqesaO9Z71ZTkrqaksfPKE5Eaj9yHx1ATNVKtzT52RCU6tfCFlhjDB-YYBVLtsy7xh4MRCCtJ-gCv0BBwFcQ3T0&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=NEw6GGzdYbyc_j4raQR-6g&_nc_ss=7b289&oh=00_Af-7C7XY7vM5Xzy6e4dWdYtsWeNoCwB5ZUpLGdIcTs2oUQ&oe=6A237B08"
+            ]
+        },
+        {
+            "id": 18,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nestá con\n94 personas más",
+            "images": []
+        },
+        {
+            "id": 19,
+            "category": "Operaciones y Cosechas",
+            "text": "JPD Servicios Agrícolas\nJorge Pailamilla Duarte\nHabrán cosecheros para uva de exportación???\nInteresados llamar a\nal +56 9 5215 1655",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/504838002_10238508742922199_2743777530990430312_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qteuKbv12ToQ7kNvwGlb0C8&_nc_oc=AdpCnHCLa-lkryvFyhsYx4Y1X7VsAFDSY1UEsLlKpj8mlfR2iIxj2z7YJMQUznD7LusEHHOlDAsmXxQMtQy_becM&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=ldhseYJcUjdXREEKkFYaIA&_nc_ss=7b289&oh=00_Af-c-0NciuLYT4m1yAOCenC28xwB8RmFW3NyZjbElQp6Cw&oe=6A238AD9",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/504384826_10238508739562115_1654825195548415830_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qoTaUIZUuSUQ7kNvwGJy44_&_nc_oc=AdpRLdU93bgv_YI0HT8sErnIY9N-P9oZK9L-ydxsHtQvn-A3McOkX222kH82UCq1rglnFlOrihSSOzsJSVo6M9hy&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=ldhseYJcUjdXREEKkFYaIA&_nc_ss=7b289&oh=00_Af_KqRqZzVwTrT-AmB_CRLDaubkPRs_jmxrOZ3GQjxuylA&oe=6A2393A5"
+            ]
+        },
+        {
+            "id": 20,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/317248717_3344527179102278_6129968234427462174_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=54741f&_nc_ohc=p_RXRG5K9akQ7kNvwFlx4c7&_nc_oc=AdolzapG89TOoLEX7uXkBL-TBy0j7vAjdotyF00_R3Hnj0PmyEXFWPM9nn9C48rL9EMpA4Q5e_SyIvKRuSjvylve&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=ldhseYJcUjdXREEKkFYaIA&_nc_ss=7b289&oh=00_Af8f610X-uXsLuZrfqPPHag4MEcZc2Ss_yrxWCMfNcrNlw&oe=6A2378AC"
+            ]
+        },
+        {
+            "id": 21,
+            "category": "Valores y Filosofía",
+            "text": "JPD Servicios Agrícolas\nHay un gran descontento por la mano extranjera qué hay hoy en chile..\nEllos argumentan abuso por parte de empresas y contratistas,lo más probable es que así debe ser,pe...\nFernandez Reimon\nUna cadena, si la empresa paga más al contratista, el contratista paga más a la mano de obra...\n3 años\nasí es amigo pero lo importante es que no se quede plata en el camino y la empresa se preocupe que le llegue al trabajador lo que realmente le corresponde\nVer más respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/315136511_970403107270809_3644156401659009413_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=54741f&_nc_ohc=-ba12MHJdREQ7kNvwGnszfX&_nc_oc=AdpcPcJ_LXpykN7mlWuEpQiWkxqhZ4vbtzMjBvrcFeKaFcuuouEiCQ2hadRRZucP4xhjs0fV_aO5MqGJMNa3OHT9&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=ldhseYJcUjdXREEKkFYaIA&_nc_ss=7b289&oh=00_Af-WleSYIB0TgbRill9dIkr_KlwAWR4-pIX74xGg9PU82g&oe=6A239841"
+            ]
+        },
+        {
+            "id": 22,
+            "category": "General",
+            "text": "Fernandez Reimon\nUna cadena, si la empresa paga más al contratista, el contratista paga más a la mano de obra...\n3 años",
+            "images": []
+        },
+        {
+            "id": 23,
+            "category": "Valores y Filosofía",
+            "text": "JPD Servicios Agrícolas\nasí es amigo pero lo importante es que no se quede plata en el camino y la empresa se preocupe que le llegue al trabajador lo que realmente le corresponde\n3 años",
+            "images": []
+        },
+        {
+            "id": 24,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nCuri Curi Fabian Cerda arquerazo de Curico apoyando a Miley",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/313493088_473131138250253_835399972401558159_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=54741f&_nc_ohc=bOK_n7ezJH8Q7kNvwGE6Hgx&_nc_oc=Adr_nXz_61bS-_7FULb1FoK573JQM92Y1V1pl3NBavHoslCpEuJjH_4rYQjmjtXMS_mc-17LGvrJUBTMzoXSvlpd&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=o02AoiltcebF6-OgflALoA&_nc_ss=7b289&oh=00_Af_uldbi50f_HPVgeePNfqkNJpAXEpIMp2TGkimTvBEtJA&oe=6A23A198"
+            ]
+        },
+        {
+            "id": 25,
+            "category": "General",
+            "text": "JPD Servicios Agrícolas\nJuan Serrano árbitro FIFA apoyando a Miley\n¿ y ustedes?",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/315206208_3262155977447776_2098750727501356912_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=54741f&_nc_ohc=rihfsLLc-C4Q7kNvwGww1no&_nc_oc=Adqna-jHBPy20qjdMMjyLHPZAnRg7pJeWVthSa7FxlNQZ-QZswHrIIccf0NdSeLcuVpuZlPNcu4KPYK4VCIV4ER9&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=o02AoiltcebF6-OgflALoA&_nc_ss=7b289&oh=00_Af8771OJAkIO8PuWnywcr_zcDPpReoZPS6U5M0KW-9Mf4g&oe=6A236F44"
+            ]
+        },
+        {
+            "id": 26,
+            "category": "Operaciones y Cosechas",
+            "text": "JPD Servicios Agrícolas\nHola amigos y amigas sólo pasaba por aquí para recordarles que los primeros días de octubre daremos los números para que llamen y se inscriban para el packing de cerezas de Curico..La gente que a ido con nosotros durante 3 años saben que es el packing de cerezas que mejor paga, con un horario muy atractivo de 16:00 a 02:00am y lo más importante de LUNES A VIERNES\nAsí que atentos y atentas a la información para que llamen...",
+            "images": []
+        },
+        {
+            "id": 27,
+            "category": "General",
+            "text": "Jorge Pailamilla Duarte\nMuy contento.. Que felices deben estar mis amigos La Chica Silvia,La Tencha,El Cuero,Cinco Pesos,El Cabezon,Combate..y por supuesto mi amigo el Coto Murillo… Vamos ya falta muy poco..\nDale Cocalan",
+            "images": []
+        },
+        {
+            "id": 28,
+            "category": "General",
+            "text": "está con\n18 personas más\nHermosa casa en condominio Santa Inés LAS CABRAS\n3 dormitorios ...\nGemma Tapia\nDe lujo\nhermosas felicidades",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/696327303_1691454782165859_5603215178822417530_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=bYFBzXkkmfIQ7kNvwEpLDns&_nc_oc=AdrLobANaNYtlKvjWpRUAnuyHj_vO0RtWSQpMTt9RWjM9OmJRDEqNVqp3osAysV3hLUjjvjMewUlqP93bwJfoVZf&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Hwj97upn7aAeyjukvHf9-A&_nc_ss=7b289&oh=00_Af-OxlhjtjjNJT9MZyDXQ1ugM2_1WtQk3NVvANyOiK4i8g&oe=6A23C5E9"
+            ]
+        },
+        {
+            "id": 29,
+            "category": "General",
+            "text": "está con\n18 personas más\nLinda casa en condominio de Santa Inés LAS CABRAS\n2 dormitorios ...",
+            "images": []
+        },
+        {
+            "id": 30,
+            "category": "General",
+            "text": "está con\n18 personas más\nBella casa en condominio de Santa Inés LAS CABRAS\n2 dormitorios ...\nCarolina Gotterbarm Duarte\nbellas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/697991814_992455366812986_5374522336624501220_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=R45hTByOlU4Q7kNvwFMoxqr&_nc_oc=AdoF6wMEsB-2YvEdyIteuCWzQcuj1uc6BQ9cwnLp3J-J9tcTufcWzfWFF8ymWd3eFd3ixpihEl4eXP58Al_LuNAT&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=6Ddd68VYpiweOIomu0JKlQ&_nc_ss=7b289&oh=00_Af-hto32kUfPrZPPtxvdC_upBGVsoSxCIOPuJoScTSq5KQ&oe=6A23C952"
+            ]
+        },
+        {
+            "id": 31,
+            "category": "General",
+            "text": "está con\n18 personas más\nHermosa casa en lindo condominio de Santa Inés LAS CABRAS\nGran living comedor ...",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/695622153_2841227572904493_313689195009234963_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=6_rKk4WcvtkQ7kNvwH3-9Bz&_nc_oc=AdqEOFGp3N5S_yOs1UYmuhVC2aowAFomAgiTJgUeqjZgB0GKRMKbd9iCP2pYIJOIQ1Xw1wA_djMHIIxEYm0CvUSN&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=6Ddd68VYpiweOIomu0JKlQ&_nc_ss=7b289&oh=00_Af9O3Bw5ZzmIXvQCg5kHvVoXpHoksDztfuCe8CIuZrsBJw&oe=6A23BF2A"
+            ]
+        },
+        {
+            "id": 32,
+            "category": "General",
+            "text": "está con\n42 personas más\nGracias a todas esas personas que de corazón estaban preocupadas por los acontecimientos hoy ocurridos( incendio en planta Santa Inés)\nGracias a verfrut por la preparac...\n489\nSandra Romero\nGracias a Dios no paso nada más grabe aseguir adelante y alevantarse para volver a construir nuestro lugar de trabajo ya volveremos\nque Dios lo bendiga don jorge tenga fe que Dios está con usted fuerza\nRicardo Vergara\nque Dios los cuide",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/632363264_10242802569385177_9001440896198385508_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=8OzXehaWVMgQ7kNvwGUdfBT&_nc_oc=AdqVLS9Ddj6sAZixk8x4YCi8vhOxRxhrsd4oJRFKd8K7dUNMnE-ePN_pBnjf3l3HEDx91421QLM_-wKc7NjzD4B4&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=zYcYrJHnEV8MGApT7Wst2w&_nc_ss=7b289&oh=00_Af9_TZRL0tC8B2G20SDHwDRzsaJFTUQo9U5U7iqJkGh3hw&oe=6A23A41E",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/632701194_10242802569425178_8290077030444770141_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=blrn5G15StYQ7kNvwFbSWyf&_nc_oc=AdoBC6VhLbSlV0GnlQRDTVbTSHmsVSUFhNLybgcFMf5OFoeLw-lxfpRsP5wMovl78PmVUMZDxGIe1K_kWL6EJt6d&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=zYcYrJHnEV8MGApT7Wst2w&_nc_ss=7b289&oh=00_Af-cicRD2iQLZ9cbTgcPOrXunviMenp_JxtHKwul-5w8QA&oe=6A23BC40"
+            ]
+        },
+        {
+            "id": 33,
+            "category": "General",
+            "text": "Sandra Romero\nGracias a Dios no paso nada más grabe aseguir adelante y alevantarse para volver a construir nuestro lugar de trabajo ya volveremos\nque Dios lo bendiga don jorge tenga fe que Dios está con usted fuerza",
+            "images": []
+        },
+        {
+            "id": 34,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\nCarolina M Paillao\n36 personas más\nQuizás no sea el packing más moderno..\nPero si el más productivo, el con mejor horario, mejor salario, mejor ambiente laboral donde el respeto es muy importante y mutuo...\n206\nEnrique Bustamante\nLo felizitos amigo por su empresa muy vuena y muy cumplidoras en todos los aspecto en lo personal lo dijo por que tambien ferme parte de su equipo y quede muy satifecho y lo mejor cumplidor con las lukas espero poder volver mas adelante por su empresa ...\nJorge Pailamilla Duarte\nsaludo amigo cruzado",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/629513530_10242744845862125_4533911144207616439_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=oM3U-i0NhGUQ7kNvwGoLNSD&_nc_oc=AdoESfMwdXdDYZnc-y5yVNKGCNL5aKM2P5VkwEPh7q46xz80hA-jQQoPjcICIZloSkDPDJOKass6wMvxta2kGd8g&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=zYcYrJHnEV8MGApT7Wst2w&_nc_ss=7b289&oh=00_Af_TJSigza7NDhuwUngLeGosEBrrSmIPGaUdyE1Rbxi6uA&oe=6A23B88A",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/629659388_10242745667442664_3793568571428096407_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-URTw6Xhp1MQ7kNvwGLtxN6&_nc_oc=AdqU5hcmxUS3xfEaICs2abvO-mk8wqrX7rGvULzz1fl6dk52aDvt9cEz-X4lcFLrRMMAxwcqlGCPil3QYW_JoNxv&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=zYcYrJHnEV8MGApT7Wst2w&_nc_ss=7b289&oh=00_Af_B91uhAPTb-wUbM0yXquzD9Bgd92FTSOMK9EKoZCX6Ig&oe=6A23A0AA"
+            ]
+        },
+        {
+            "id": 35,
+            "category": "General",
+            "text": "Enrique Bustamante\nLo felizitos amigo por su empresa muy vuena y muy cumplidoras en todos los aspecto en lo personal lo dijo por que tambien ferme parte de su equipo y quede muy satifecho y lo mejor cumplidor con las lukas espero poder volver mas adelante por su empresa ...",
+            "images": []
+        },
+        {
+            "id": 36,
+            "category": "Valores y Filosofía",
+            "text": "está con\n29 personas más\nHola a todos quiero compartir con Uds una carta que mi amigo de toda la vida me pidió que la publicara ya que él no tiene redes sociales..\nAntes de publicar quiero agradecerte personalmente Gordo Carrillo por la entrega,el sacrificio y la responsabilidad asumida hacia connelnFlecha,a mi nadie me va a contar lo difícil que es estar ahí,siendo dirigente,hincha y DT,así que amigo mío todos mis respetos,admiración y agradecimientos por to...\nPatricio Jara Jimenez\nMis más sinceros respetos a mi amigo carrillo, por que se lo doloroso que es estar tan involucrado en un proyecto y no resultar como uno desea y a eso súmale lo poco valorado que es ,, sin saber el tremendo sacrificio que hay detrás de todo esto,,, per...",
+            "images": []
+        },
+        {
+            "id": 37,
+            "category": "Valores y Filosofía",
+            "text": "Patricio Jara Jimenez\nMis más sinceros respetos a mi amigo carrillo, por que se lo doloroso que es estar tan involucrado en un proyecto y no resultar como uno desea y a eso súmale lo poco valorado que es ,, sin saber el tremendo sacrificio que hay detrás de todo esto,,, per...",
+            "images": []
+        },
+        {
+            "id": 38,
+            "category": "General",
+            "text": "está con\n39 personas más\nYa van 2000.000 de cajas… Que gran temporada…\nMuchas gracias VERFRUT..Muchas gracias a la gerencia por confiar por varios años consecutivos en JPD.....\n208",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/611270016_1234916085407132_5893135669049532733_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=EKQrSTrr3SQQ7kNvwFfPn7D&_nc_oc=Adqh43YOXHjrSjGJpyQGfzH7odbBNrdZWqEn5uDtVu6P_Q0KVH8Ik60ed4F7lJOyTsClezcvlAlXHEsBO3e2hvlW&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=ErQZkmSy5kCC7pesBqohHA&_nc_ss=7b289&oh=00_Af-EaGlLcPRrZ4SLhCx1du98zkxYsSIkHj2cEi1mB8Wl2g&oe=6A23A695"
+            ]
+        },
+        {
+            "id": 39,
+            "category": "Valores y Filosofía",
+            "text": "está con\n33 personas más\nOrgulloso de ser la cabeza de este extraordinario grupo de trabajadores los cuales llevan muchos años junto a JPD.\nGracias por estar siempre y Dios quiera sigamos hacie...\n202\nFrancisco Nuñez B\nPA delante nomas paila todas las bendiciones mi huacho un abrazo ala distancia\nJorge Pailamilla Duarte\nFrancisco Nuñez B abrazos mi perro",
+            "images": []
+        },
+        {
+            "id": 40,
+            "category": "Operaciones y Cosechas",
+            "text": "Jorge Pailamilla Duarte\nNecesitamos 20 raleadores de uva\nExcelentes precios ...\nPatty Jara Herrera\nDe allá somos !!!",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/599493747_10241917940670012_7754049324487993721_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=is5Hdy-vTRgQ7kNvwEO-Io_&_nc_oc=Adp-H07amQKqMkuzvG42WLu2nYXB6QjmYOlpJTzX7E5-O39O7E4QsqhJ2IkgGw2wX4iwLtd9HgKPC0A6rOhpofrq&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=VbKqbWAtip53zVRWPjWStQ&_nc_ss=7b289&oh=00_Af_vSOw3UP-MbF9oTKZ1gxKfjQdpe2EaeY_5mpgnrot0Og&oe=6A23C5FF",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/599117039_10241917940790015_8855642416847633652_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mdsqyGdCJyYQ7kNvwGA5_Ez&_nc_oc=AdpFcWrGQqoW6OthzhBvZ1tnHWzkhdmbhoqrLW-zOEdeY2CwmPuIwIX-xY4fkp77OBaPZSN8_Sa-BXQqdOR4IU8e&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=VbKqbWAtip53zVRWPjWStQ&_nc_ss=7b289&oh=00_Af8noM5bRN38E1nFObahFW_1HjVSahPDdT8DPf2MGlKrFQ&oe=6A23C6B0"
+            ]
+        },
+        {
+            "id": 41,
+            "category": "Valores y Filosofía",
+            "text": "está con\n29 personas más\nQuiero agradecer públicamente a verfrut por su empatía para con mi gente y no hacer diferencias entre la gente de planta y nosotros que somos contratados por mientras d...\n158\nFlorenciayrenato Nuñez\nQue lindo lo que hicieron como dices tú no solo es trabajo felicidades para tu gente y la empresa",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/547599931_2092349997838662_7423150801910135863_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=jDw5PxCAn_0Q7kNvwHt6rZi&_nc_oc=Adp-IOz3R1Y7QQ99dgBPf_lfCIGyBtHQRKzPuuGSJ-7FRMcWN_VndSLKdczH23TcnNCHLXbFtNh_T-Bt4-Gjc0Aa&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=IvTSlH3MA0sk__724JzK-w&_nc_ss=7b289&oh=00_Af8qSBzgKv8Sa8RtsFwZcvDd3oARreeLBvZ1TcR2CWO0WA&oe=6A23ACB9"
+            ]
+        },
+        {
+            "id": 42,
+            "category": "General",
+            "text": "Florenciayrenato Nuñez\nQue lindo lo que hicieron como dices tú no solo es trabajo felicidades para tu gente y la empresa",
+            "images": []
+        },
+        {
+            "id": 43,
+            "category": "General",
+            "text": "está con\n55 personas más\nHola.. acá les dejo información de lo que se viene con JPD...\n327\n194\nFrancisco Nuñez B\nBendiciones paila cuídate perrin",
+            "images": []
+        },
+        {
+            "id": 44,
+            "category": "General",
+            "text": "está con\n16 personas más\nEsta es la gran diferencia de este pedazo de crack con los de ahora\nBAMBAMLOVER\nClaudio Perez\nLo mejor que a tenido chile ahora juegan por la puras lucas no mas nada mas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/540500044_738491045619352_2303299276439316943_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=EEVfOyAZoeMQ7kNvwGcUCn_&_nc_oc=AdqnJuH4b3gLS6Wjotap_eMuDO7sZkUnLjQz8Oyvm-54FLJFdwvXbY6vuF6j_44LddRax0ifWrMIwgm6iKHo-vuO&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=IvTSlH3MA0sk__724JzK-w&_nc_ss=7b289&oh=00_Af82DDtZOhuwNUyqToyOLNt7rYhSrAQf2v9BAVDAe4rynA&oe=6A23A750"
+            ]
+        },
+        {
+            "id": 45,
+            "category": "General",
+            "text": "Claudio Perez\nLo mejor que a tenido chile ahora juegan por la puras lucas no mas nada mas",
+            "images": []
+        },
+        {
+            "id": 46,
+            "category": "General",
+            "text": "está con\n56 personas más\nHola a todos\nDebido a las muchas llamadas y mensajes solicitando trabajo queremos informar que lamentablemente no tenemos más cupos ni de dia ni de noche.....\n140\nAndres Burgos\nLos mejores",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518398195_10239756031983646_8524719021210094570_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_jZnXo8GmLUQ7kNvwEa4PjC&_nc_oc=AdqAAUKqrJFjcMXJ5hv3hJNu1uF7G6IXvPQATvpNM5h1Bt_WQXpPy8fdWKjwE6fr4JrXWlmGdvBwIMQ1PmZG78Ug&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=KZGEh54BH7B4BGFy6iC6Cw&_nc_ss=7b289&oh=00_Af-EIGp-uESQZkpwSVwVK5lUR3xVRVimiddtAQsa_-DMwA&oe=6A23B6CE"
+            ]
+        },
+        {
+            "id": 47,
+            "category": "Compromiso Social",
+            "text": "está con\n20 personas más\nHola a todos acá dejo los ganadores de la rifa en beneficio de Lucas …Guantes y Canilleras: Nicolás Sepúlveda\nBalón De Fútbol: Sergio Herrera...\nIvo Pailamilla Duarte",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518941484_10239755773777191_3431680377343993224_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_ET0UYBQz60Q7kNvwHw5LnX&_nc_oc=AdphgHk45OsIF0EBr-jy6id1ZYxwpqtKoCRWwf9b02w8a4waVXyokEHzgexZbQsO7mA0n4Mni3F_fRyx2_vyxzAG&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=nl3dkZIyQYPXtCd5nTHaeA&_nc_ss=7b289&oh=00_Af8tHKPGiRDqCZToRoVj0nTCoPMO20GnDutQOqdVm7OYLg&oe=6A23CB73"
+            ]
+        },
+        {
+            "id": 48,
+            "category": "Compromiso Social",
+            "text": "Jorge Pailamilla Duarte\nCarlos Pavez a las 21:00 vamos al aire\nRifa camisetas para Lucas\nRodrigo Polanco\nSuerte y q DIos los bendiga mi rey abrazos a la distancia",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518309197_10239755538891319_3253788193636952355_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=w-luh3uhRV8Q7kNvwHpEvkO&_nc_oc=Adq_RREG6mWwbAJFIdW_b_0mR4WfRrdU6QIzKKB_M8EiVXn7Fi7ILXSOeivX88SDKdOfMUjFe540jyB1ewwscuaE&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=nl3dkZIyQYPXtCd5nTHaeA&_nc_ss=7b289&oh=00_Af9ZhKnqs2nqkt8-OSEn69IgPoeQx0TCSe4onpXF2-QWIg&oe=6A23CD9C"
+            ]
+        },
+        {
+            "id": 49,
+            "category": "Compromiso Social",
+            "text": "está con\nMaria Paz Duarte\n18 personas más\nY nos siguen llegando las camisetas para apoyar a Lucas..\nSolo nos faltan 2.....\nRodrigo Penroz\nAnote me con la del flamengo para ayudar",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518407912_10239749646744019_6694665633328027646_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_HQOKGtVV84Q7kNvwEQeiPg&_nc_oc=AdojmoYAUIPGK9G1aJxJd5ldouArYBVMtTXdxS-j8KrfshAyKD8lSg4VSHot7dObcmIqtEeirtSi3j3rVVFvodRO&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=efkxCyiUOah11Sbva3Ft1A&_nc_ss=7b289&oh=00_Af8VAAKGO9TSegMIdmWW4tcZuF1Dj5mztecfGNf60ayvlA&oe=6A23B20E",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518294570_10239749649864097_5872020213113743253_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=7dShQhjSiuYQ7kNvwH3ibhE&_nc_oc=AdrX7KdzRYgWeyfV6HVpejGXT17MrVboVKw7fLZ18MKELw1PxTqFrS2t3z6n_O-_3rvZfGDnevCtDKVmPYkRAsf2&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=efkxCyiUOah11Sbva3Ft1A&_nc_ss=7b289&oh=00_Af_yRUNm3Fl9QrYq8mToMWtqUzWvBppA-Hyi7cgO1DE5Gg&oe=6A23B525",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518879786_10239749651024126_8167955665756566976_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Pv-OfrkQnlEQ7kNvwHTPj73&_nc_oc=AdqNtWq_XTmeEikE3xZrLmHjwyEB9tA70kjAFJVOgE2VzmliFT4n88o0TOheMGpJuGcrRT4v5ULOiGwkJpYx4kqH&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=efkxCyiUOah11Sbva3Ft1A&_nc_ss=7b289&oh=00_Af_0zmfIHMIgzaz4X4yejgUaf-2gyqCaxMJaVKYVCTQYWg&oe=6A23B0A6"
+            ]
+        },
+        {
+            "id": 50,
+            "category": "General",
+            "text": "está con\n96 personas más\nEmpezaron a llegar las camisetas para ir en ayuda de Lucas..\nGracias a los amigos que han enviado la suya…...\nRodrigo Polanco\nYo me pongo con 30 Lucas\nRodrigo Polanco ha respondido\n3 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518380683_10239749569662092_442769014286536732_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GZHxb-tlNucQ7kNvwE3wNrc&_nc_oc=AdoGZeYNb8xshypTs0uimH5UgSK7me-Zco1GR2fmuGxmaaFqTzizpD7Wkd7Qr8Qu9XhSKZdFk69I9al0wAKVs7c_&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=sQYQ2akPdrihnJlb02RPTQ&_nc_ss=7b289&oh=00_Af9n2GEUeUVencmXSUumt_5KFDtx2PWMNvWEeNcV0eZMOQ&oe=6A23BC17",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518457146_10239749570142104_3665321148175342298_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=6Fds44gMoOEQ7kNvwGwiFpO&_nc_oc=AdpvTcgYHB6qWlcastqZIO73r2nfttR4cQGBnl58DPBfDgAW27Oti1nlZHE3JxVqnhld9kDd6oUkW2HGag8t2AZY&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=sQYQ2akPdrihnJlb02RPTQ&_nc_ss=7b289&oh=00_Af9-s-rjDvI2eb44dQo7waKclXxRPG5EzPyDVBziIlsusQ&oe=6A23A384",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/519406394_10239749570502113_1592276184227640559_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=TNEPdbkjuHoQ7kNvwG7gSyQ&_nc_oc=Ado-chPO4Usz4EYFshV0daOriceJ485l5FiuJvgoEEu2NV2jc2hIWOTygmUsDEesGLvplEBH1x6AuvJT9z-kQcU7&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=sQYQ2akPdrihnJlb02RPTQ&_nc_ss=7b289&oh=00_Af_yfKVBBTYri-MYMUSUV938ohMTu3mDP5E6IiT5Ryihbw&oe=6A23BB9D"
+            ]
+        },
+        {
+            "id": 51,
+            "category": "General",
+            "text": "Rodrigo Polanco\nYo me pongo con 30 Lucas",
+            "images": []
+        },
+        {
+            "id": 52,
+            "category": "General",
+            "text": "Jorge Pailamilla Duarte\nJuan Miguel Quijada Muñoz\nBendiciones Amigo...siempre en bueno que al amigo le valla bien en su trabajo...para eso se saca la xaxu..un abrazo de su amigo quijotito",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/491654301_1826320564827270_4250847988260465218_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c44d43&_nc_ohc=6yBe6mk2zPcQ7kNvwFeVHMQ&_nc_oc=AdpRGWONqM7rxAJXDFZngNmWaasPxU9wPt8PatL-_1v7JIAeHenRaYn4CKYA3QZDKLfJzJSUqQIUZ-NkV3cI-FW4&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=sQYQ2akPdrihnJlb02RPTQ&_nc_ss=7b289&oh=00_Af-gr0-z5lfhflmkn8r1p1DldN2O9hy__3m-RPpD9-QTZQ&oe=6A23C04F"
+            ]
+        },
+        {
+            "id": 53,
+            "category": "General",
+            "text": "Juan Miguel Quijada Muñoz\nBendiciones Amigo...siempre en bueno que al amigo le valla bien en su trabajo...para eso se saca la xaxu..un abrazo de su amigo quijotito",
+            "images": []
+        },
+        {
+            "id": 54,
+            "category": "Compromiso Social",
+            "text": "está con\n35 personas más\nFeliz de poder ser un aporte con el Colegio Luis García de la Huerta con su implementaría deportiva para\n-Futbol...\n197\nMarcela Villalobos\nQ buena estimado gracias nuestros niños lo aprovecharán bastante se paso",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/520275459_10239748471874648_3273170578652301250_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Qi5U_Wij7SUQ7kNvwHhri1P&_nc_oc=AdryF66xDW_mn4_ZUZ8t0xTmAEq_CZmtbGt6Xe_hUiE1lkjRGtjGUgMBWHNc5NbpcCG_z6tkNDI4U9ZzYotW7pHB&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=sQYQ2akPdrihnJlb02RPTQ&_nc_ss=7b289&oh=00_Af8WDFeLWecCDa2YumswXB-tGsPrGzC2amdd6w6kOT5aqg&oe=6A23C1F1",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/517410248_10239748472394661_1077125584505738902_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Fb8bm4yWg1oQ7kNvwGxvW4V&_nc_oc=AdpMG5zFfQ-WsqYEAo7OB0nOYt1yI7NI5ZAlZjEosL0Wq1vzhzcHddrKOLD8um0kBu1OjNljs5_5WQcmyHxZwFsT&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=sQYQ2akPdrihnJlb02RPTQ&_nc_ss=7b289&oh=00_Af-YXmX76SJUyU2Q_tZ5ijDY_8Rmun_CqvdCCePJINp4Xw&oe=6A23A81F",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518303827_10239748468994576_54796458703282661_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=90iaS12RHoUQ7kNvwHBlUgn&_nc_oc=AdrVZktjQb0bsP662KewDcM9LjBBOjA7Mlclyf43o8eyLXwOz5gonxIMDrhhlsUn0mXElEmOrWf720b0_O6Bg7fm&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=sQYQ2akPdrihnJlb02RPTQ&_nc_ss=7b289&oh=00_Af8buAhOn9VremH8MDzwwupUj2ntPg4K0JJ-1VZTmArz7g&oe=6A23A89B"
+            ]
+        },
+        {
+            "id": 55,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n17 personas más\nSolo 50 cupos disponibles para hombres en cosecha olivos(aceitunas)\nInicio 21 de abril ...\nMarcos Narvaez\nMarcos",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518295152_10239744747061530_8880513305490095181_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CuZyJkkT9U8Q7kNvwHhyq4h&_nc_oc=AdrRLDq-8k4nhsVVtQ7yFezsLNh-9IJAC85OH2c6Gm-juRRxGIRABneykNdP68uCuLkoeOI2CY6UIfsefIGJBczC&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=nz5-pnREyq5LDEG08z0rPw&_nc_ss=7b289&oh=00_Af8OVD_4eP1N2ruzJ8rv8HKnPlonK6eKFkGWc9jBTVp3PQ&oe=6A239A54",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/519759378_10239744745341487_2760560084720416602_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=QNomjyem7gIQ7kNvwGgY8K3&_nc_oc=Ado93qOKV0u425WeBf9b57WnGVfbRSQJjsjQtx9e5EsaHkZvWblu9r8_UYpdw5R0rBjuDZ_Xdn9Hw4sjGDhmwZAh&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=nz5-pnREyq5LDEG08z0rPw&_nc_ss=7b289&oh=00_Af-35Mc2Ws86OmD950eCPVUGLqAFAOx6CjPVKVxsZEIiow&oe=6A239B97",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518308453_10239744747301536_8149231528973112857_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ua9Mu3-mLuwQ7kNvwEOQ0yy&_nc_oc=AdqXr6Qt_u0ejvoqrVx9lWyy3dAaG9SNgMyzwHgh-xQ4T5VnCZVRKjiR5C-l0gY39H9OpBEl-1KwZAHtSFIwbvS6&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=nz5-pnREyq5LDEG08z0rPw&_nc_ss=7b289&oh=00_Af90HaPnYrlJ_SXoMCr5ErVXgoktutusxCIRcnZmG3g0Ig&oe=6A23AB34"
+            ]
+        },
+        {
+            "id": 56,
+            "category": "General",
+            "text": "está con\n86 personas más\n14 años han pasado desde que dejamos de trabajar en Olisur..Hoy estamos de vuelta,muy contentos por el llamado de la empresa nuevamente y con más confianza y experienci...\n129",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518272465_10239739419168336_5659155763721770989_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZzyVIe4nbpYQ7kNvwHT17bL&_nc_oc=Ado-wk7li3xS-2VFglQECW-nw3VYkJa3ylYhaLOyWgLpoIG28KqDnLpun3Nc3b28iZtuLv8Tezj_ZFt-ZPHOofWx&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=nz5-pnREyq5LDEG08z0rPw&_nc_ss=7b289&oh=00_Af-c7fO7rCajfzZ-uYlJHAhQQ_tDPl6by05oE1Eg4HocXw&oe=6A23C9AE",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518331006_10239739419448343_2270057759943017192_n.jpg?stp=dst-jpg_p394x394_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=AgR9SJr468kQ7kNvwEU8Wq8&_nc_oc=Adr_Sjcpl11KA7xsY3-L_UHo7lxY80gaqovKISN9T0Z6s-PzLcjO0zKQ-ZJoHouPqT1oBo4oLF32fmXIXRFBPkpk&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=nz5-pnREyq5LDEG08z0rPw&_nc_ss=7b289&oh=00_Af_diUju5kNHrivyFwOL_dqw1feCGK7LEGS58lbsZsDyFA&oe=6A239BF2",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518308879_10239739419248338_4905655151874345919_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CF5BBj_d-rsQ7kNvwEVYNlY&_nc_oc=AdpNPYrB_bxxZLlMptNmZccaInSSieGVFIlLlGA6Dw-IcP9ziSiQm3AeQJbzwXeuCfPpDBBeV14M_KnERDwrEI1U&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=nz5-pnREyq5LDEG08z0rPw&_nc_ss=7b289&oh=00_Af9rC_0M8h2O_HPscfQEdz00-8g98T3FaH9sP7-N77j91A&oe=6A23C55F"
+            ]
+        },
+        {
+            "id": 57,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n20 personas más\nNecesitamos 8 enzunchadores y 6 Palletizadores DE VERDAD!!!! Para packing de cerezas verfrut día en Santa Inés…\nInteresados llamar a Angelica al 9 6478 3682 o presentar...\nMarcela Orellana",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/519679305_10239724897605306_7742122503786082538_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=l7dWVRa0vgkQ7kNvwH3VVlR&_nc_oc=Adq1IzVu446YizodT6NVf0ACtFBqt55wIPTuExeWscLAsjWDfEvAAOfgaLq1DK37v864r9fKszPfBgX7bXiJSqF8&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=81V8fvv-Bi8OAtUFAUIhLA&_nc_ss=7b289&oh=00_Af91aV53u-yrFRFZSRQCS_hJDjZSD41ht72Wkg5KjTMccQ&oe=6A23C97B",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518189122_10239724898245322_4534164492796750312_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Q3NPsU_jV6cQ7kNvwFj_-ZS&_nc_oc=AdqhCyodmKMO9DexNDuDJjySpNO-wtbdmwBLjKph__xPCE-X8RMuNml5jzBbx0fp2zb3setoJ_97-Do1QqvCC8Xq&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=81V8fvv-Bi8OAtUFAUIhLA&_nc_ss=7b289&oh=00_Af8ov9PtLJb-Mhvq-B_O8ZyU-_dfSCpG2ko_7k9--nulAQ&oe=6A23B32E"
+            ]
+        },
+        {
+            "id": 58,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n26 personas más\nSe nos adelantó el Packing de Nectarines Noche en Verfrut.....\n128\nMarjorie Quintanilla\nhola cuando enpiezan\nMafer Contreras ha respondido\n4 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518241101_10239724158906839_8432066334734995641_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=eQl5Ob4r_mIQ7kNvwEa3Upy&_nc_oc=AdqrOrW-TdzT9XoYKhl7fDQ-1j0a3AWnmEQiPUGvxROfD6qf0P2CzeX1WoriWDxT6QfVTqHhtRFxL0WsUP2FjSEC&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=81V8fvv-Bi8OAtUFAUIhLA&_nc_ss=7b289&oh=00_Af9L6QIPQVjXGWNehxjMRDfYREcvOsJyKb3IoA6qP96hrQ&oe=6A23CA54",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/517590830_10239724158946840_2816062026645264419_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KBjY9W9Or6gQ7kNvwG6TgIT&_nc_oc=AdrhIRJmgdTMJwXpef-mghQSN3mUCTN1Y6AId0W-bRGXsnTaI16hfqhEz0pq88sg1UTZSGp7tmB_2_DA01vKXeRp&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=81V8fvv-Bi8OAtUFAUIhLA&_nc_ss=7b289&oh=00_Af8hmx0ft70z4aeD4eXksJKCRSzGyIv3x4XmdMbwinlbtA&oe=6A23A98A",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/517444036_10239724159186846_3056493509032996284_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=IOilQez6gXQQ7kNvwGj4Dqu&_nc_oc=AdrMXKD9QkFaOIt7FlDjA4ZKOgxXOAvR1ObFtxgB4NIPkYXy4RxzXGLJAcDa-9K_P7RUHD8M2kE5veaeFUjQcpoc&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=81V8fvv-Bi8OAtUFAUIhLA&_nc_ss=7b289&oh=00_Af8fST4E2koHoIHMuMJ5dWgPOH8-k6Nq5_selO_tc9whhQ&oe=6A23B6A4"
+            ]
+        },
+        {
+            "id": 59,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n18 personas más\n40 cupos para packing cerezas NOCHE en verfrut Santa Inés\nInteresados llamar al 993493452 hablar con Claudio ...\nClaudio Andres Devia Villavicencio\nEn qué parte es eso??\nJorge Pailamilla Duarte ha respondido\n2 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518943574_10239723166482029_1440399894952503293_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=rCYnT6fjoxAQ7kNvwFRq-mu&_nc_oc=AdrPf0ydYqXdmFL6AWdlLliu5WdJcFSddEjdKAXuS6dlXsYgj7QiylJd5n2QfjirK1DOLDf5FOUuk5Jm_yXQCIGg&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=5L6sxznUD2z1z0TwuZ7o0A&_nc_ss=7b289&oh=00_Af-vNXRyfkaAINagrKJDq8jUWg__A1jzfM9kQfuiMbaNQw&oe=6A23B924",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/518314796_10239723167962066_666887867544026055_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=HAgJz9eOHaYQ7kNvwEb8INO&_nc_oc=Ado6Wh3qqji8fMPqxmAEcpaYqst9RFxXLTwguh7WayfvE9VcVJpt02yD1_AqC5i0nbxtTlkU-Ie308_agjUWtTcE&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=5L6sxznUD2z1z0TwuZ7o0A&_nc_ss=7b289&oh=00_Af_L7KlTYJsZBhMWdxMtYCqiQMVHJ3PHvxwbEVLQY4p86g&oe=6A23B35E"
+            ]
+        },
+        {
+            "id": 60,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n17 personas más\nHola a todos\n30 cupos para cerezas Verfrut turno día ...",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/517210042_10239717139171350_8185993594656972998_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_3d7qtjppnEQ7kNvwGMzSJ0&_nc_oc=AdpbtMMRoc-oXQXEdr-XnVhmRU47gXjH0MIoPamitP-IgWkqaVxbvqtHkN-7NjbVkHS8xA-Yb_a_uR6Mp2jzp1Li&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=5L6sxznUD2z1z0TwuZ7o0A&_nc_ss=7b289&oh=00_Af-JzggjSN1AWvopvDnxy1s2NWYT7fIU3h3RPk1_i4Nx5A&oe=6A23CDB6",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/516891940_10239717139331354_5204938186396685809_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=VTaJbr4E0aUQ7kNvwFJwlvO&_nc_oc=AdpsChr6auCqsKRRvGWSYCWuhnAEUtbqdKUiSVhJlDdhgrx-CD0u_ffCxV4BgVEE0IT4Yp92Vt11iiKP-s8MsuNh&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=5L6sxznUD2z1z0TwuZ7o0A&_nc_ss=7b289&oh=00_Af9wJEYHT4TzEZ6tarQQFSKnB2CGKQO4XvGWFbn78dNNvg&oe=6A23AE08",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/519897347_10239717140571385_5963548761555752834_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Ae4jqE9ccYoQ7kNvwEaUCc-&_nc_oc=AdoyIwWr4Z0PMBLx8tQdnX6qWZuyUlRqDWPBkCQ1cf1J-yw-zR0DJ7WZjlELPjWRedppHZan8bTtJL9tL0R66MwU&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=5L6sxznUD2z1z0TwuZ7o0A&_nc_ss=7b289&oh=00_Af8wbaeMP0eQRYFXmkROR7paJPlqeK7tj8FU-Lyc0fyJoA&oe=6A23CD8B"
+            ]
+        },
+        {
+            "id": 61,
+            "category": "Operaciones y Cosechas",
+            "text": "Jorge Pailamilla Duarte\nPor gente que no pudo esperar o simplemente eligiò otra opción es que se nos producen 30 CUPOS EN PACKING CEREZAS NOCHE RENGO…\n20 mujeres SELLADORAS DE\nCEREZAS...\nNicolas Donoso\nMe interesa dn\nNicolas Donoso ha respondido\n2 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/517310033_10239453022088588_2617938487773770119_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UnQ8JFs7ppgQ7kNvwG9jqKH&_nc_oc=Adp9CZnzDwQ4VQuD5z-rBONaxy0-7OuLspRiFUPqchgN8q5qWYkgIXJp0tFSPuQv3wsJLR6MaYqB3v8BoG6dbavU&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=oYNl3EYBWvLT9RSXtwXT6Q&_nc_ss=7b289&oh=00_Af8CD_ULTh-qWBe-TgnyKm6ie9J3r8oYriFRIJChYypsiQ&oe=6A23C8C3",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/517117888_10239453023328619_6885021122406771626_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ANu-xxJTUbIQ7kNvwFikUKH&_nc_oc=Adp5RO8hf8gefd0dsKkmWkzrNAU5wTeajyUZc68YdSebEqUNccUyJrCNcvOZ17WO8H3vzKeWEUPGmvpnBrMtBihn&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=oYNl3EYBWvLT9RSXtwXT6Q&_nc_ss=7b289&oh=00_Af88e4fD97L4amPsLJAMey4ZlQmgzenbIfcXxYSjsTU1hA&oe=6A23B958"
+            ]
+        },
+        {
+            "id": 62,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n15 personas más\nAtención Gente que trabajara con nosotros en Packing Cerezas Santa Inés turno dia(Verfrut)\nEl lunes 4 de noviembre a las 15:30 horas en el centro cultural “Hermanos Qui...\nMarcela Orellana",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/515722598_10239202446744361_1921693468142939364_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=jeCEdGeF6UgQ7kNvwE3TfFW&_nc_oc=Adp1xjsbnE1GnszgKly_12lNBLMYgiv8T2KR7jMVKZcu4EpIbzdwOEgG_ZL6sARd_loUUaRqBqss51ArmGKPHmRU&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=oYNl3EYBWvLT9RSXtwXT6Q&_nc_ss=7b289&oh=00_Af9IsuZZMCSAveVRaqZKEDweL5J0D4Nb7yHds3l0P0hyoQ&oe=6A23B4B0",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/515504616_10239202443664284_720451036733355771_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=H5Q1YWCN17sQ7kNvwEUMm2r&_nc_oc=AdribuJ3CuZ_2aP4keQcWk9tTadNNW66AQKCNkFTdBLrLf4eo_ramVskG73a4g6fZPfEIQ06W_0N23nM-bQBiJ78&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=oYNl3EYBWvLT9RSXtwXT6Q&_nc_ss=7b289&oh=00_Af-87KTyK_e4fAcV8IAOIAQlyEWyEl1PdLuvK9smXggQjA&oe=6A23B773"
+            ]
+        },
+        {
+            "id": 63,
+            "category": "General",
+            "text": "está con\n21 personas más\nYaaa!!!\nMuy buenos días gente de Santa Inés y alrededores....\nBelen Acuña\nY para melipilla",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/514010215_10238988371992626_5210199874205232812_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9HoYnSRbOsMQ7kNvwH-ZdaD&_nc_oc=AdpCKkSD4zcKbcKaLuOeD2CSUHYTeUeJP_fPWUZEjK9k7S4_A-65L2HGH3iWDg3r80CNxjOn-q6Qxv-70TZJ9wGR&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=s56rMiqJgSjZGXWH7RBGbg&_nc_ss=7b289&oh=00_Af9rjf0BFb9p-8-licu5Bu1tlVa7Mp3WHq9T8feaVSaABA&oe=6A23C788"
+            ]
+        },
+        {
+            "id": 64,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\nJorge Pavez Rozas\n18 personas más\nManaña nos juntamos en la sede del club O’Higgins de Pueblo de Indios a las 19:00hrs.. No faltes temporada packing cerezas\n2024\nTe Esperamos\nEugenio Contreras\nNo puede compartir\nJorge Pailamilla Duarte\nahora sí",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/513010398_10238959751757138_6280417791625857702_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ARTB1CyYEFQQ7kNvwFo8PLs&_nc_oc=AdoVHxFLtPi42OQkGijZ1MkkqeDo0mKS9DkxAP3lrPnXFmHdpXCAGO8gdmGgwIUfwtvQaO9zgMzCHBBfPGGTmmAM&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=qkRZw-Udp-9iHievvRTBHg&_nc_ss=7b289&oh=00_Af_eQLzjjgxlF_n4Z5rn1kwvwhv5G3Yl1IzIoLcchD55Gw&oe=6A23BB13"
+            ]
+        },
+        {
+            "id": 65,
+            "category": "Valores y Filosofía",
+            "text": "está con\n18 personas más\nNo se notó la diferencia de los millones de dólares entre River y Colo Colo….\nBien albos todo el respeto del pueblo chileno!!!!\nAlmiron los cambios eran antes…\nComo celebran e hicieron tiempo cagones!!!\nGareca si no llamas a Vidal ándate!!(ojalá lo lea\nJorge Esteban Lara Orellana\nZavala tendría q haber entrado antes",
+            "images": []
+        },
+        {
+            "id": 66,
+            "category": "Operaciones y Cosechas",
+            "text": "Jorge Pailamilla Duarte\nFue emocionante tantas muestras de cariño en mi cumpleaños para este viejito..Gracias a todos mis amigos pero sobre todo a mi familia..Los adoro!!!\n103\nMabel Del Carmen Cornejo Orellana\nCosechas lo que siembras",
+            "images": []
+        },
+        {
+            "id": 67,
+            "category": "Operaciones y Cosechas",
+            "text": "Mabel Del Carmen Cornejo Orellana\nCosechas lo que siembras",
+            "images": []
+        },
+        {
+            "id": 68,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n20 personas más\nAtención amigos y amigas de San Vicente y sus alrededores…Jpd quiere abrir una nueva ruta laboral e invitarte a trabajar con nosotros en el packing de cerezas(turno noc...\nEugenio Contreras\nNo se puede compartir\nJorge Pailamilla Duarte\nahora sí",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/512676298_10238921619843864_59865204400822150_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_NzBlq7PJK0Q7kNvwEGubfi&_nc_oc=AdpfV5HSqu0i-cBpinzKCoFyGErw8Iivt8oFLez6sN07arQ4xnZVMUIzSkSDZJPX6xphv47tqsYUywfQS-QNrwqq&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=mhT07wcYID-HkWlHhnPWeg&_nc_ss=7b289&oh=00_Af-0NgK-MwCVcxpBK7c31l1F3VjBZOtoRCWcYGc9Lrx9cg&oe=6A23B262",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/513627713_10238921623643959_2991769351006652037_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=U-YZ_iLAnPEQ7kNvwF6CJVr&_nc_oc=AdoggtZ8jyIwr0nxiNVh4uJXK4BW-KFVaN78pYf3z9Igjvc9-SnB8KeQqe_MjWvwDgC89wxxZIXcjgqtsziAPnJG&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=mhT07wcYID-HkWlHhnPWeg&_nc_ss=7b289&oh=00_Af8PZwHTpwwMHBF3umZxVM7g1iaRd9g8XdaWQkZnQGNYDQ&oe=6A23C5CF",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/513746995_10238921622123921_7823608998884293403_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=46tB9FZiLEsQ7kNvwHjLDKC&_nc_oc=AdoA-3S-DO1fyVNML51avGSalC9IzXZgs6UQqG4p1XGO5tbHUvgORjPV6TgblmgchCC7UI_Fs0MKbnK2CQpWitSN&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=mhT07wcYID-HkWlHhnPWeg&_nc_ss=7b289&oh=00_Af-8DyZdklo8scEI-DpIoXPHiSa46p5yJYhTASEYGiB3GQ&oe=6A23CE4E"
+            ]
+        },
+        {
+            "id": 69,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n26 personas más\nNecesitamos 10 podadores para ciruelos y cerezas\nofrecemos trabajo todo agosto…\nLlame yaaa!!!...\nMabel Del Carmen Cornejo Orellana\nNo sé puede compartir .\nMabel Del Carmen Cornejo Orellana ha respondido\n2 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/511265732_10238844370512679_2958498572701669656_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Yy8ZdIsVv5QQ7kNvwGLvJ_t&_nc_oc=AdofCX-ncpAl0PMII4kAN2pacyyRnUjm_X2FrZ23Ojz71BwTOat26ojHdGS4TCFWhCnB1sIuCRi8LnhS3mCqjDom&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=D8PJ0B-FP25ui2OhxMQ9nw&_nc_ss=7b289&oh=00_Af92Hn31hTdTS9zmOynJdUFVrlKdXD7p_DI7jwP9G8-pbg&oe=6A23C958"
+            ]
+        },
+        {
+            "id": 70,
+            "category": "General",
+            "text": "está con\n49 personas más\nQue importante es agradecer a las empresas que confían por varias temporadas seguidas en nuestros servicios..\nVERFRUT/PROPAL,a mi equipo y por sobre todo a mi gente que...\n167",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/509432630_10238807710356198_7944869442492024980_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hmQXpu8AZFcQ7kNvwHBAqkC&_nc_oc=AdrxkkUCXciU4Gbzkii9PS630rRcnbBD1H30ogCK_KMX1sGzxI7nqpLUMvSyksrhPdvXOwzWrDiSNk2sBu8jC8Oa&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=XFo-vNt5dAByhgcssyFaiw&_nc_ss=7b289&oh=00_Af_LMFwsaU-Ckgoyu5bq6HXfVCVu17sTkFCximvd7iGHvw&oe=6A23C56F"
+            ]
+        },
+        {
+            "id": 71,
+            "category": "General",
+            "text": "está con\n20 personas más\nBienvenidos a todos y todas en esta nueva temporada “Manzanas 2024”\nTodo el éxito del mundo para uds.. Y gracias obviamente a Verfrut por confiar nuevamente en nuestro ...\n149\nIngrid Moran\nQue les vaya super, nuevo año nueva temporada nuevos éxitos, Dios con uds\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/509601990_10238776170207714_5757643687692021712_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=aBzCz1lD3MEQ7kNvwHgb3Ue&_nc_oc=AdqCxMzfL3CDzAKKdv3IqFhw3NUS2veqzgwuAqy8LCrHLayyrqLOYF6x8eeueTfMIgOFNZn9vz5V05QlLoiF2fgw&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Pa8pxzNzVflaQrE7DDidJA&_nc_ss=7b289&oh=00_Af8kOiTL5fTy9XK_w8vJ-UOhbGX3SV7fk00uFlMhO0GGNw&oe=6A23C662"
+            ]
+        },
+        {
+            "id": 72,
+            "category": "General",
+            "text": "Ingrid Moran\nQue les vaya super, nuevo año nueva temporada nuevos éxitos, Dios con uds\n2 años",
+            "images": []
+        },
+        {
+            "id": 73,
+            "category": "General",
+            "text": "está con\n32 personas más\nEl acero chileno está certificado en nuestro país.. No así el acero chino pues este se certifica en su país y de una manera muy dudosa..\nEscuche la opinión de muchos ingenieros y le tienen pánico al acero chino debido a que vivimos en un país sísmico y los niveles de construcción acá son altísimos y las exigencias también..\nMi pregunta es ¿ porque tanto silencio de parte de la Cut?.. ¿ porque tanto silencio del PC?… Del gobierno??\nEst...\nDaniel Eduardo Carreno\nEstoy totalmente de acuerdo con tu reflexión, me extraña mucho dar punto final dejando tantas personas sin trabajo. Es extraño\n2 años\nDaniel Eduardo Carreno ha respondido\n2 respuestas",
+            "images": []
+        },
+        {
+            "id": 74,
+            "category": "General",
+            "text": "Daniel Eduardo Carreno\nEstoy totalmente de acuerdo con tu reflexión, me extraña mucho dar punto final dejando tantas personas sin trabajo. Es extraño\n2 años",
+            "images": []
+        },
+        {
+            "id": 75,
+            "category": "Operaciones y Cosechas",
+            "text": "Jorge Pailamilla Duarte\nQuedan 5 cupos\nestá con\n15 personas más\nAtención San Vicente ,Peumo y Las Cabras…Necesitamos 10 embaladoras de uva con experiencia!!\nEs muy importante QUE SEPAN EMBALAR UVA\nYA QUE ES A TRATO!!!...\nMoira Medina\nYo quiero hir\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508827184_10238772286150615_6317593968792516312_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-CEbj_UdB0AQ7kNvwGtWH_X&_nc_oc=Ado_a4SDUsQ8oGV5si0Wp80hP4y1GESJnoVzYH0diGIuSVC5R2ynZKNL35_dgR9HTGwoAxTOPad4obm4Yb-CKXVe&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=l14mH84Nspct13xWpM75_g&_nc_ss=7b289&oh=00_Af-ubiAnZDcWhQI9KVbMyLRuG9AryN5VX15dg-19bbvJ6w&oe=6A239DC5"
+            ]
+        },
+        {
+            "id": 76,
+            "category": "Operaciones y Cosechas",
+            "text": "Jorge Pailamilla Duarte\nQuedan 7 cupos\nestá con\n15 personas más\nAtención San Vicente ,Peumo y Las Cabras…Necesitamos 10 embaladoras de uva con experiencia!!\nEs muy importante QUE SEPAN EMBALAR UVA\nYA QUE ES A TRATO!!!...",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508827184_10238772286150615_6317593968792516312_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-CEbj_UdB0AQ7kNvwGtWH_X&_nc_oc=Ado_a4SDUsQ8oGV5si0Wp80hP4y1GESJnoVzYH0diGIuSVC5R2ynZKNL35_dgR9HTGwoAxTOPad4obm4Yb-CKXVe&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=l14mH84Nspct13xWpM75_g&_nc_ss=7b289&oh=00_Af-ubiAnZDcWhQI9KVbMyLRuG9AryN5VX15dg-19bbvJ6w&oe=6A239DC5"
+            ]
+        },
+        {
+            "id": 77,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n15 personas más\nAtención San Vicente ,Peumo y Las Cabras…Necesitamos 10 embaladoras de uva con experiencia!!\nEs muy importante QUE SEPAN EMBALAR UVA\nYA QUE ES A TRATO!!!...",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508827184_10238772286150615_6317593968792516312_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-CEbj_UdB0AQ7kNvwGtWH_X&_nc_oc=Ado_a4SDUsQ8oGV5si0Wp80hP4y1GESJnoVzYH0diGIuSVC5R2ynZKNL35_dgR9HTGwoAxTOPad4obm4Yb-CKXVe&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=l14mH84Nspct13xWpM75_g&_nc_ss=7b289&oh=00_Af-ubiAnZDcWhQI9KVbMyLRuG9AryN5VX15dg-19bbvJ6w&oe=6A239DC5"
+            ]
+        },
+        {
+            "id": 78,
+            "category": "Valores y Filosofía",
+            "text": "Jorge Pailamilla Duarte\nRecuerdos de nuestro mejor monitor… Toto…Lamentablemente no alcanzo el presupuesto para seguir contando con sus servicios…\nestá con\nAzukar Las Cabras Mauricio\n37 personas más\nNuestro gran Trabajador “Maximiliano Retamales” Cada día más incorporado en la empresa..Aquí haciendo las “Pausas Activas”...Un agradecimiento muy especial a todos sus ...\nMariana Gálvez Figueroa\nHermosos recuerdos\n... ahora solo sube a los escenarios otro nivel\nme encanta....\n2 años\nGerardo Luis Gonzalez Barrios ha respondido\n3 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/74605402_10221663309156883_4262077291145723904_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=M7AuiPRGWpEQ7kNvwFtww3y&_nc_oc=AdraXeJ_It0HGew56XhfdCSjAxajbo0W_tc8AXc8zdhVl33Mf6BsHFGynLm1gTRrS-hpr-0oE0hSP1yTPmZ972GJ&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=RU5rU7aDxBc9pAvB1Pirtw&_nc_ss=7b289&oh=00_Af-GXqIjml1HNQv_uWk59Z5XN_kfJdb32SRznyyV5s_-jQ&oe=6A239DB9"
+            ]
+        },
+        {
+            "id": 79,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n33 personas más\nHabrá algún furgón con buenos cosecheros de uva de exportación???\nSi es que hay interesados llamar a Ángel al +56 9 5215 1655\nCamila R'Murua\nYo tenía un furgón con pura gente responsable de llallauquen gente que de verdad quería trabajar jefe como le trabajamos en la cerezas y me cansé de rogar le dieron prioridad. Agente que jamás había trabajado en la uva\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/509952880_10238762977317900_8063219154741207610_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4Ai__KPcJzQQ7kNvwGjP09i&_nc_oc=Adpx6eIr0Ud81dn8SBEI0LsilBGdSeU2JiegYpaoNz5izKEviEiY5i1PmikclG_KmvvKfMHiAJFrQT8rEOHgzEH1&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=9lav0Iu-JUeQSEm7DBoDPA&_nc_ss=7b289&oh=00_Af9SJNyVY2ZvqvE99djXVx7dzW4X7NgTxrmpS7D3YLJReQ&oe=6A23BA6B"
+            ]
+        },
+        {
+            "id": 80,
+            "category": "Operaciones y Cosechas",
+            "text": "Camila R'Murua\nYo tenía un furgón con pura gente responsable de llallauquen gente que de verdad quería trabajar jefe como le trabajamos en la cerezas y me cansé de rogar le dieron prioridad. Agente que jamás había trabajado en la uva\n2 años",
+            "images": []
+        },
+        {
+            "id": 81,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n17 personas más\nUrgente 10 embaladoras o embaladores de uva con campamento en Rancagua\nLlamar o wasap a los siguientes números\n944245285(Jorge)/+56 9 7935 5654(Karen)...\nCarmen Moscoso\nEs para Miraflores?\n2 años\nElizabeth Karen Norambuena Ramirez ha respondido\n3 respuestas",
+            "images": []
+        },
+        {
+            "id": 82,
+            "category": "Compromiso Social",
+            "text": "Jorge Pailamilla Duarte\nHola necesito ayuda..\nSi alguien traslada niños al colegio de Codao, necesito transporte para mi hija Amelia desde Rosario al colegio de Codao..\n7:30 a 15:45\nCualquier dato se agradece mucho",
+            "images": []
+        },
+        {
+            "id": 83,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\nIniciando packing Rancagua…\n“Dios conmigo nadie en mi contra”...\n112\nMabel Del Carmen Cornejo Orellana\nMucho éxito.\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508655953_10238758814213825_6719669135916330433_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=REk7KBe-JJUQ7kNvwES5985&_nc_oc=AdpSivYp_eLugupiJXDzEB_90P6Baje_bn7s93RxUugu2xsvfvOppY96xKGwLkjXZI7BBSUUTQ2BOiE6QSCZ6_g4&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=ceodU4o0I75Dg4F1Ca3MOQ&_nc_ss=7b289&oh=00_Af8r-EBVrZYbSyYxgbuSuCyQedChNIqRO8LfuXNqo4w7wA&oe=6A23C057",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508733604_10238758811813765_3140831930181365697_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=AqOjVfAvpUQQ7kNvwHfKEzp&_nc_oc=Ado1Y2VIruXszv6eo6Qhfz7QgBLq1JBTXkU1g0J_zDyNQVykpMoN30AsbKXfP8a2jcNnKy_5dpo6oC8siq6KMq8z&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=ceodU4o0I75Dg4F1Ca3MOQ&_nc_ss=7b289&oh=00_Af9YwXwZuAnlJgHvQ7aUvD8lX45Iv9QM6MxYgvMjFyEBug&oe=6A23B0ED",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/509600890_10238758809013695_5538574349718112793_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4i85pO8RNoUQ7kNvwFdDt1Z&_nc_oc=AdoA9pd4m6YdGuksk2MyWHqKNebt_f3GdLRIOx-3VLwY2RwmJHvg8SWAye6IxqZxoaGkmYsVKQmukyMA0ay7r8S6&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=ceodU4o0I75Dg4F1Ca3MOQ&_nc_ss=7b289&oh=00_Af8cD4feChUtk6U0oCYDe6qrP3Qn3irhWb_GfOyDUHaaFg&oe=6A23B968"
+            ]
+        },
+        {
+            "id": 84,
+            "category": "General",
+            "text": "está con\nCarlos Pavez\nPiérdete una Totito vas derechito a Viña…\nGrande Toto!!!!!\n107\nGerardo Luis Gonzalez Barrios\nTe has perdido una gran contratación!!\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/562790216_2412350099166987_5085167540690283599_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Usd5v4TdTnUQ7kNvwFzUOpx&_nc_oc=Adou3ZlsF81sUTUZvI0rLFccWQJCdBqVdYVKyXlyjUstV7gWs4dnNEIDdxqXREgF_ddAS4bj3JRNXAPkUotBICLu&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=3VQXpKBZ7urDairqEU9xmQ&_nc_ss=7b289&oh=00_Af8f01QQfDc3djAeHTa4Y-cKzRXvBqG0X-5UfWKeh5XA7w&oe=6A23CC4A"
+            ]
+        },
+        {
+            "id": 85,
+            "category": "General",
+            "text": "Gerardo Luis Gonzalez Barrios\nTe has perdido una gran contratación!!\n2 años",
+            "images": []
+        },
+        {
+            "id": 86,
+            "category": "Valores y Filosofía",
+            "text": "está con\n42 personas más\nCon estas temperaturas la gente que trabaja en terreno después de las 13:00 no rinde…¿dónde está el gobierno?\nHagan una ley en la cual se trabaje jornada.. Es inhumano ...\n119\nCristian Antonio Escobar Pinto\nA qué gobierno empresario le importa las condiciones laborales de los trabajadores . Es solo mirar el transporte que utilizan algunos contratistas . Para transportar la gente, cuántas irregularidades hay en todos los fundos nadie fizcaliza los campo...\n2 años\nCristian Antonio Escobar Pinto ha respondido\n4 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/509798434_10238752304691091_3098328265673128316_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZFh92CYe0rAQ7kNvwEVi6ln&_nc_oc=Adow_nh8UwnvjEy5Ua7GK_OocfpDzARwP3njH8Fr39OepsveD9OSaxtxDtZjIG4r7aDc6pjgq9SzTfNuXLga-qB3&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=7s9R2yb-kmJ-VYT3CNH54A&_nc_ss=7b289&oh=00_Af-6WbGfhzJ-rS52VpXSEP-rR3qDev0ZJQn505iLwAmOJw&oe=6A239BE5"
+            ]
+        },
+        {
+            "id": 87,
+            "category": "Valores y Filosofía",
+            "text": "Cristian Antonio Escobar Pinto\nA qué gobierno empresario le importa las condiciones laborales de los trabajadores . Es solo mirar el transporte que utilizan algunos contratistas . Para transportar la gente, cuántas irregularidades hay en todos los fundos nadie fizcaliza los campo...\n2 años",
+            "images": []
+        },
+        {
+            "id": 88,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n46 personas más\nDebemos ser honestos ya que el de arriba nos está mirando y nos puede castigar…\nHemos puesto fin a una “Excelente” temporada de cosecha de cerezas\n.....\n153",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/560539331_4223267364602534_448303587769504953_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=0UKyfqL2yN8Q7kNvwFVyD3t&_nc_oc=AdqvKJY9zyWQFyTymsP9mqS9Ddj1bc3fHEG6eyNlQvJrVMZbjbkfO__8EJMiBK6tD-wyoSjTjFij7KKZxQvX7ZpY&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=60V7pWTgelHO2pOWCXqd4Q&_nc_ss=7b289&oh=00_Af8ZrYdj5R9zZSha-UEboDvEGp71Cv9IpjtuMenKZduuwQ&oe=6A23B71F"
+            ]
+        },
+        {
+            "id": 89,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n92 personas más\nMuchas pero muchas Felicidades a mis queridos trabajadores y trabajadoras..\nGracias por confiar en\naño tras año y trabajar junto a nosotros.....\nNatali Ninoska Paredes Flores\nQue tenga unas maravillosas fiestas junto a su familia,le deseo lo mejor\nQue siga adelante como hasta ahora lleno de bendiciones y éxito\nDios quiera nos vemos en la uva...\n2 años\nJorge Pailamilla Duarte\nmuchas gracias y así será en la\nnos veremos",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/561916048_1151935870144769_2266373969103785643_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=epSXUG8UAZoQ7kNvwFws2T7&_nc_oc=AdqCzdXIOPCpSSN8YRzw65K_clB2uJklzsPCMHpxzyGZBDnvRqo8OcoSaQrQ5nOGiWD-Xr-0gyiqHaxrzq3VH-jv&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=7aBkGfb6urRszpbU1zi9lA&_nc_ss=7b289&oh=00_Af9FhNi9vcsI5FXK6gaPqSjVxUbg8iRXOJdtCZjdLAAvXg&oe=6A23C757"
+            ]
+        },
+        {
+            "id": 90,
+            "category": "Operaciones y Cosechas",
+            "text": "Natali Ninoska Paredes Flores\nQue tenga unas maravillosas fiestas junto a su familia,le deseo lo mejor\nQue siga adelante como hasta ahora lleno de bendiciones y éxito\nDios quiera nos vemos en la uva...\n2 años",
+            "images": []
+        },
+        {
+            "id": 91,
+            "category": "General",
+            "text": "está con\n94 personas más\nGracias Verfrut por tan lindo gesto con mi gente, gracias por permitirnos estar trabajando junto a ustedes por 4to año consecutivo….Gracias equipo por tantas horas de d...\n180",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/561901754_5137942936431826_7602294536950063606_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=zTWNX3xlauIQ7kNvwFT2irM&_nc_oc=AdpkEI_pIKvaS7CEB69nVR4qGWHZauWDm8QpXJ_BTqLIAJHTiROlJDvKMggLDdL0VeeFdSdUbzMdjLnYlCmeKrL9&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=7aBkGfb6urRszpbU1zi9lA&_nc_ss=7b289&oh=00_Af_Mwnh6jTIyssOuP2h3eLAPnQjLblbpq5fwNONOu_yTkw&oe=6A239B1D"
+            ]
+        },
+        {
+            "id": 92,
+            "category": "Clima Laboral",
+            "text": "está con\n61 personas más\nEquipazo de carozos verfrut..\nTodos comprometidos 98% asistencia\nInstagram\nCaro Paiva\nEs muy buen ambiente laboral ojalá esté recibiendo gente\n2 años\nCamila A Cáceres ha respondido\n2 respuestas",
+            "images": [
+                "https://scontent-scl3-1.cdninstagram.com/v/t51.71878-15/502403899_576927928373813_4827132358548637776_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yRGaD_hpdV0Q7kNvwGOeAmN&_nc_oc=AdpqTuhv4LsPhCWcD2hUxpqG5zRwg1Os456L8MbbTHpIGI8KfzPxWv-Plzq-ZWlVGE2ryVt2lxMwjAlThmqhx7rx&_nc_zt=23&_nc_ht=scontent-scl3-1.cdninstagram.com&_nc_gid=dLqk_dF2e181qLAlbrdjkQ&_nc_ss=7b289&oh=00_Af-GM4wvm_qH5HT4-TMhC5pqj4xSNEM9XHfePWXvUGSuZQ&oe=6A23B8D8"
+            ]
+        },
+        {
+            "id": 93,
+            "category": "General",
+            "text": "está con\n13 personas más\nTrabajo Terminado y entregado…\nMuy buen Equipo\nInstagram\nNegro Soto\nOooohhh...\nEsa pega ta wena..\n2 años",
+            "images": [
+                "https://scontent-scl3-1.cdninstagram.com/v/t51.71878-15/495816543_992741569644832_7011755294008559938_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=c9YNPAShwhgQ7kNvwF_qHqS&_nc_oc=AdqSWHh3iS6iwae5Az1N03kvg443x1ZA3XHpu_r6rCNMt11sVK5xufIaVQT9EESHBx5wEQJ6eBMO8DXqeTZXnqYx&_nc_zt=23&_nc_ht=scontent-scl3-1.cdninstagram.com&_nc_gid=AV19S39fM0QznCwefcnfdQ&_nc_ss=7b289&oh=00_Af8w9-iKQ7XM9xoKP0KQ92EAnH_4wVQU_hvuweMOC1Ua0g&oe=6A23AD6A"
+            ]
+        },
+        {
+            "id": 94,
+            "category": "General",
+            "text": "está con\n20 personas más\nInicio de una nueva temporada..Carozos 2023/24\nInstagram\n110\nPatricio Nuñez Barrientos\nSin miedo al éxito\n2 años",
+            "images": [
+                "https://scontent-scl3-1.cdninstagram.com/v/t51.71878-15/502960927_719915213788257_3029835207222123598_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=myvCUPvitSwQ7kNvwHoc8bp&_nc_oc=Adomh01B5jWLgBNP7ncNhG6a2mykfEKGBoQfeT34I6-oJth9fmXaSjr4FSnoyS2zuLhTA0zO_6QDE16eEMwz-b91&_nc_zt=23&_nc_ht=scontent-scl3-1.cdninstagram.com&_nc_gid=AV19S39fM0QznCwefcnfdQ&_nc_ss=7b289&oh=00_Af_uAmuc8vyFVVkUk_8DkorjNO8sANpvtTPBcprfstoydw&oe=6A239A70"
+            ]
+        },
+        {
+            "id": 95,
+            "category": "General",
+            "text": "está con\n51 personas más\nLa competencia Laboral es sana,siempre que los contratistas cumplan con todo lo que la ley exige.\n-Contrato...",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/507571487_10238711898440960_3207143300727407300_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=rPqSzToqFVgQ7kNvwFv5pZD&_nc_oc=Adogu5pJ4aJZeU0WSlNcBimVZTu1-wPc5sY_7tmLNxh-srNyKwx9h4UInbsWnOWBcBnZpevyvMyRlW595iC6pC6h&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Qts2N7ddDojyJsYZVk9sXA&_nc_ss=7b289&oh=00_Af_hc6k_QrLqBWFodf3e2x-P7GLRXp4v5kgZ9mHTG7NvwA&oe=6A23BC1D"
+            ]
+        },
+        {
+            "id": 96,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n97 personas más\nACLARACIÓN;\nDebido a tantos llamados para saber del packing de cerezas que hacíamos en Curico por varios años queremos informar que ESTE AÑO NO IREMOS debido a qu...\n163\nFrancisco Javier Duarte\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508824335_10238711074540363_9212835084561799030_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=K9uoiRzFz68Q7kNvwEMv_y4&_nc_oc=Ado45WfzWiLjVmV2z9h6eT9raphAK1GTzN5SokWYYdLTCkzyLp9HYF7A8lWvfODyDacIDIhVOqCJcMSQZC_JTFbD&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Qts2N7ddDojyJsYZVk9sXA&_nc_ss=7b289&oh=00_Af9-Hb1bNmnPjt6VV72sfksNBR1XT7L1WdmvS54z9jqrHQ&oe=6A23B7B4",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508410717_10238711074580364_5867102792314120409_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LNC4KBH9kUMQ7kNvwEpx97G&_nc_oc=Adr4lR9nOWYe0tAFoKmHJyQEhL9dnjRFCWn5TEGzMMkSYAIxcmmRxBF5k3kEjg8HD0MscETmFaMXhvWSOGeAJV9B&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Qts2N7ddDojyJsYZVk9sXA&_nc_ss=7b289&oh=00_Af934lsFatmpRO4fqagiP0TTuaOTPjSKI6QbfBneI0ZGhQ&oe=6A23A195"
+            ]
+        },
+        {
+            "id": 97,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n81 personas más\nInformación Laboral\nEntre el 15 y 20 de noviembre daremos inicio como todos los años a la esperada cosecha de cerezas en Millahue.....\n132",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/509102308_10238705499320986_6232663832155056867_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=c4WESieHdooQ7kNvwGScCp5&_nc_oc=AdoWlGtQjuxoSrwAJj-bfiYD6NF5NeERPdDoqGkspIZxWKccOxI3FomsB7dy49t7NNN7m2Utyj2rQn-mnVKUTryD&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=tKNcGqx9ShDaxF3vB7Y2gA&_nc_ss=7b289&oh=00_Af9rNdc39u_Gi36ANUlGwsk7Niz2zh5PsUfWC1Z5XY6Sag&oe=6A23A825",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508501665_10238705499120981_1289784477796118810_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=S6RlSYopygQQ7kNvwE8c83F&_nc_oc=AdpyDrW13qMmU0I9lo4WoN4-06hP8qi0EN-IIqFCP2C4zpmQfTYgkcy2OLxhuViUii8bHiNUAfVNCZWi8rNxXlnN&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=tKNcGqx9ShDaxF3vB7Y2gA&_nc_ss=7b289&oh=00_Af9DopfVKwSbDxkhCRWYj1gns8s2V4DZlcnWlwua8CY9dw&oe=6A23A40F",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508555713_10238705498920976_8866273133618091702_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_6jptlDMQYAQ7kNvwFkrlbF&_nc_oc=AdpaDtLO-wgq60eKqjmME9oDPiCMsasHwa_jeIQk1ECWRByA0Nq1c--bmEjLi2H1wtsvJfqE6tovgGKcJiUMTyoL&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=tKNcGqx9ShDaxF3vB7Y2gA&_nc_ss=7b289&oh=00_Af8tezoEH_iyMV5-B1yEcNReVEz4EiFSR1zPNwHzM5qFiQ&oe=6A23B054"
+            ]
+        },
+        {
+            "id": 98,
+            "category": "Valores y Filosofía",
+            "text": "está con\n8 personas más\nTodos fuimos, somos y seremos jugadores hasta el último día de nuestras vidas. Con mas años, menos años, con más kilos, con menos kilos, amateur, profesionales, juveniles, veteranos, o lo que sea. Nunca entenderán nuestras mujeres las cosas que hacemos por juntarnos entre amigos y jugar \"a la pelota\". Pagaremos inscripciones, canchas, botines, camisetas, todo para jugar al fútbol, gastaremos plata y tiempo en recuperarnos de lesiones,...\n103\nFach FC\nFeliz día un grande usted un tremendo abrazo de goool\n2 años",
+            "images": []
+        },
+        {
+            "id": 99,
+            "category": "Valores y Filosofía",
+            "text": "está con\n98 personas más\nCon todo el respeto que se merecen mis colegas pero siempre hemos tratado de marcar la diferencia y profesionalizar lo máximo posible lo que tanto amo que es mi trabajo...\n115\nIsabel Carreño Perez\nAnimo Don Jorge\nYo siempre he escuchado que usted es un muy buen empleador\nQue pelea siempre x el bien estar de sus trabajadores esper de corazón que se le soluciones sus problemas...y animo mire que lo bueno se devuelve un abrazo\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508415264_10238692700721029_6546577273097482267_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UQF3QCT94EQQ7kNvwEvolkj&_nc_oc=AdqeRBGT2ppJNCAEqjrbJPMsua_38E-aiGKp2IuFHMgXETurWoYHeGGK7Ud6e5Pl-pRGTdMwclBGJVSBj-mMjDVk&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=RZsCSW21ub13zjSM15BxlQ&_nc_ss=7b289&oh=00_Af_zKyuCTH8bTIu9U6jRqDZmYG5_eDTiipj08ZzulCvNNg&oe=6A23C5E6"
+            ]
+        },
+        {
+            "id": 100,
+            "category": "General",
+            "text": "está con\n95 personas más\n26 años dedicado a mi amada empresa\nGracias viejita linda por incentivarme a formarla..Al parecer no lo hemos hecho tan mal…...\n214\nGuido Perez\nFelicitaciones a ti y tu equipo. Sin duda el esfuerzo ! Da frutos !\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508688555_10238690367502700_95556879394072380_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hfmxqUuzv9cQ7kNvwEmadTv&_nc_oc=Adp128wFZROgR5mD--zfjMuIVNdXe8L0ZscWWIJtEuzFJBTJ3T7bvsQfAiAINnLk8P1ch_rRbO2gsJScFDrE962z&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=-6DaiVwavSxAbmGUpYrIzg&_nc_ss=7b289&oh=00_Af_h1B3CEIIdDHHCcAhlO27Tb_A02oAESNPwtcvnacqHWQ&oe=6A23C8D0",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508170184_10238690367542701_2041575279447366094_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4MoAbLii7ecQ7kNvwHCX6GA&_nc_oc=Adpq0WYKTlrQev2RsYbd8n3t_rnmNq8dydNHU-YYDfzvsz5DlXV-0PcyXkMv716SZk9MJuH0OKMDMHMgC2N31QS-&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=-6DaiVwavSxAbmGUpYrIzg&_nc_ss=7b289&oh=00_Af9M2lqSvMyoZ9bknmYxY-TpQ8ebZvqSfK6kTDkB_Jn96Q&oe=6A23CB6A",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/508184976_10238690365262644_2561826999856276339_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=QIUy4LPtA_gQ7kNvwF-Jlp7&_nc_oc=AdoorvL6dOowswgskUT3z_LhjV1ZhJFbcY8-oJJRWiI2_Q8-YMs9ApOyYvNSInXlI6Wvk7SFIbIub1T-xGarqrlt&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=-6DaiVwavSxAbmGUpYrIzg&_nc_ss=7b289&oh=00_Af8gnxBOOJC9aQ_sSZR3h0J7V5RTOKZuejZr185B9FZyVQ&oe=6A23A292"
+            ]
+        },
+        {
+            "id": 101,
+            "category": "General",
+            "text": "Jorge Pailamilla Duarte\nDescansa en Paz querida\nCecilia Acuña Orellana\nque triste noticia..nos deja una compañera de trabajo ..\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506461781_10238682791113295_38818626347860039_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=e_Omtv08zvwQ7kNvwG6FoVG&_nc_oc=AdqRS07fr62caUtP_4GmuySWdyfbuh2fa89nGjihJhbvCkE85qJHpWmAChdDmqkDwhSSzLiyJ_hh0ckpJFPOmqby&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=cNMghkXAkLS_i09CZcXurA&_nc_ss=7b289&oh=00_Af8_ysf8SLloX9jizk1bhs_RUMLb5ZHyGBYU4U4qzyEJ5Q&oe=6A239905"
+            ]
+        },
+        {
+            "id": 102,
+            "category": "General",
+            "text": "Cecilia Acuña Orellana\nque triste noticia..nos deja una compañera de trabajo ..\n2 años",
+            "images": []
+        },
+        {
+            "id": 103,
+            "category": "Compromiso Social",
+            "text": "Jorge Pailamilla Duarte\nEstamos hasta el Loly…\nNo pueden faltar ni Alexis ni bravo\n24 Horas Deportes\nEL 'CÓNDOR' EMPLAZA A BERIZZO\n...\nManuel Montecinos Cáceres\nGrosero error del D. Técnico. Partimos mal...\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/476822395_942848728000007_7957836501188697102_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_aid=0&_nc_ohc=QMzs82CVNkUQ7kNvwFZ7F9s&_nc_oc=Adr8SUTvHYlacoZUONXAVnVEqiPRlHSNrdHhIeikOaXkaYRPe_eU_bhpIdCuE4oqvQ8SYc_KFOyisNOQd0LZ-_nj&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=hbu5EmwFRWh0dcFSvHpAdw&_nc_ss=7b289&oh=00_Af-wMpUHqoLLACKztsIlMD3UlEnJomJwfQcqdWHoQHL-Sw&oe=6A23A004"
+            ]
+        },
+        {
+            "id": 104,
+            "category": "General",
+            "text": "está con\n96 personas más\nEn estos tiempos difíciles que estamos viviendo como sociedad y como país,Agradecer es poco pues contamos con trabajo el que hoy en día está muy pero muy escaso,llevamo...\n159\nLuis Meza\nNecesito peguita\n2 años\nLuis Meza ha respondido\n2 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506795217_10238651918421497_3401461105315165216_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=7F5r5YqJIOQQ7kNvwHmCn4D&_nc_oc=AdoHGjYlIJH6A06G70Vrx8AjAhyRplogRVHcp9jrKAr-2_uA4DpDH1jqbcFUYYFrfSfKU7hqDfTRMkvwKU-bGQMC&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=XqC6pt6dKHuBEHOcKk5R7Q&_nc_ss=7b289&oh=00_Af9xd8qm9oTNCOkgLdByOH4Zs5fjEmyvZdSJN1Uy_Be7aQ&oe=6A23967C",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506096940_10238651916421447_4024279913855083974_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=XNQo4wXc2vQQ7kNvwEE4042&_nc_oc=Adpg70v8JroVkiyTF29hEFw0m5PMwhcyUCUsAh9pEw7sOdrd7quF_EyoGdoS1kwDFq4NPkECGFZngivahvnSck8K&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=XqC6pt6dKHuBEHOcKk5R7Q&_nc_ss=7b289&oh=00_Af-lhFxVKakKwUpMGk3Y6Vh_Ux5bZg1EvW6QDYrzvuFOkw&oe=6A23B7CE"
+            ]
+        },
+        {
+            "id": 105,
+            "category": "General",
+            "text": "está con\n96 personas más\nOPORTUNIDAD LABORAL:Tenemos 6 cupos para podadores “CON EXPERIENCIA”en ciruelos y cerezos..\nInteresados llamar a\nal +56 9 5215 1655...",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506520713_10238622201118583_5066927253711949019_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NZRYoa25qkUQ7kNvwHKzAuD&_nc_oc=AdotA_qGJuF29f6nJ9lN2A_f_q4TphOw6gzvqFTzGbNs_UWmsQHLN4uSZQ0cAKsOPVIk-urByW29jSoc_QzNFcY_&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Cr4FzalPEIO5p3aOd_TJOw&_nc_ss=7b289&oh=00_Af95TLajA6FvMlKoZNUGmfymEYCQcNCiJ8LqDc3Lwo17Fw&oe=6A23A142",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506388714_10238622195798450_1569971287765008602_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MBtWiWWaibcQ7kNvwGR3kcr&_nc_oc=AdotTm0K7bCIrg8jIRYhSc2po-UqFHchHEyAKdoPwih9YHLj_2_LtmD5w7GFSg6n73qTamsP1sxsk4CxhVwEcQTc&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Cr4FzalPEIO5p3aOd_TJOw&_nc_ss=7b289&oh=00_Af_XFZ3_5VBdyn0Bn4vG9qX36DvptXR1EYOZMjb9qCaqnA&oe=6A23B6D8",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506460743_10238622200998580_2084803310241065722_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ePVDVtkuLCYQ7kNvwFHyzfE&_nc_oc=AdrRKrdrr9sYVqFMgOjmZILH2ce5BhFHQgtwYCOtehxi1DpdyEaKD60KuxY-5AIG0f0sIgzGH1RV9z5FinRcUhus&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Cr4FzalPEIO5p3aOd_TJOw&_nc_ss=7b289&oh=00_Af8zFzQQvYBY2baVquyyuNeZDoRu8FhcF7rvS8lLs9q5DA&oe=6A239A7E"
+            ]
+        },
+        {
+            "id": 106,
+            "category": "Operaciones y Cosechas",
+            "text": "Jorge Pailamilla Duarte\nJacqueline Fuentes\nSe cosecha lo q se siembra , éxito para esta nueva temporada!!\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/357005398_520034330249343_972485301982338416_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=2b839e&_nc_ohc=mLjPxmMY1FUQ7kNvwEENa8z&_nc_oc=AdoDOapYYTTPOhA3OJa-FO1OQskAyxrqD50WiasI7ptlqmaEAJa4ET8Y-b2u8Vls4gkYBkwpXChP-hx69Jg9pl3h&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=2wlQSLlIxLKSyZftpCqoEA&_nc_ss=7b289&oh=00_Af-BYznf81OLUYgdMhHDEVuNAlzMs8-ckDH3xFBorr_U2w&oe=6A23B341"
+            ]
+        },
+        {
+            "id": 107,
+            "category": "Operaciones y Cosechas",
+            "text": "Jacqueline Fuentes\nSe cosecha lo q se siembra , éxito para esta nueva temporada!!\n2 años",
+            "images": []
+        },
+        {
+            "id": 108,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\nCerrando Cerezas\n2024….Todo indica que tendremos turnos día y noche…Estaremos informando…\n175",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506053754_10238615392988384_9083944056840983634_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=7epMlSWRd_EQ7kNvwFtGxum&_nc_oc=AdpEGOwRQHSCB9aoTfqP9gNAPspTkj5Ma2tUCiIPkhygfPK4H751M5bjDiALqtZxLUs2ubs0DW04Ce2PQVMVBmJA&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=LC_sHoK-Ptvp7XtMiQy0Qg&_nc_ss=7b289&oh=00_Af-dVgRletl2CRrwbiqf1ryBnWP8ugNwde3-lqrUznRzzA&oe=6A23B4F8"
+            ]
+        },
+        {
+            "id": 109,
+            "category": "General",
+            "text": "Jorge Pailamilla Duarte\nRafael Osvaldo Rivera Romero\nFelicitaciones bendiciones amigo y éxito en esta nueva temporada...\n2 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/355214531_1919781008414855_3409098967778305386_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=2b839e&_nc_ohc=rAykRFKbVREQ7kNvwHoKHCH&_nc_oc=Adr8pd6zLG1KzCdx-sYMCL7PE87U-DW_sqFHZGnZAjtd7xJJXxzcySyZDplcMiJoYKG-GFE2F4y4Q3vnVOjSDcrO&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=AoQ0EnXW6elIqSZLDz05zw&_nc_ss=7b289&oh=00_Af-wheYSxL8SrCkCBXmCvBBlIs08t_i4bCzqCD9au2Au_Q&oe=6A23B580"
+            ]
+        },
+        {
+            "id": 110,
+            "category": "General",
+            "text": "Rafael Osvaldo Rivera Romero\nFelicitaciones bendiciones amigo y éxito en esta nueva temporada...\n2 años",
+            "images": []
+        },
+        {
+            "id": 111,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n95 personas más\nExcelente Grupo…\nGracias a la Empresa por la confianza por tercer año consecutivo y por supuesto a cada uno de las personas que forman este gran equipo de “Packing de C...\n125\nGuido Perez\nFelicitaciones. Un buen equipo nace de un buen líder. Slds\n2 años\nMaria Elizabeth Abarca Vera ha respondido\n2 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506763595_10238610123856659_3882729767182121136_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=wQJX_egGw48Q7kNvwE2OOpx&_nc_oc=AdplFdMyvmH8iT9AV4-W5c8_CtvCPqvf28rUEC-kYAl8we6fwcFk163LPPPNrU5vzG78NHTU4QDhj5dK5F-sZKpu&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=BNwqxJZBNKYGDZkNDVpWgA&_nc_ss=7b289&oh=00_Af_M-2V9OuKyyjTWlrIoVbcKERb83K3MleOzhBNwnEWEuQ&oe=6A23A622",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506619017_10238610120976587_1967461434477084177_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mQDllBVnY_oQ7kNvwEqJyOp&_nc_oc=AdpOqR3chl70MZM7V26tkBeP4HwBxUIlNO570lpRvhH4BDU32fh745zANy9xIFLVg_xvT4At1MrF66GzzZqV90ip&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=BNwqxJZBNKYGDZkNDVpWgA&_nc_ss=7b289&oh=00_Af8g9iWC6e74ZmB57d-LGKlKB2KkV991RVa-laWsHOLDrg&oe=6A23AA37"
+            ]
+        },
+        {
+            "id": 112,
+            "category": "Valores y Filosofía",
+            "text": "está con\n21 personas más\nNo soy del Colo pero me gusta el fútbol y encuentro totalmente injusto las críticas a Pizarro..\nTiene 18 años ojo 18 años y le cargan todas las críticas y responsabilidades de las consecutivas derrotas ¿y qué pasa con los más viejos? Pavez y varios más… Niun brillo.. Ayer me daba gusto verlo como luchaba y pelea cada pelota solo contra el mundo…Se pierde un gol solo pero con 2 jugadores de boca colgados de él se los llevo a la rastra....",
+            "images": []
+        },
+        {
+            "id": 113,
+            "category": "Valores y Filosofía",
+            "text": "está con\n91 personas más\nMi reconocimiento , admiración, respeto y por sobre todo mi agradecimiento para cada uno de ustedes por confiar año tras año en JPD y formar esta linda alianza que a du...\n110",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506003597_10238561935251974_7149114505387999960_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=m0VJ9hLwh3kQ7kNvwEsLUdH&_nc_oc=AdpKXwJXVlUEwTHdWMF0GR_c-SoDGYqe1wcSI40gXQPBsKwBce4hWrNO6I7NIzQH3ciUN0rQDgKE82T6ni4KMcQX&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=lu9W0A-reODTzfSNhvNdvg&_nc_ss=7b289&oh=00_Af8GlZoFdf9LdujsUwQqFFc4npWlKUI1ig3akAJ1BGDTGw&oe=6A23B1A6",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/506048535_10238561934771962_2506307156751799168_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=6OY9BdO9XOUQ7kNvwG01bzT&_nc_oc=Adp7pqJO3Iaf98u8zpReQcAu0-hLYXtodOrB2isiH9kc4xh-mb42v3sbr5ygoeyQkF77AtRnJBvRvwsEcM-w8FAF&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=lu9W0A-reODTzfSNhvNdvg&_nc_ss=7b289&oh=00_Af8vvhvSOLPxsHj-MpIHvVMBg0gw_4RcdhQuK_XJSwis1g&oe=6A239F57",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/505752309_10238562052734911_8308418721117065336_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=EdYTpJbY5V8Q7kNvwHffZfD&_nc_oc=AdqKYFdsl6AbddDcmI0GqYq7WGb9ckq1CM6AufHl0ooAFeWp7Nz9yBWrE6fDxh85i6T3KOHlhlCiIYi_Aa3ajka2&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=lu9W0A-reODTzfSNhvNdvg&_nc_ss=7b289&oh=00_Af8o-uZQuHOthQ6aCwxg4f21y14dctC3bIDqC36ZdYDkoA&oe=6A23C510"
+            ]
+        },
+        {
+            "id": 114,
+            "category": "Valores y Filosofía",
+            "text": "Jorge Pailamilla Duarte\nCagaos de la cabeza van a existir siempre… Por eso estamos como estamos!!!\nNingún respeto, el estadio lleno de niños que por primera vez asistían felices con sus famili...\nGregorio Reyes\nAsí es amigo...la delincuencia se apodera en este país de mierda...y nadie hace nada ..Y eso q ni si quiera hay hinchas visitantes...entran con cuánta cosa pillan...al estadio\n3 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/505744644_10238561734766962_8153916433374264005_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=R_cAcd8KMxcQ7kNvwHk7Dh9&_nc_oc=AdreoXccdFZCKEVTN_kOUfQKNbp6xZ1S2d5CpezOdzbwf9k1vXz0D0-qVt_iiD3PFKCW0Eavj2K4f_BWpdt16YdQ&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=VYJAdWWW30PkYW_Fw6U23g&_nc_ss=7b289&oh=00_Af-lonG1MKIL7OsV4-JjrCKnYw8GEdMvvpf1JdVRg0v2Vg&oe=6A23A504",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/505706484_10238561739607083_6665069834882943186_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=HD8C04nonrUQ7kNvwFZ0Gah&_nc_oc=AdryhZQKjJSKt7buB1xXTz8fcJvQKpbKBgfGzv3TBLgAmv5DDqp3KpTIHcD1hamPwSDjviX5WOBcuqJV7aF_Cc30&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=VYJAdWWW30PkYW_Fw6U23g&_nc_ss=7b289&oh=00_Af8u1tSSckDO2voo3Lq6r6ZjtRZyusIXOpHLXt7ppQFznQ&oe=6A23A674",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/505987405_10238561739887090_4885422351638537388_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pePjozMPJQMQ7kNvwGUZXHD&_nc_oc=AdolVbc4PnW5dajeG1mdTC5KtsqEZRCYGDHrR8b1nGcN_OEIV9qTuK5TF42nprEqnrA-x--SvNjPQXj2jnzhvR7W&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=VYJAdWWW30PkYW_Fw6U23g&_nc_ss=7b289&oh=00_Af9s5_M1HjuIzEMFXfHW0rGy0VYdIzDnGRLcqCXA6sY1FQ&oe=6A23B43D"
+            ]
+        },
+        {
+            "id": 115,
+            "category": "Clima Laboral",
+            "text": "está con\n35 personas más\nNo todo tiene que ser trabajo.. Hay que meterle un poco de ejercicios y que mejor que con una buena clase de Zumba!!!\n130\nAstrid Pinilla Henriquez\nSin miedo al éxito\n3 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/505851744_10238556689240827_7196001226306495197_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MVBUAE_Z0lMQ7kNvwE3ShbU&_nc_oc=AdoBmUze9liK4xfNflZNms_3KU8GCfTa-w7SH4N7Wh49r0GDbwL9CA2xHDU5WjU992zFtqDc4TtZlZ7cZ7_7_cgY&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=dk0jfZZGWNZ6CB5dJeSVgA&_nc_ss=7b289&oh=00_Af8CBcUgNIUp3n8xeOwhmxMy-CCSs0Hmcp69kfTXUnxvJQ&oe=6A239B06",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/505879884_10238556688840817_5920198738917803294_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=T33_gnRNcYQQ7kNvwGo2GQe&_nc_oc=AdrMMsLWJMyLxESd_8CxYIsNwecxCSGf0KdV3AlGH5exc4BML-F-rf3lAGasDFH3KcpPfO6h6knQ-zQXrABRtt2h&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=dk0jfZZGWNZ6CB5dJeSVgA&_nc_ss=7b289&oh=00_Af-0ZDzuWOmpgLNaY5XLUAVg1claq6ElExnPYUR_b-knsw&oe=6A23BFB0"
+            ]
+        },
+        {
+            "id": 116,
+            "category": "General",
+            "text": "está con\n58 personas más\nEn estos tiempos difíciles es importante agradecer a Verfrut por confiar en nuestro servicio por tercer año consecutivo a todos los que componen el equipo JPD Y por sup...\n123\nErik Marcelo Ossandon Jara\nSIN DUDA USTED ES UNA GRAN PERSONA QUE DIOS LO BENDIGA YA QUE LE DA TRABAJO A MUCHAS PERSONAS\n3 años\nErik Marcelo Ossandon Jara ha respondido\n3 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/505765141_10238553099071075_1966821523268084574_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=rWQFYvC_u64Q7kNvwHAvNpD&_nc_oc=AdrB1huCjeEk3NXsFBdJcf7CAeTtRAYct8NPeJYyYrovFEF-m8Z6o5vCPW5TNKOID_u7NYXFT5EIrrNzCqLW11tT&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=dk0jfZZGWNZ6CB5dJeSVgA&_nc_ss=7b289&oh=00_Af_B6ugIiLzC6R_BEsgiotQACzYxjtFO0AiTPUrGaxfiKg&oe=6A23AB8F",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/504682749_10238553102671165_268637128084135740_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=AzkDbsqLOF8Q7kNvwHvgY2l&_nc_oc=AdrtDbwXgZPPfsVAyYABXW8rpBE8bbTmj-NjzbVf9ppG2aHHh4z5dvvntqZdNaGE7EpqyPoTbIfcXhtvojuuW9Y5&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=dk0jfZZGWNZ6CB5dJeSVgA&_nc_ss=7b289&oh=00_Af-wLVOjcZHD2HfVW4-j39RR7ksUl-Ci6vHK-2SnIIh1pw&oe=6A23C30C",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/504496054_10238553100911121_2692872400694220506_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=N0n8PzEOehUQ7kNvwHifW5f&_nc_oc=AdqY1ozxUVSRGLiVq77Jj8aosSF_SowgmBfM_kfcYFFGtg9Csuk2hECeFe1oj5kGtMXG5Iw_7g4Eva5HR8TMsZtq&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=dk0jfZZGWNZ6CB5dJeSVgA&_nc_ss=7b289&oh=00_Af_wDPQwe7_dg8NmEw7wAsEUaIoA4JOWu6urazeVXM6VsA&oe=6A23A9BE"
+            ]
+        },
+        {
+            "id": 117,
+            "category": "General",
+            "text": "Erik Marcelo Ossandon Jara\nSIN DUDA USTED ES UNA GRAN PERSONA QUE DIOS LO BENDIGA YA QUE LE DA TRABAJO A MUCHAS PERSONAS\n3 años",
+            "images": []
+        },
+        {
+            "id": 118,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n78 personas más\nTemporada 2023 Cosecha de nueces..Nuevamente Gracias a Agroreservas Chile por la Confianza..\nGuido Perez\nBuen trabajo\n3 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/563287083_789556343871613_2929135977574801806_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yWT01pdfC5sQ7kNvwGg3j2u&_nc_oc=AdpyaXsYZjgwF7XZhfRIsba8O1zwFSvLztFGGvXj2UoK6Aiph3dqSBj9faaScagggwCBA0hAlzKrcwnpnCKQsaws&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=s2rwI6a1-mjtm2qZz5cObg&_nc_ss=7b289&oh=00_Af8YzbmPTj6OraoLtOWgxw6nWLL4tZ8q90IwH4YHOr-4sQ&oe=6A23B8F6"
+            ]
+        },
+        {
+            "id": 119,
+            "category": "General",
+            "text": "Guido Perez\nBuen trabajo\n3 años",
+            "images": []
+        },
+        {
+            "id": 120,
+            "category": "Operaciones y Cosechas",
+            "text": "está con\n94 personas más\nHabía decidido hace un tiempo dedicarme de lleno a los packing.,pero por todas esas muestras de cariño de tantos trabajadores en este mal momento de salud que pase es q...\n150\nPablo Andres Herrera S\nFuerza mostró . El universo está con usted\n3 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t15.5256-10/240096526_1220969361676777_5066774898015345014_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=NE6FLA1g6PUQ7kNvwHHjKqq&_nc_oc=AdpQU0acOagUKozsY_2M7ydKa23R-iTckuirskl_QpltfQoRhWceND80HqAFoXfHOIMzkHxDC6FnnIb3PaR-HONo&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=B9FfgeDKNHPWUG8th206GQ&_nc_ss=7b289&oh=00_Af_B0kfjvABs9sFd1Abvy5oieqpGYWQSGoeik3gHqBqFEA&oe=6A23AEB5"
+            ]
+        },
+        {
+            "id": 121,
+            "category": "Valores y Filosofía",
+            "text": "está con\nJorge Benavides\nEste paso que acaban de dar es la consolidación de la gran relación que traen hace muchos años de amor,respeto y esfuerzo..un gran abrazo a ambos y mis felicitaciones..La más contenta de seguro va a ser la angelita que tienen en el cielo..Ella los llenará de bendiciones!!!\nQue sean felices por siempre!!!!\nGracias\nsobre todo por las últimas palabras esto es en gran parte por ella igual. ella nos hizo indestructibles creo yo\n3 años",
+            "images": []
+        },
+        {
+            "id": 122,
+            "category": "Operaciones y Cosechas",
+            "text": "Jorge Pailamilla Duarte\nHabrán cosecheros para uva de exportación???\nInteresados llamar a\nal +56 9 5215 1655\nVilma Aquino Rios\nCon campamento\n3 años\nVilma Aquino Rios ha respondido\n4 respuestas",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/504838002_10238508742922199_2743777530990430312_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qteuKbv12ToQ7kNvwGlb0C8&_nc_oc=AdpCnHCLa-lkryvFyhsYx4Y1X7VsAFDSY1UEsLlKpj8mlfR2iIxj2z7YJMQUznD7LusEHHOlDAsmXxQMtQy_becM&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Si-IbM1PVluU7jt9LunYuw&_nc_ss=7b289&oh=00_Af87AXBiS6UdGAcMtnUlAnUVyeG1ADjcZI7bNFfM5BhN9w&oe=6A23C319",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/504384826_10238508739562115_1654825195548415830_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qoTaUIZUuSUQ7kNvwGJy44_&_nc_oc=AdpRLdU93bgv_YI0HT8sErnIY9N-P9oZK9L-ydxsHtQvn-A3McOkX222kH82UCq1rglnFlOrihSSOzsJSVo6M9hy&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Si-IbM1PVluU7jt9LunYuw&_nc_ss=7b289&oh=00_Af8qNWpEYVpx6pIXVSPEhVR00_WigcOb80_3PTrLoyTQsQ&oe=6A23CBE5"
+            ]
+        },
+        {
+            "id": 123,
+            "category": "General",
+            "text": "está con\n21 personas más\nNo saben como me gustaría estar ahí con ustedes…Se que a sido una temporada complicada por eso les doy infinitas gracias por estar ahí y apañar en las buenas y en las malas\n139\nErik Marcelo Ossandon Jara\nTRANQUILO MAQUINA CUIDESE MUCHO\n3 años",
+            "images": [
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/504582412_10238508696961050_8103424841964288559_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=kSerZF0P_XkQ7kNvwEUZpMn&_nc_oc=AdrZSrGbmJcMyDNs6YReexS-L4kJBV2Bo4M71Eu15X3IhOYPWCm_GL9hikGHcw3ZytDnBaUHFcc_ivh48vtlLK2z&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Si-IbM1PVluU7jt9LunYuw&_nc_ss=7b289&oh=00_Af_hd2DddxExZRY2UFHFDgEZ0i1IUvahook0_CUyLc6G8g&oe=6A239A57",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/504241015_10238508700401136_5547145874048581857_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=bLOPbBB85p4Q7kNvwHJ_K42&_nc_oc=AdoFHjp6yBpOpc2BdZ8X5TTbNZZ8oX0Xn-WC52HeZcL78whkLoRGzQKJck8SFsw3KE2WfCpMdjEtSPnTo3IYNBY1&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Si-IbM1PVluU7jt9LunYuw&_nc_ss=7b289&oh=00_Af9UF7jWHtMB9Sf8XCF7C7-LdNC_YvEr3uXYJ0hzGJwIDw&oe=6A23997E",
+                "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/504331021_10238508699081103_1425937012696758991_n.jpg?stp=cp6_dst-jpg_s590x590_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=7B22ZNCCRcQQ7kNvwEKLm5z&_nc_oc=Adrbe5Uzr1CcvxNq70QIb1Ay5VGyVFt3T5Fso4GAMnuIqIRz8_Cb146ZR7o8glaO0RUumwUNVFnLW1I656yTYKec&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=Si-IbM1PVluU7jt9LunYuw&_nc_ss=7b289&oh=00_Af-DqKUclR8u1Ev4EPhDiu6UtadU3MvRap8Jn7Roi0Bdig&oe=6A23BAFB"
+            ]
+        }
+    ]
+}
