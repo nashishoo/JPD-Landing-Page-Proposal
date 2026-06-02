@@ -35,31 +35,39 @@ La plataforma fue desarrollada siguiendo estándares modernos de diseño web din
 
 ## 📁 Estructura del Proyecto (Limpia y Optimizada)
 
-El directorio ha sido ordenado de forma óptima para facilitar su portabilidad y lectura rápida:
+El directorio ha sido ordenado de forma óptima bajo una arquitectura modular limpia para facilitar su mantenimiento y portabilidad rápida:
 
 ```bash
 JPD-Landing-Page-Proposal/
 │
-├── data/                             # Data local extraída del scraper
+├── assets/                           # Activos y recursos del sitio web
+│   ├── css/
+│   │   └── index.css                 # Hoja de estilos con variables, media queries y animaciones
+│   │
+│   ├── js/
+│   │   └── index.js                  # Lógica interactiva y controladores en Vanilla JS
+│   │
+│   └── images/                       # Recursos gráficos y de identidad visual
+│       ├── logo jpd.jpg              # Logotipo circular oficial de JPD
+│       ├── logo texto jpd.jpg        # Logotipo textual secundario de JPD
+│       ├── jpd_real.webp             # Retrato destacado del fundador Jorge Pailamilla
+│       ├── hero-harvest.webp         # Fondos de pantalla del carrusel principal
+│       ├── hero-packing.webp
+│       ├── hero-team.webp
+│       ├── servicios-cosecha.webp    # Ilustraciones de la sección de servicios
+│       ├── servicios-empaque.webp
+│       ├── servicios-ventajas.webp
+│       │
+│       └── gallery/                  # Archivos de la galería interactiva
+│           └── *.webp                # 20 imágenes WebP livianas de alta fidelidad
+│
+├── data/                             # Datos locales estructurados de soporte
 │   ├── cleaned_jpd_data.json         # Dataset procesado principal
-│   ├── facebook_data.json            # Respuestas en bruto de redes sociales
-│   └── owner_data.json               # Datos biográficos estructurados del propietario
+│   ├── facebook_data.json            # Respuestas extraídas de redes sociales
+│   └── owner_data.json               # Datos biográficos estructurados de Kitto
 │
-├── gallery/                          # Archivos de la galería interactiva
-│   └── *.webp                        # 20 imágenes WebP súper livianas de alta compresión (no JPG)
-│
-├── index.html                        # Maquetación semántica e interactiva del sitio (con Modales)
-├── index.css                         # Hoja de estilos con variables, media queries y animaciones
-├── index.js                          # Lógica interactiva en Vanilla Javascript
-├── jpd_real.webp                     # Fotografía destacada del fundador Jorge Pailamilla
-├── logo jpd.jpg                      # Logotipo circular oficial de JPD
-├── logo texto jpd.jpg                # Logotipo textual secundario de JPD
-├── hero-harvest.webp                 # Fondos de pantalla del carrusel principal
-├── hero-packing.webp
-├── hero-team.webp
-├── servicios-cosecha.webp            # Recursos de la sección de servicios
-├── servicios-empaque.webp
-├── servicios-ventajas.webp
+├── index.html                        # Maquetación semántica estructurada (con Modales)
+├── .gitignore                        # Archivo de exclusión para Git
 └── README.md                         # Esta documentación general
 ```
 

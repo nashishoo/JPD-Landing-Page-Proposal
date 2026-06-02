@@ -687,7 +687,7 @@ strong {
     z-index: 2;
     aspect-ratio: 4 / 5;
     background: linear-gradient(180deg, rgba(13, 27, 62, 0.15) 0%, rgba(13, 27, 62, 0.85) 100%), 
-                url('jpd_real.webp') center/cover no-repeat;
+                url('../images/jpd_real.webp') center/cover no-repeat;
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-lg);
     padding: 40px;
@@ -3020,7 +3020,7 @@ strong {
     position: absolute;
     width: 280px;
     height: 280px;
-    background-image: url('logo jpd.jpg');
+    background-image: url('../images/logo jpd.jpg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
