@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cuadrilla 1 — Cosecha Cerezas",
+    "caporalId": 1,
+    "clienteId": 1,
+    "laborPrincipal": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "precioTrato": 1500,
+    "fundo": "Fundo El Cóndor"
+  },
+  {
+    "id": 2,
+    "nombre": "Cuadrilla 2 — Packing Uvas",
+    "caporalId": 8,
+    "clienteId": 2,
+    "laborPrincipal": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "precioTrato": 22000,
+    "fundo": "Planta Millahue"
+  },
+  {
+    "id": 3,
+    "nombre": "Cuadrilla 3 — Cosecha Arándanos",
+    "caporalId": 15,
+    "clienteId": 3,
+    "laborPrincipal": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "precioTrato": 2200,
+    "fundo": "Fundo Los Quillayes"
+  }
+]

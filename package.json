@@ -1,0 +1,21 @@
+{
+  "name": "jpd-servicios-agricolas",
+  "version": "1.0.0",
+  "description": "Propuesta de Landing Page de Alta Fidelidad y Admin Panel en Node para JPD Servicios Agrícolas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "jpd",
+    "agricultural",
+    "admin",
+    "express"
+  ],
+  "author": "JPD Servicios Agrícolas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Verfrut",
+    "fundo": "Fundo El Cóndor",
+    "contacto": "Ricardo Alessandri",
+    "telefono": "+56 9 9123 4567",
+    "correo": "r.alessandri@verfrut.cl",
+    "markup": 0.20
+  },
+  {
+    "id": 2,
+    "nombre": "Copefrut",
+    "fundo": "Planta Millahue",
+    "contacto": "Ignacio Matte",
+    "telefono": "+56 9 8234 5678",
+    "correo": "i.matte@copefrut.cl",
+    "markup": 0.15
+  },
+  {
+    "id": 3,
+    "nombre": "Olisur",
+    "fundo": "Fundo Los Quillayes",
+    "contacto": "Valentina Concha",
+    "telefono": "+56 9 7345 6789",
+    "correo": "v.concha@olisur.cl",
+    "markup": 0.18
+  }
+]

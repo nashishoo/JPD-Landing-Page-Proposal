@@ -1,0 +1,3314 @@
+[
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-12",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-22",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-29",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 75,
+    "precioUnitario": 1500,
+    "totalGanado": 112500
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 102,
+    "precioUnitario": 1500,
+    "totalGanado": 153000
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 103,
+    "precioUnitario": 1500,
+    "totalGanado": 154500
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 62,
+    "precioUnitario": 1500,
+    "totalGanado": 93000
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 82,
+    "precioUnitario": 1500,
+    "totalGanado": 123000
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 70,
+    "precioUnitario": 1500,
+    "totalGanado": 105000
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-12",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 72,
+    "precioUnitario": 1500,
+    "totalGanado": 108000
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 105,
+    "precioUnitario": 1500,
+    "totalGanado": 157500
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 73,
+    "precioUnitario": 1500,
+    "totalGanado": 109500
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 79,
+    "precioUnitario": 1500,
+    "totalGanado": 118500
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 71,
+    "precioUnitario": 1500,
+    "totalGanado": 106500
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 103,
+    "precioUnitario": 1500,
+    "totalGanado": 154500
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 69,
+    "precioUnitario": 1500,
+    "totalGanado": 103500
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-22",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 66,
+    "precioUnitario": 1500,
+    "totalGanado": 99000
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 60,
+    "precioUnitario": 1500,
+    "totalGanado": 90000
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 89,
+    "precioUnitario": 1500,
+    "totalGanado": 133500
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-29",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 86,
+    "precioUnitario": 1500,
+    "totalGanado": 129000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 89,
+    "precioUnitario": 1500,
+    "totalGanado": 133500
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 79,
+    "precioUnitario": 1500,
+    "totalGanado": 118500
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 88,
+    "precioUnitario": 1500,
+    "totalGanado": 132000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 68,
+    "precioUnitario": 1500,
+    "totalGanado": 102000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 94,
+    "precioUnitario": 1500,
+    "totalGanado": 141000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 91,
+    "precioUnitario": 1500,
+    "totalGanado": 136500
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 90,
+    "precioUnitario": 1500,
+    "totalGanado": 135000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 66,
+    "precioUnitario": 1500,
+    "totalGanado": 99000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 81,
+    "precioUnitario": 1500,
+    "totalGanado": 121500
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 64,
+    "precioUnitario": 1500,
+    "totalGanado": 96000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 94,
+    "precioUnitario": 1500,
+    "totalGanado": 141000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 89,
+    "precioUnitario": 1500,
+    "totalGanado": 133500
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 70,
+    "precioUnitario": 1500,
+    "totalGanado": 105000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-22",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 86,
+    "precioUnitario": 1500,
+    "totalGanado": 129000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 108,
+    "precioUnitario": 1500,
+    "totalGanado": 162000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 110,
+    "precioUnitario": 1500,
+    "totalGanado": 165000
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 79,
+    "precioUnitario": 1500,
+    "totalGanado": 118500
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 76,
+    "precioUnitario": 1500,
+    "totalGanado": 114000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 60,
+    "precioUnitario": 1500,
+    "totalGanado": 90000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 63,
+    "precioUnitario": 1500,
+    "totalGanado": 94500
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 72,
+    "precioUnitario": 1500,
+    "totalGanado": 108000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 77,
+    "precioUnitario": 1500,
+    "totalGanado": 115500
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 79,
+    "precioUnitario": 1500,
+    "totalGanado": 118500
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 96,
+    "precioUnitario": 1500,
+    "totalGanado": 144000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 73,
+    "precioUnitario": 1500,
+    "totalGanado": 109500
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 83,
+    "precioUnitario": 1500,
+    "totalGanado": 124500
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 68,
+    "precioUnitario": 1500,
+    "totalGanado": 102000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 66,
+    "precioUnitario": 1500,
+    "totalGanado": 99000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 104,
+    "precioUnitario": 1500,
+    "totalGanado": 156000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 105,
+    "precioUnitario": 1500,
+    "totalGanado": 157500
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 76,
+    "precioUnitario": 1500,
+    "totalGanado": 114000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 101,
+    "precioUnitario": 1500,
+    "totalGanado": 151500
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 76,
+    "precioUnitario": 1500,
+    "totalGanado": 114000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 84,
+    "precioUnitario": 1500,
+    "totalGanado": 126000
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 67,
+    "precioUnitario": 1500,
+    "totalGanado": 100500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 89,
+    "precioUnitario": 1500,
+    "totalGanado": 133500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 97,
+    "precioUnitario": 1500,
+    "totalGanado": 145500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 61,
+    "precioUnitario": 1500,
+    "totalGanado": 91500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 72,
+    "precioUnitario": 1500,
+    "totalGanado": 108000
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 67,
+    "precioUnitario": 1500,
+    "totalGanado": 100500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 67,
+    "precioUnitario": 1500,
+    "totalGanado": 100500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 108,
+    "precioUnitario": 1500,
+    "totalGanado": 162000
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-12",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 84,
+    "precioUnitario": 1500,
+    "totalGanado": 126000
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 74,
+    "precioUnitario": 1500,
+    "totalGanado": 111000
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 96,
+    "precioUnitario": 1500,
+    "totalGanado": 144000
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 97,
+    "precioUnitario": 1500,
+    "totalGanado": 145500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 63,
+    "precioUnitario": 1500,
+    "totalGanado": 94500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 85,
+    "precioUnitario": 1500,
+    "totalGanado": 127500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 98,
+    "precioUnitario": 1500,
+    "totalGanado": 147000
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-22",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 60,
+    "precioUnitario": 1500,
+    "totalGanado": 90000
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 98,
+    "precioUnitario": 1500,
+    "totalGanado": 147000
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 105,
+    "precioUnitario": 1500,
+    "totalGanado": 157500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 61,
+    "precioUnitario": 1500,
+    "totalGanado": 91500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 105,
+    "precioUnitario": 1500,
+    "totalGanado": 157500
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-29",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 110,
+    "precioUnitario": 1500,
+    "totalGanado": 165000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 108,
+    "precioUnitario": 1500,
+    "totalGanado": 162000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 88,
+    "precioUnitario": 1500,
+    "totalGanado": 132000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 85,
+    "precioUnitario": 1500,
+    "totalGanado": 127500
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 106,
+    "precioUnitario": 1500,
+    "totalGanado": 159000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 62,
+    "precioUnitario": 1500,
+    "totalGanado": 93000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 71,
+    "precioUnitario": 1500,
+    "totalGanado": 106500
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 69,
+    "precioUnitario": 1500,
+    "totalGanado": 103500
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 80,
+    "precioUnitario": 1500,
+    "totalGanado": 120000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 84,
+    "precioUnitario": 1500,
+    "totalGanado": 126000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 67,
+    "precioUnitario": 1500,
+    "totalGanado": 100500
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 90,
+    "precioUnitario": 1500,
+    "totalGanado": 135000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 90,
+    "precioUnitario": 1500,
+    "totalGanado": 135000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 77,
+    "precioUnitario": 1500,
+    "totalGanado": 115500
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-22",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 97,
+    "precioUnitario": 1500,
+    "totalGanado": 145500
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 92,
+    "precioUnitario": 1500,
+    "totalGanado": 138000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 92,
+    "precioUnitario": 1500,
+    "totalGanado": 138000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 70,
+    "precioUnitario": 1500,
+    "totalGanado": 105000
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-29",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 85,
+    "precioUnitario": 1500,
+    "totalGanado": 127500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 92,
+    "precioUnitario": 1500,
+    "totalGanado": 138000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 81,
+    "precioUnitario": 1500,
+    "totalGanado": 121500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 62,
+    "precioUnitario": 1500,
+    "totalGanado": 93000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 92,
+    "precioUnitario": 1500,
+    "totalGanado": 138000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 76,
+    "precioUnitario": 1500,
+    "totalGanado": 114000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 60,
+    "precioUnitario": 1500,
+    "totalGanado": 90000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 91,
+    "precioUnitario": 1500,
+    "totalGanado": 136500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-12",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 85,
+    "precioUnitario": 1500,
+    "totalGanado": 127500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 95,
+    "precioUnitario": 1500,
+    "totalGanado": 142500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 74,
+    "precioUnitario": 1500,
+    "totalGanado": 111000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 87,
+    "precioUnitario": 1500,
+    "totalGanado": 130500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 61,
+    "precioUnitario": 1500,
+    "totalGanado": 91500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 77,
+    "precioUnitario": 1500,
+    "totalGanado": 115500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 69,
+    "precioUnitario": 1500,
+    "totalGanado": 103500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 68,
+    "precioUnitario": 1500,
+    "totalGanado": 102000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-22",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 64,
+    "precioUnitario": 1500,
+    "totalGanado": 96000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 105,
+    "precioUnitario": 1500,
+    "totalGanado": 157500
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 104,
+    "precioUnitario": 1500,
+    "totalGanado": 156000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 78,
+    "precioUnitario": 1500,
+    "totalGanado": 117000
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-29",
+    "labor": "Cosecha Cerezas",
+    "tipoPago": "Trato",
+    "cantidad": 106,
+    "precioUnitario": 1500,
+    "totalGanado": 159000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-04",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-05",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-06",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-07",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-08",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-11",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-12",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-13",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-14",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-15",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-18",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-19",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-20",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-21",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-22",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-25",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-26",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-28",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-29",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-01",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-04",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-05",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-06",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-07",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-08",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-11",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-12",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-14",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-19",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-20",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-21",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-22",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-25",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-27",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-28",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-01",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-04",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-05",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-07",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-08",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-11",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-13",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-14",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-15",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-18",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-19",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-20",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-21",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-25",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-26",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-27",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-28",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-29",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-01",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-04",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-05",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-06",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-07",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-08",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-11",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-13",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-14",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-15",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-18",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-19",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-20",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-21",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-22",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-25",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-26",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-27",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-28",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-29",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-01",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-04",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-05",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-07",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-08",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-11",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-13",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-14",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-15",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-18",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-19",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-21",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-22",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-25",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-26",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-27",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-28",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-29",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-01",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-04",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-05",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-06",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-07",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-08",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-11",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-12",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-13",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-14",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-15",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-18",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-19",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-20",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-21",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-22",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-25",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-26",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-27",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-28",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-29",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-01",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-04",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-05",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-06",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-07",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-08",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-11",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-12",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-13",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-14",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-15",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-18",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-19",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-20",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-21",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-22",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-25",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-27",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-29",
+    "labor": "Packing y Selección",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 22000,
+    "totalGanado": 22000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-22",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Jornal",
+    "cantidad": 1,
+    "precioUnitario": 35000,
+    "totalGanado": 35000
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 60,
+    "precioUnitario": 2200,
+    "totalGanado": 132000
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 55,
+    "precioUnitario": 2200,
+    "totalGanado": 121000
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 75,
+    "precioUnitario": 2200,
+    "totalGanado": 165000
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 73,
+    "precioUnitario": 2200,
+    "totalGanado": 160600
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 77,
+    "precioUnitario": 2200,
+    "totalGanado": 169400
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 75,
+    "precioUnitario": 2200,
+    "totalGanado": 165000
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 75,
+    "precioUnitario": 2200,
+    "totalGanado": 165000
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-12",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 71,
+    "precioUnitario": 2200,
+    "totalGanado": 156200
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 64,
+    "precioUnitario": 2200,
+    "totalGanado": 140800
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 52,
+    "precioUnitario": 2200,
+    "totalGanado": 114400
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 79,
+    "precioUnitario": 2200,
+    "totalGanado": 173800
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 63,
+    "precioUnitario": 2200,
+    "totalGanado": 138600
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 77,
+    "precioUnitario": 2200,
+    "totalGanado": 169400
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-22",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 64,
+    "precioUnitario": 2200,
+    "totalGanado": 140800
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 42,
+    "precioUnitario": 2200,
+    "totalGanado": 92400
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 70,
+    "precioUnitario": 2200,
+    "totalGanado": 154000
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 60,
+    "precioUnitario": 2200,
+    "totalGanado": 132000
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 69,
+    "precioUnitario": 2200,
+    "totalGanado": 151800
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-29",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 41,
+    "precioUnitario": 2200,
+    "totalGanado": 90200
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 48,
+    "precioUnitario": 2200,
+    "totalGanado": 105600
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 69,
+    "precioUnitario": 2200,
+    "totalGanado": 151800
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 49,
+    "precioUnitario": 2200,
+    "totalGanado": 107800
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 54,
+    "precioUnitario": 2200,
+    "totalGanado": 118800
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 40,
+    "precioUnitario": 2200,
+    "totalGanado": 88000
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 44,
+    "precioUnitario": 2200,
+    "totalGanado": 96800
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-12",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 73,
+    "precioUnitario": 2200,
+    "totalGanado": 160600
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 76,
+    "precioUnitario": 2200,
+    "totalGanado": 167200
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 54,
+    "precioUnitario": 2200,
+    "totalGanado": 118800
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 69,
+    "precioUnitario": 2200,
+    "totalGanado": 151800
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 42,
+    "precioUnitario": 2200,
+    "totalGanado": 92400
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 63,
+    "precioUnitario": 2200,
+    "totalGanado": 138600
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 54,
+    "precioUnitario": 2200,
+    "totalGanado": 118800
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 47,
+    "precioUnitario": 2200,
+    "totalGanado": 103400
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 70,
+    "precioUnitario": 2200,
+    "totalGanado": 154000
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 40,
+    "precioUnitario": 2200,
+    "totalGanado": 88000
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 47,
+    "precioUnitario": 2200,
+    "totalGanado": 103400
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 42,
+    "precioUnitario": 2200,
+    "totalGanado": 92400
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-29",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 46,
+    "precioUnitario": 2200,
+    "totalGanado": 101200
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 57,
+    "precioUnitario": 2200,
+    "totalGanado": 125400
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 60,
+    "precioUnitario": 2200,
+    "totalGanado": 132000
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 63,
+    "precioUnitario": 2200,
+    "totalGanado": 138600
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 79,
+    "precioUnitario": 2200,
+    "totalGanado": 173800
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 56,
+    "precioUnitario": 2200,
+    "totalGanado": 123200
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 40,
+    "precioUnitario": 2200,
+    "totalGanado": 88000
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 64,
+    "precioUnitario": 2200,
+    "totalGanado": 140800
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-12",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 46,
+    "precioUnitario": 2200,
+    "totalGanado": 101200
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 43,
+    "precioUnitario": 2200,
+    "totalGanado": 94600
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 63,
+    "precioUnitario": 2200,
+    "totalGanado": 138600
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 41,
+    "precioUnitario": 2200,
+    "totalGanado": 90200
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 50,
+    "precioUnitario": 2200,
+    "totalGanado": 110000
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 43,
+    "precioUnitario": 2200,
+    "totalGanado": 94600
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 59,
+    "precioUnitario": 2200,
+    "totalGanado": 129800
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 66,
+    "precioUnitario": 2200,
+    "totalGanado": 145200
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-22",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 69,
+    "precioUnitario": 2200,
+    "totalGanado": 151800
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 70,
+    "precioUnitario": 2200,
+    "totalGanado": 154000
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 47,
+    "precioUnitario": 2200,
+    "totalGanado": 103400
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 69,
+    "precioUnitario": 2200,
+    "totalGanado": 151800
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-29",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 47,
+    "precioUnitario": 2200,
+    "totalGanado": 103400
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-04",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 63,
+    "precioUnitario": 2200,
+    "totalGanado": 138600
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 42,
+    "precioUnitario": 2200,
+    "totalGanado": 92400
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-08",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 69,
+    "precioUnitario": 2200,
+    "totalGanado": 151800
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 52,
+    "precioUnitario": 2200,
+    "totalGanado": 114400
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-12",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 74,
+    "precioUnitario": 2200,
+    "totalGanado": 162800
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 58,
+    "precioUnitario": 2200,
+    "totalGanado": 127600
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 40,
+    "precioUnitario": 2200,
+    "totalGanado": 88000
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 77,
+    "precioUnitario": 2200,
+    "totalGanado": 169400
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 57,
+    "precioUnitario": 2200,
+    "totalGanado": 125400
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 52,
+    "precioUnitario": 2200,
+    "totalGanado": 114400
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 47,
+    "precioUnitario": 2200,
+    "totalGanado": 103400
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 49,
+    "precioUnitario": 2200,
+    "totalGanado": 107800
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 40,
+    "precioUnitario": 2200,
+    "totalGanado": 88000
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-29",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 41,
+    "precioUnitario": 2200,
+    "totalGanado": 90200
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-01",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 61,
+    "precioUnitario": 2200,
+    "totalGanado": 134200
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-05",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 77,
+    "precioUnitario": 2200,
+    "totalGanado": 169400
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-06",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 78,
+    "precioUnitario": 2200,
+    "totalGanado": 171600
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-07",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 49,
+    "precioUnitario": 2200,
+    "totalGanado": 107800
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-11",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 55,
+    "precioUnitario": 2200,
+    "totalGanado": 121000
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-12",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 42,
+    "precioUnitario": 2200,
+    "totalGanado": 92400
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-13",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 42,
+    "precioUnitario": 2200,
+    "totalGanado": 92400
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-14",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 62,
+    "precioUnitario": 2200,
+    "totalGanado": 136400
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-15",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 66,
+    "precioUnitario": 2200,
+    "totalGanado": 145200
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-18",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 57,
+    "precioUnitario": 2200,
+    "totalGanado": 125400
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-19",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 57,
+    "precioUnitario": 2200,
+    "totalGanado": 125400
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-20",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 50,
+    "precioUnitario": 2200,
+    "totalGanado": 110000
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-21",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 45,
+    "precioUnitario": 2200,
+    "totalGanado": 99000
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-25",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 48,
+    "precioUnitario": 2200,
+    "totalGanado": 105600
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-26",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 80,
+    "precioUnitario": 2200,
+    "totalGanado": 176000
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-27",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 58,
+    "precioUnitario": 2200,
+    "totalGanado": 127600
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-28",
+    "labor": "Cosecha Arándanos",
+    "tipoPago": "Trato",
+    "cantidad": 80,
+    "precioUnitario": 2200,
+    "totalGanado": 176000
+  }
+]

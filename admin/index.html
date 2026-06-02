@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JPD Servicios Agrícolas | Panel de Administración</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@400;600;700;800&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+  
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="/admin/css/admin.css">
+</head>
+<body>
+
+  <!-- App Shell Container -->
+  <div class="app-container">
+
+    <!-- 1. LEFT SIDEBAR (GLASSMORPHISM) -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <img src="/assets/images/logo jpd.jpg" alt="Logo JPD" class="sidebar-logo">
+        <div class="sidebar-title">
+          <span class="brand-name">JPD</span>
+          <span class="brand-subname">Servicios Agrícolas</span>
+        </div>
+      </div>
+
+      <nav class="sidebar-nav">
+        <ul>
+          <li>
+            <a href="#dashboard" class="nav-tab active" data-tab="dashboard">
+              <span class="material-symbols-outlined">dashboard</span>
+              <span>Dashboard</span>
+            </a>
+          </li>
+          <li>
+            <a href="#asistencia" class="nav-tab" data-tab="asistencia">
+              <span class="material-symbols-outlined">checklist</span>
+              <span>Libro Asistencia</span>
+            </a>
+          </li>
+          <li>
+            <a href="#tarjas" class="nav-tab" data-tab="tarjas">
+              <span class="material-symbols-outlined">edit_note</span>
+              <span>Tarja Diaria</span>
+            </a>
+          </li>
+          <li>
+            <a href="#personal" class="nav-tab" data-tab="personal">
+              <span class="material-symbols-outlined">group</span>
+              <span>Planilla Personal</span>
+            </a>
+          </li>
+          <li>
+            <a href="#finanzas" class="nav-tab" data-tab="finanzas">
+              <span class="material-symbols-outlined">payments</span>
+              <span>Sueldos y Finanzas</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="admin-user-card">
+          <div class="user-avatar">JP</div>
+          <div class="user-info">
+            <span class="user-name">Don Jorge Pailamilla</span>
+            <span class="user-role">Administrador</span>
+          </div>
+        </div>
+        <button id="btn-logout" class="btn-logout">
+          <span class="material-symbols-outlined">logout</span>
+          <span>Cerrar Sesión</span>
+        </button>
+      </div>
+    </aside>
+
+    <!-- 2. MAIN CONTENT AREA -->
+    <main class="main-content">
+
+      <!-- TOP NAVBAR -->
+      <header class="content-header">
+        <div class="header-left">
+          <h1 id="view-title">Dashboard General</h1>
+          <p id="view-subtitle" class="text-muted">Resumen del estado financiero y operativo hoy</p>
+        </div>
+        <div class="header-right">
+          <div class="current-date-badge">
+            <span class="material-symbols-outlined">calendar_today</span>
+            <span id="header-date">Cargando...</span>
+          </div>
+        </div>
+      </header>
+
+      <!-- VIEW PANELS (SPA tabs) -->
+
+      <!-- A. DASHBOARD VIEW -->
+      <section id="panel-dashboard" class="view-panel active">
+        <!-- 4 KPI Cards -->
+        <div class="kpi-grid">
+          <div class="kpi-card blue-glow">
+            <div class="kpi-icon-wrapper blue">
+              <span class="material-symbols-outlined">groups</span>
+            </div>
+            <div class="kpi-info">
+              <span class="kpi-label">Dotación Activa Hoy</span>
+              <h3 class="kpi-value" id="kpi-dotacion">0 / 0</h3>
+              <span class="kpi-detail">Operando en terreno</span>
+            </div>
+          </div>
+
+          <div class="kpi-card green-glow">
+            <div class="kpi-icon-wrapper green">
+              <span class="material-symbols-outlined">trending_up</span>
+            </div>
+            <div class="kpi-info">
+              <span class="kpi-label">Ingresos Proyectados</span>
+              <h3 class="kpi-value" id="kpi-ingresos">$0</h3>
+              <span class="kpi-detail">Facturación a clientes</span>
+            </div>
+          </div>
+
+          <div class="kpi-card white-glow">
+            <div class="kpi-icon-wrapper white">
+              <span class="material-symbols-outlined">receipt_long</span>
+            </div>
+            <div class="kpi-info">
+              <span class="kpi-label">Costos Planilla (Mes)</span>
+              <h3 class="kpi-value" id="kpi-costos">$0</h3>
+              <span class="kpi-detail">Sueldos y bonificaciones</span>
+            </div>
+          </div>
+
+          <div class="kpi-card gold-glow">
+            <div class="kpi-icon-wrapper gold">
+              <span class="material-symbols-outlined">savings</span>
+            </div>
+            <div class="kpi-info">
+              <span class="kpi-label">Ganancia Neta</span>
+              <h3 class="kpi-value" id="kpi-ganancia">$0</h3>
+              <span class="kpi-detail" id="kpi-ganancia-porcentaje">Margen: 0%</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Charts Grid -->
+        <div class="dashboard-grid">
+          <div class="chart-card glass-card">
+            <h3 class="card-title">Comparativa Financiera 2026</h3>
+            <div class="chart-container">
+              <canvas id="chart-finanzas"></canvas>
+            </div>
+          </div>
+          
+          <div class="chart-card glass-card">
+            <h3 class="card-title">Distribución de Gastos Operativos</h3>
+            <div class="chart-container">
+              <canvas id="chart-gastos"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <!-- Recent Transactions -->
+        <div class="recent-transactions-card glass-card">
+          <h3 class="card-title">Últimos Movimientos Financieros</h3>
+          <div class="table-responsive">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Fecha</th>
+                  <th>Categoría</th>
+                  <th>Detalle</th>
+                  <th>Monto</th>
+                  <th>Tipo</th>
+                </tr>
+              </thead>
+              <tbody id="tbody-movimientos">
+                <!-- Loaded via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- B. ASISTENCIA VIEW -->
+      <section id="panel-asistencia" class="view-panel">
+        <div class="filter-bar glass-card">
+          <div class="filter-group">
+            <label for="asistencia-date">Fecha de Registro</label>
+            <input type="date" id="asistencia-date" class="form-input">
+          </div>
+          <div class="filter-group">
+            <label for="asistencia-cuadrilla">Filtrar por Cuadrilla</label>
+            <select id="asistencia-cuadrilla" class="form-select">
+              <option value="all">Todas las Cuadrillas</option>
+              <!-- Loaded via JS -->
+            </select>
+          </div>
+          <button id="btn-save-asistencia" class="btn btn-secondary">
+            <span class="material-symbols-outlined">save</span>
+            <span>Guardar Cambios</span>
+          </button>
+        </div>
+
+        <div class="table-responsive glass-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Trabajador</th>
+                <th>Cuadrilla</th>
+                <th>Estado Asistencia</th>
+                <th>Ingreso</th>
+                <th>Salida</th>
+                <th class="text-center">Uso Furgón JPD</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-asistencia">
+              <!-- Loaded via JS -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- C. TARJAS VIEW -->
+      <section id="panel-tarjas" class="view-panel">
+        <div class="filter-bar glass-card">
+          <div class="filter-group">
+            <label for="tarja-date">Fecha de Producción</label>
+            <input type="date" id="tarja-date" class="form-input">
+          </div>
+          <button id="btn-save-tarjas" class="btn btn-secondary">
+            <span class="material-symbols-outlined">save</span>
+            <span>Guardar Tarjas</span>
+          </button>
+        </div>
+
+        <div class="table-responsive glass-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Trabajador</th>
+                <th>Cuadrilla / Labor</th>
+                <th>Tipo Pago</th>
+                <th>Cantidad Producida</th>
+                <th>Valor Unitario</th>
+                <th>Total del Día</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-tarjas">
+              <!-- Loaded via JS -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- D. PERSONAL VIEW -->
+      <section id="panel-personal" class="view-panel">
+        <div class="filter-bar glass-card flex-between">
+          <div class="search-wrapper">
+            <span class="material-symbols-outlined search-icon">search</span>
+            <input type="text" id="search-personal" class="form-input search-input" placeholder="Buscar trabajador por nombre o RUT...">
+          </div>
+          <button id="btn-open-nuevo-trabajador" class="btn btn-primary">
+            <span class="material-symbols-outlined">person_add</span>
+            <span>Contratar Trabajador</span>
+          </button>
+        </div>
+
+        <div class="table-responsive glass-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Trabajador</th>
+                <th>RUT</th>
+                <th>Comuna</th>
+                <th>Teléfono</th>
+                <th>Cuadrilla</th>
+                <th>Rol</th>
+                <th>Estado</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-personal">
+              <!-- Loaded via JS -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- E. FINANZAS VIEW -->
+      <section id="panel-finanzas" class="view-panel">
+        <!-- Sub navigation tabs inside Finanzas module -->
+        <div class="tabs-subnav">
+          <button class="subtab-btn active" data-subtab="finanzas-resumen">Resumen Financiero</button>
+          <button class="subtab-btn" data-subtab="finanzas-planilla">Planilla Liquidaciones</button>
+          <button class="subtab-btn" data-subtab="finanzas-anticipos">Control Anticipos</button>
+        </div>
+
+        <!-- Subtab 1: Resumen -->
+        <div id="subtab-finanzas-resumen" class="subtab-content active">
+          <div class="financial-dashboard-grid">
+            <div class="glass-card billings-card">
+              <h3 class="card-title">Facturación Mensual por Exportadoras</h3>
+              <ul class="billing-list" id="billing-clients-list">
+                <!-- Loaded via JS -->
+              </ul>
+            </div>
+            
+            <div class="glass-card expenses-card">
+              <h3 class="card-title">Desglose de Gastos Operativos</h3>
+              <ul class="expense-breakdown-list" id="expenses-list">
+                <!-- Loaded via JS -->
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Subtab 2: Planilla Liquidaciones -->
+        <div id="subtab-finanzas-planilla" class="subtab-content">
+          <div class="table-responsive glass-card">
+            <table class="data-table text-sm">
+              <thead>
+                <tr>
+                  <th>Nombre</th>
+                  <th>Días Trab.</th>
+                  <th>Sueldo Base</th>
+                  <th>Bono Asist.</th>
+                  <th>Bono Prod.</th>
+                  <th>Colación / Mov.</th>
+                  <th>Anticipo Q.</th>
+                  <th>Adelantos</th>
+                  <th>Líquido</th>
+                  <th>Acción</th>
+                </tr>
+              </thead>
+              <tbody id="tbody-liquidaciones">
+                <!-- Loaded via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Subtab 3: Control Anticipos y Adelantos -->
+        <div id="subtab-finanzas-anticipos" class="subtab-content">
+          <div class="anticipos-split-grid">
+            <div class="glass-card">
+              <h3 class="card-title">Registrar Adelanto / Modificar Descuentos</h3>
+              <p class="card-subtitle">Utiliza este formulario para fijar anticipos o registrar préstamos de dinero solicitados por los trabajadores.</p>
+              
+              <form id="form-anticipo" class="portal-form">
+                <div class="form-group">
+                  <label for="ant-trabajador">Trabajador</label>
+                  <select id="ant-trabajador" class="form-select" required>
+                    <option value="" disabled selected>Seleccione trabajador...</option>
+                    <!-- Loaded via JS -->
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="ant-quincena">Anticipo Quincenal Fijo (CLP)</label>
+                  <input type="number" id="ant-quincena" class="form-input" min="0" value="150000" required>
+                </div>
+                <div class="form-group">
+                  <label for="ant-adelanto">Adelanto de Emergencia Solicitado (CLP)</label>
+                  <input type="number" id="ant-adelanto" class="form-input" min="0" value="0" required>
+                </div>
+                <div class="form-group">
+                  <label for="ant-descuentos">Otros Descuentos (EPP dañado, multas) (CLP)</label>
+                  <input type="number" id="ant-descuentos" class="form-input" min="0" value="0" required>
+                </div>
+                <button type="submit" class="btn btn-secondary btn-block uppercase-track">Aplicar a Remuneraciones</button>
+              </form>
+            </div>
+
+            <div class="glass-card">
+              <h3 class="card-title">Resumen de Egresos Planilla (Mayo 2026)</h3>
+              <div class="financial-summary-box">
+                <div class="summary-row">
+                  <span>Total Sueldos Líquidos:</span>
+                  <strong id="sum-sueldos-liquidos">$0</strong>
+                </div>
+                <div class="summary-row">
+                  <span>Total Anticipos Quincenales:</span>
+                  <strong id="sum-anticipos">$0</strong>
+                </div>
+                <div class="summary-row">
+                  <span>Total Adelantos Solicitados:</span>
+                  <strong id="sum-adelantos">$0</strong>
+                </div>
+                <div class="summary-row">
+                  <span>Otros Descuentos:</span>
+                  <strong id="sum-descuentos">$0</strong>
+                </div>
+                <div class="summary-row divider">
+                  <span>Total Desembolso Planilla:</span>
+                  <strong id="sum-planilla-total" class="text-blue">$0</strong>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+  </div>
+
+  <!-- ---------------------------------------------------- -->
+  <!-- MODAL: CONTRATAR TRABAJADOR -->
+  <!-- ---------------------------------------------------- -->
+  <div class="modal-overlay" id="modal-nuevo-trabajador">
+    <div class="modal-card">
+      <button class="modal-close-btn" id="btn-close-modal-trabajador">
+        <span class="material-symbols-outlined">close</span>
+      </button>
+      <div class="modal-header">
+        <h3 class="modal-title">Ficha de Contratación</h3>
+        <p class="modal-subtitle">Ingrese los datos para incorporar el trabajador a las planillas de JPD</p>
+      </div>
+      <form id="form-nuevo-trabajador" class="portal-form">
+        <div class="form-group">
+          <label for="new-nombre">Nombre Completo</label>
+          <input type="text" id="new-nombre" class="form-input" placeholder="Ej: Juan Antonio Pérez" required>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="new-rut">RUT</label>
+            <input type="text" id="new-rut" class="form-input" placeholder="Ej: 18.234.567-8" required>
+          </div>
+          <div class="form-group">
+            <label for="new-telefono">Teléfono</label>
+            <input type="tel" id="new-telefono" class="form-input" placeholder="Ej: +56 9 1234 5678" required>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="new-comuna">Comuna</label>
+            <input type="text" id="new-comuna" class="form-input" placeholder="Ej: Las Cabras" required>
+          </div>
+          <div class="form-group">
+            <label for="new-cuadrilla">Asignar Cuadrilla</label>
+            <select id="new-cuadrilla" class="form-select" required>
+              <!-- Loaded via JS -->
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="new-rol">Cargo / Rol en Faena</label>
+          <select id="new-rol" class="form-select" required>
+            <option value="Cosechador">Cosechador</option>
+            <option value="Cosechadora">Cosechadora</option>
+            <option value="Op. Packing">Operario(a) Packing</option>
+            <option value="Caporal">Caporal / Jefe de Cuadrilla</option>
+          </select>
+        </div>
+        <div class="form-row border-top">
+          <div class="form-group">
+            <label for="new-banco">Banco para Transferencias</label>
+            <input type="text" id="new-banco" class="form-input" placeholder="Ej: Banco Estado" required>
+          </div>
+          <div class="form-group">
+            <label for="new-tipo-cuenta">Tipo Cuenta</label>
+            <select id="new-tipo-cuenta" class="form-select" required>
+              <option value="Cuenta RUT">Cuenta RUT</option>
+              <option value="Cuenta Corriente">Cuenta Corriente</option>
+              <option value="Cuenta Vista">Cuenta Vista</option>
+              <option value="Cuenta Ahorro">Cuenta Ahorro</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="new-numero-cuenta">Número de Cuenta</label>
+          <input type="text" id="new-numero-cuenta" class="form-input" placeholder="Ej: 18234567" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block uppercase-track">Registrar Contratación</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- ---------------------------------------------------- -->
+  <!-- MODAL: LIQUIDACIÓN DE SUELDO CHILENA (PRINT VIEW) -->
+  <!-- ---------------------------------------------------- -->
+  <div class="modal-overlay" id="modal-liquidacion-detalle">
+    <div class="modal-card print-card">
+      <button class="modal-close-btn no-print" id="btn-close-modal-liquidacion">
+        <span class="material-symbols-outlined">close</span>
+      </button>
+      
+      <!-- Premium Slip Design -->
+      <div class="slip-container">
+        
+        <!-- Header -->
+        <div class="slip-header">
+          <div class="slip-company">
+            <strong>JPD SERVICIOS AGRÍCOLAS</strong><br>
+            <span>Jorge "Kitto" Pailamilla</span><br>
+            <span>RUT: 12.546.879-K</span><br>
+            <span>Gral. Carrera 422, Las Cabras</span>
+          </div>
+          <div class="slip-title">
+            <h2>LIQUIDACIÓN DE SUELDO</h2>
+            <span>PERÍODO: MAYO 2026</span>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- Worker Information -->
+        <div class="slip-worker-info">
+          <div class="info-col">
+            <p><strong>TRABAJADOR:</strong> <span id="slip-w-nombre">...</span></p>
+            <p><strong>R.U.T:</strong> <span id="slip-w-rut">...</span></p>
+            <p><strong>CARGO:</strong> <span id="slip-w-rol">...</span></p>
+          </div>
+          <div class="info-col">
+            <p><strong>FAENA/CLIENTE:</strong> <span id="slip-w-fundo">...</span></p>
+            <p><strong>DÍAS TRABAJADOS:</strong> <span id="slip-w-dias">0</span></p>
+            <p><strong>CUADRILLA N°:</strong> <span id="slip-w-cuadrilla">0</span></p>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- Table of Earnings & Discounts -->
+        <table class="slip-table">
+          <thead>
+            <tr>
+              <th>DETALLE DE HABERES (INGRESOS)</th>
+              <th class="text-right">MONTO ($)</th>
+              <th>DETALLE DE DESCUENTOS</th>
+              <th class="text-right">MONTO ($)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Sueldo Base (Tratos/Jornales)</td>
+              <td class="text-right" id="slip-h-base">$0</td>
+              <td>Anticipo Quincenal Recibido</td>
+              <td class="text-right text-red" id="slip-d-quincena">-$0</td>
+            </tr>
+            <tr>
+              <td>Bono Asistencia Favorable</td>
+              <td class="text-right" id="slip-h-bono-asistencia">$0</td>
+              <td>Adelantos Adicionales Solicitados</td>
+              <td class="text-right text-red" id="slip-d-adelantos">-$0</td>
+            </tr>
+            <tr>
+              <td>Bono de Producción Excelente</td>
+              <td class="text-right" id="slip-h-bono-produccion">$0</td>
+              <td>Otros Descuentos Administrativos</td>
+              <td class="text-right text-red" id="slip-d-otros">-$0</td>
+            </tr>
+            <tr>
+              <td>Asignación de Colación diaria</td>
+              <td class="text-right" id="slip-h-colacion">$0</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Asignación de Movilización</td>
+              <td class="text-right" id="slip-h-movilizacion">$0</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr class="slip-subtotal-row">
+              <td><strong>TOTAL HABERES</strong></td>
+              <td class="text-right" id="slip-h-total">$0</td>
+              <td><strong>TOTAL DESCUENTOS</strong></td>
+              <td class="text-right" id="slip-d-total">$0</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <!-- NET PAYOUT -->
+        <div class="slip-net-box">
+          <span>SUELDO LÍQUIDO A PAGAR (NETO):</span>
+          <h1 id="slip-liquido-total">$0</h1>
+        </div>
+
+        <!-- Bank Details and Signatures -->
+        <div class="slip-bank-box">
+          <p><strong>MÉTODO DE PAGO:</strong> TRANSFERENCIA ELECTRÓNICA | <span id="slip-banco-nombre">BANCO</span> Cuenta <span id="slip-banco-cuenta">00000</span></p>
+        </div>
+
+        <div class="slip-signatures">
+          <div class="sig-block">
+            <div class="sig-line"></div>
+            <span>Jorge Pailamilla</span>
+            <span class="sub">Empleador</span>
+          </div>
+          <div class="sig-block">
+            <div class="sig-line"></div>
+            <span>Firma Trabajador</span>
+            <span class="sub">Recibí Conforme</span>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="slip-print-actions no-print">
+        <button onclick="window.print()" class="btn btn-secondary">
+          <span class="material-symbols-outlined">print</span>
+          <span>Imprimir Liquidación</span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="/admin/js/charts.js"></script>
+  <script src="/admin/js/admin.js"></script>
+</body>
+</html>

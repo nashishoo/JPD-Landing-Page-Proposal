@@ -851,7 +851,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Handle Mockup Login Form Submission
     if (loginForm && loginStatus) {
-        loginForm.addEventListener('submit', (e) => {
+        loginForm.addEventListener('submit', async (e) => {
             e.preventDefault();
             const username = document.getElementById('login-username').value.trim();
             const password = document.getElementById('login-password').value;
@@ -861,12 +861,28 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
-            // Mockup: Accept any credentials with high-end success feedback and dynamic transition
-            showStatus(loginStatus, '¡Sesión iniciada con éxito! Redirigiendo al panel administrativo de JPD...', 'success');
-            
-            setTimeout(() => {
-                closeLoginModal();
-            }, 2500);
+            try {
+                const response = await fetch('/api/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    sessionStorage.setItem('jpd_token', data.token);
+                    showStatus(loginStatus, '¡Sesión iniciada con éxito! Redirigiendo al panel administrativo...', 'success');
+                    setTimeout(() => {
+                        window.location.href = '/admin';
+                    }, 1200);
+                } else {
+                    showStatus(loginStatus, data.message || 'Usuario o contraseña incorrectos.', 'error');
+                }
+            } catch (err) {
+                console.error('Error durante el inicio de sesión:', err);
+                showStatus(loginStatus, 'Error de conexión con el servidor.', 'error');
+            }
         });
     }
 });

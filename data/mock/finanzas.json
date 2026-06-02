@@ -1,0 +1,75 @@
+{
+  "resumenMensual": {
+    "mayo2026": {
+      "ingresosFacturados": 20500000,
+      "costosPlanilla": 14200000,
+      "gastosOperativos": {
+        "petroleo": 850000,
+        "colaciones": 320000,
+        "epp": 180000,
+        "otros": 800000
+      },
+      "totalGastosOperativos": 2150000,
+      "margenNeto": 4150000,
+      "porcentajeMargen": 20.24
+    }
+  },
+  "movimientosRecientes": [
+    {
+      "id": 1,
+      "fecha": "2026-05-28",
+      "tipo": "Ingreso",
+      "descripcion": "Factura N°492 - Verfrut (Cosecha Cerezas)",
+      "monto": 8500000,
+      "categoria": "Facturación"
+    },
+    {
+      "id": 2,
+      "fecha": "2026-05-27",
+      "tipo": "Egreso",
+      "descripcion": "Carga Combustible Furgón Cuadrilla 1",
+      "monto": 45000,
+      "categoria": "Combustible"
+    },
+    {
+      "id": 3,
+      "fecha": "2026-05-26",
+      "tipo": "Egreso",
+      "descripcion": "Adelanto Emergencia - Diego Valenzuela",
+      "monto": 30000,
+      "categoria": "Adelanto"
+    },
+    {
+      "id": 4,
+      "fecha": "2026-05-25",
+      "tipo": "Ingreso",
+      "descripcion": "Factura N°491 - Copefrut (Packing Uvas)",
+      "monto": 6200000,
+      "categoria": "Facturación"
+    },
+    {
+      "id": 5,
+      "fecha": "2026-05-20",
+      "tipo": "Egreso",
+      "descripcion": "Anticipos Quincenales Cuadrillas JPD",
+      "monto": 3500000,
+      "categoria": "Anticipos"
+    },
+    {
+      "id": 6,
+      "fecha": "2026-05-18",
+      "tipo": "Egreso",
+      "descripcion": "Compra Colaciones Semanales Las Cabras",
+      "monto": 80000,
+      "categoria": "Alimentación"
+    },
+    {
+      "id": 7,
+      "fecha": "2026-05-15",
+      "tipo": "Egreso",
+      "descripcion": "Compra Antiparras y Guantes de Cosecha",
+      "monto": 180000,
+      "categoria": "EPP"
+    }
+  ]
+}

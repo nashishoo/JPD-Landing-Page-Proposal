@@ -1,0 +1,3362 @@
+[
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:20",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-06",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:20",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 1,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:23",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-11",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-15",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-26",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-27",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:24",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 2,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:36",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-12",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:35",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:31",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-20",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:23",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 3,
+    "fecha": "2026-05-29",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:33",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:22",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:39",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-12",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-13",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:22",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-22",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:25",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 4,
+    "fecha": "2026-05-29",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:25",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:31",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:34",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-19",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 5,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:20",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-07",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-12",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:24",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:27",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-26",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:37",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 6,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:23",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:37",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-28",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 7,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:20",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-01",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:20",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:25",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:25",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:33",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-27",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 8,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:29",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:26",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-13",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-15",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-18",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-26",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:29",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 9,
+    "fecha": "2026-05-29",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:26",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-06",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-12",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:21",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:23",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-22",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:32",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 10,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:20",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-12",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 11,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-06",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:38",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-12",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:31",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-20",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:30",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:31",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 12,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:37",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:29",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 13,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:29",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:36",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-26",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-28",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 14,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-05",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:34",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-12",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 15,
+    "fecha": "2026-05-29",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:39",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:20",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-14",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-18",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:31",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:35",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 16,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:33",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-04",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:23",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:36",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:24",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-22",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 17,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:26",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:40",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:21",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:31",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:21",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-22",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "08:03",
+    "horaSalida": "17:21",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-26",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 18,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:35",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-01",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-04",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-05",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:37",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-07",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-08",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:29",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "08:02",
+    "horaSalida": "17:20",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-13",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:23",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:30",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-22",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-25",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:34",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-27",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "08:01",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 19,
+    "fecha": "2026-05-29",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-01",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:29",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-04",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-05",
+    "estado": "Presente",
+    "horaIngreso": "07:58",
+    "horaSalida": "17:27",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-06",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:40",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-07",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-08",
+    "estado": "Licencia",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-11",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-12",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:39",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-13",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-14",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:26",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-15",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:28",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-18",
+    "estado": "Presente",
+    "horaIngreso": "07:56",
+    "horaSalida": "17:36",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-19",
+    "estado": "Presente",
+    "horaIngreso": "08:00",
+    "horaSalida": "17:25",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-20",
+    "estado": "Presente",
+    "horaIngreso": "07:57",
+    "horaSalida": "17:22",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-21",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:31",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-22",
+    "estado": "Ausente",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-25",
+    "estado": "Presente",
+    "horaIngreso": "07:59",
+    "horaSalida": "17:36",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-26",
+    "estado": "Presente",
+    "horaIngreso": "08:05",
+    "horaSalida": "17:32",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-27",
+    "estado": "Presente",
+    "horaIngreso": "08:04",
+    "horaSalida": "17:25",
+    "usoTransporte": false
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-28",
+    "estado": "Presente",
+    "horaIngreso": "07:55",
+    "horaSalida": "17:38",
+    "usoTransporte": true
+  },
+  {
+    "trabajadorId": 20,
+    "fecha": "2026-05-29",
+    "estado": "Permiso",
+    "horaIngreso": "",
+    "horaSalida": "",
+    "usoTransporte": false
+  }
+]
